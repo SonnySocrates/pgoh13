@@ -1,0 +1,707 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="description" content="Info à volonté. Ce site a pour vocation, en regroupant des liens utiles en un seul et même endroit, de faciliter votre recherche d'informations sur divers sujets">
+<title>L'info à volonté, tout sur Paris, info à volonté</title>
+
+<!-- For google site search -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+</script>
+ <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="css/mdb.min.css" rel="stylesheet">
+  <!-- below emeraude_hugescreen.css needed for top nav to work esp container-fluid class -->
+<link rel="stylesheet" href="emeraude_hugescreen.css">
+
+<style>
+html,
+body,
+* {background color:white !imp;max-width:1200px;margin-left:2px;}
+header,
+#intro {
+    height: 100%;
+margin-bottom:10px;
+margin-left:7px;}
+
+#intro {
+    background: url("opaque_background.jpg")no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100% 100%; <!-- this makes the difference -->
+background-attachment: scroll;
+background-position: center top;
+}
+
+video {
+  width: 800px;
+  height: 600px;
+}
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: relative;
+	top: 0;
+	left: 0;
+	width: 800px;max-width:800px;
+	height: 600px;
+}
+</style>
+
+<!-- Below script is for showing part of longer text Source: cssnewbiedotcom/showhide-content-css-javascript/ -->
+<script language="javascript" type="text/javascript">
+function showHide(shID) {
+   if (document.getElementById(shID)) {
+      if (document.getElementById(shID+'-show').style.display != 'none') {
+         document.getElementById(shID+'-show').style.display = 'none';
+         document.getElementById(shID).style.display = 'block';
+      }
+      else {
+         document.getElementById(shID+'-show').style.display = 'inline';
+         document.getElementById(shID).style.display = 'none';
+      }
+   }
+}
+</script>
+
+<style>
+.more {
+	display: none;
+	border-top: 1px solid #666;
+	border-bottom: 1px solid #666; }
+a.showLink, a.hideLink {
+	text-decoration: none;
+	color: #36f;
+	padding-left: 8px;
+	background: transparent url('down.gif') no-repeat left; }
+a.hideLink {
+	background: transparent url('up.gif') no-repeat left; }
+a.showLink:hover, a.hideLink:hover {
+	border-bottom: 1px dotted #36f; }
+</style>
+
+<style>
+.jumbotron {
+  background: url('journaux.jpg') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+font-family:arial;margin-left:15px;padding-left:15px;
+border:1px solid black;
+}
+</style>
+
+    <style>
+        .social-media-row {
+            display: flex;
+            justify-content: center;
+        gap: 10px;
+            flex-wrap: wrap;
+        }
+        .social-media-row a {
+            text-decoration: none;
+            color: inherit;
+        }
+        .social-media-row img {
+            width: 32px;
+            height: 32px;
+        }
+    </style>
+
+<style>
+/* to have all the links in a row with little spacing */
+.clean-links a {
+  all: unset;
+  display: inline-block;
+  color: #0077cc; /* your link color */
+  text-decoration: none;
+  cursor: pointer;
+  margin: 0 1px;
+  font-family: inherit;
+  font-size: 16px; /* or whatever base size you use */
+  line-height: 1.5;
+}
+
+.clean-links {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  box-sizing: border-box;
+}
+</style>
+
+<style>
+    /* to have balloon text...Container for the paragraph */
+    .paragraph-container {
+      position: relative;
+      max-width: 600px;
+      margin: 50px auto;
+      font-size: 18px;
+      line-height: 1.5;
+    }
+
+    /* Tooltip styling */
+    .tooltip {
+      position: absolute;
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      border-radius: 5px;
+      font-size: 16px;
+      max-width: 500px;
+      z-index: 10;
+      opacity: 0;
+      visibility: hidden;
+      transition: opacity 0.3s, visibility 0.3s;
+      top: -100%;
+      left: 50%;
+      transform: translateX(-50%);
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    }
+
+    /* Show tooltip on hover */
+    .paragraph-container:hover .tooltip {
+      opacity: 1;
+      visibility: visible;
+    }
+
+    /* Optional: Add a small triangle below the tooltip */
+    .tooltip::after {
+      content: '';
+      position: absolute;
+      top: 100%;
+      left: 50%;
+      transform: translateX(-50%);
+      border-width: 8px;
+      border-style: solid;
+      border-color: #333 transparent transparent transparent;
+    }
+  </style>
+
+
+<style>
+/* Masquer par défaut sur mobile */
+.qr-desktop-only {
+    display: block;
+}
+
+/* Cacher sur smartphones et petites tablettes */
+@media (max-width: 900px) {
+    .qr-desktop-only {
+        display: none !important;
+    }
+}
+</style>
+
+
+
+
+
+
+
+
+  <!-- Javascript below for day and date and time is from Mistral -->
+    <script>
+        function afficherDateHeure() {
+            const maintenant = new Date();
+
+            // Noms des jours et des mois en français
+            const jours = ["dimanche", "lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi"];
+            const mois = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"];
+
+            // Récupération des informations
+            const jourSemaine = jours[maintenant.getDay()];
+            const jourMois = maintenant.getDate();
+            const nomMois = mois[maintenant.getMonth()];
+            const annee = maintenant.getFullYear();
+            const heures = maintenant.getHours().toString().padStart(2, '0');
+            const minutes = maintenant.getMinutes().toString().padStart(2, '0');
+
+            // Affichage
+            const dateHeure = `Nous sommes ${jourSemaine} ${jourMois} ${nomMois} ${annee}. Il est ${heures}h ${minutes}m`;
+            document.getElementById("date-heure").textContent = dateHeure;
+        }
+
+        // Mise à jour toutes les minutes
+        setInterval(afficherDateHeure, 1000);
+    </script>
+
+</head>
+
+<!-- <body style="background-color:white !imp;" onload="afficherDateHeure()">
+<p id="date-heure" style="padding-left: 10px;font-size:16px;font-style:italic;"></p> -->
+
+<body style="background-color:white !imp;">
+<br>
+<em>Dernière mise à jour : 24 mai 2026</em>
+<br><br>
+
+<!--Main Navigation-->
+<header>
+<!--Navbar-->
+<nav data-spy="affix" data-offset-top="20" class="navbar navbar-expand-md navbar-dark bg-dark mb-3">
+    <div class="container-fluid">
+        <a href="http://pgoh13.free.fr/RSS.htm" class="navbar-brand mr-3">L'actualit&eacute;</a>
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav">
+
+
+<a href="http://pgoh13.free.fr/mycourse2/" class="nav-item nav-link" style="font-size:1.2em;padding-left:10px"><font color=yellow>Cours de malais/</font><font color=white>Malay course</font></a>
+<a href="http://pgoh13.free.fr/dictionary/" class="nav-item nav-link" style="font-size:1.2em;padding-left:10px"><font color=yellow>English-Malay</font> <font color=yellow>dictionary</font></a>
+<a href="http://pgoh13.free.fr/pinyin2/" class="nav-item nav-link" style="font-size:1.2em;padding-left:10px"><font color=white>Pinyin/</font><font color=yellow>Cours Chinois</font></a>
+<a href="http://pgoh13.free.fr/archived_files.htm" class="nav-item nav-link" style="font-size:1.2em;padding-left:10px"><font color=white>Archives</font></a>
+<a href="http://pgoh13.free.fr/fs.htm" class="nav-item nav-link" style="font-size:1.2em;padding-left:10px"><font color=yellow>Chansons impérissables/</font><font color=white>Oldies</font></a>
+<a href="http://pgoh13.free.fr/travel/" class="nav-item nav-link" style="font-size:1.2em;padding-left:10px"><font color=yellow>Voyages/</font><font color=white>Travel</font></a>
+<a href="http://pgoh13.free.fr/recipes_list.php" class="nav-item nav-link" style="font-size:1.2em;padding-left:10px"><font color=yellow>Recettes de cuisine/</font><font color=white>Recipes</font></a>
+<a href="contact_formspree.htm" class="nav-item nav-link" style="font-size:1.2em;padding-left:10px"><font color=yellow>Contact&nbsp;<img src=envelope.gif style="width:18px;height:12px"></font></a>
+    
+            </div>
+        </div>
+    </div>    
+</nav>
+<!--/.Navbar-->
+
+
+<!--Main Navigation-->
+
+
+<div class="jumbotron">
+<article>
+<H1 style="background-color:yellow;color:black;font-family:arial;display:inline-block;text-align:center;margin-left: auto;
+	margin-right: auto;font-size:60px; font-weight:700;border:1px solid black;">L'info &agrave; volont&eacute;&nbsp;</H1>
+<br><br>
+<p style="float:right;background-color:black;color:white;padding:0 10px;">http://pgoh13.free.fr
+</p>
+<!-- QR Code visible uniquement sur desktop -->
+<div class="qr-desktop-only">
+    <img style="margin-top:10px;width:100px;height:auto;" src="QRwebsite.jpg" alt="QR Code of pgoh13 website">
+    <p style="text-align:left; margin-top:8px; font-size:16px;">
+        Code QR de ce site<br>QR code of this site
+    </p>
+</div>
+</article>
+</div>
+
+
+
+
+
+
+
+
+
+
+<!--
+<div class="paragraph-container">
+<p style="background-color:green; color:white;border:1px solid black; font-family:tahoma; font-size:14px; font-weight:300; font-style:normal; margin-left:5px;padding-left:15px;margin-right:15px;padding-right:15px;max-width:900px;">
+Tout en un seul endroit ! C'est l'un des rares sites web où il n'y a ni publicité, ni sponsors, ni cookies (à l'exception des sites externes sur lesquels je n'ai aucun contrôle). Pour trouver ce site facilement, il suffit de taper <a href=https://www.google.com/search?q=pgoh target=_blank><strong style="color:midnightblue;font-size:14px;">&nbsp;pgoh</strong></a> ou <a href=https://www.bing.com/search?q=pgoh13 target=_blank><strong style="color:midnightblue;font-size:14px;">&nbsp;pgoh13</strong></a> dans un moteur de recherche. - Webmaster, le 25 mars 2026</p>
+</div>
+
+<div class="paragraph-container">
+<p style="background-color:black; color:yellow;border:1px solid black; font-family:tahoma; font-size:14px; font-weight:300; font-style:normal; margin-left:5px;padding-left:15px;margin-right:15px;padding-right:15px;max-width:900px;">All in one place! This is one of the few websites where there are no advertising, no sponsors and no cookies (except for external sites over which I have no control). To find this site easily, simply type <a href=https://www.google.com/search?q=pgoh target=_blank><strong style="color:white;font-size:14px;">&nbsp;pgoh</strong></a> or <a href=https://www.bing.com/search?q=pgoh13 target=_blank><strong style="color:white;font-size:14px;">&nbsp;pgoh13</strong></a> into a search engine. - Webmaster (25/03/2026)
+</div>
+-->
+
+<div class="row">
+<div class="col-xs-12">
+<a href="#" id="example-show" class="showLink" onclick="showHide('example');return false;"><h3><span class="label label-default" style="background-color:midnightblue">Click for English Section</span></h3></a>
+
+<div id="example" class="more">
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:600;color:red;" href=https://time.is/ target=_blank>World Time</a> | <a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:600;color:black;" href=https://www.xe.com/en/currencyconverter/ target=_blank>Currency</a> | <a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:600;color:red;" href=https://www.metric-conversions.org/en/ target=_blank>Conversions</a> | <a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:600;color:black;" href=calendar2026.htm target=_blank>2026 Calendar</a> | <a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:600;color:red;" href=8topAI_2025.htm target=_blank>8 popular AI sites</a>
+
+<br><br>
+
+<a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href=../mycourse2/>Basic Malay language course of 64 lessons</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href=http://pgoh13.free.fr/pinyin2/>Basic course in Pinyin (romanized Mandarin)</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href=dictionary/>English-Malay dictionary by pgoh</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href=http://pgoh13.free.fr/malay_links.html>Of interest to Malay language students</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href=dictionary/malaydico_mobile.php>Malay to English dictionary</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href="http://pgoh13.free.fr/mycourse2/main.xml">Basic Malay vocabulary</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href=http://pgoh13.free.fr/mycourse2/lesson62_a.html>Telling all about yourself in Malay</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href=../mycourse2/translation.xml>For advanced students of Malay</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href="http://pgoh13.free.fr/pinyin2/chinese_characters.php">Basic Chinese vocabulary</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href=frvocab.htm>Advanced French vocabulary</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href=frvocab_more.xml>More French vocabulary for advanced students</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href=archived_files.htm>From the Archives</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href=parks_inparis.htm>Public parks in Paris</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href=openairMarkets_paris.htm>Open-air markets in Paris</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href=../travel/visiting_europe.php>Europe for the armchair traveller</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href=../fs.htm>Songs of a lifetime (a personal selection)</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href=../justforlaughs.php>Jokes</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href=../brainteasers.php>Brainteasers</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href=../quotations.php>Quotations</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href=../special_characters.php>Special Characters</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href=Chinese_New_Year_parade.php>Chinese New Year procession in Paris</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href=ganesh_2025.htm>Ganesh procession/festival in Paris</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href=../buskers.htm>Buskers worth watching</a>
+<br><a style="font-family:arial;font-size:1.6rem;text-decoration:none;font-weight:500;" href=http://pgoh13.free.fr/pere_lachaise.htm>Not dead yet but already in the cemetery!</a>
+</p>
+<br><a href="#" id="example-hide" class="hideLink" 
+	onclick="showHide('example');return false;">Hide this content.</a></p>
+
+</div></div>
+</div>
+ <br>
+
+
+
+
+
+
+
+
+    <div class="social-media-row">
+         <div style="font-size:16px;">Partager sur (Share on)<div><a href="https://www.facebook.com" target="_blank">
+            <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook">
+        </a>
+        <a href="https://www.instagram.com" target="_blank">
+            <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram">
+        </a>
+        <a href="https://twitter.com" target="_blank">
+            <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"></a>
+
+        <a href="https://bsky.social/" target="_blank">
+            <img src="bluesky_icon.jpg" alt="Bluesky"></a>
+
+        <a href="https://www.whatsapp.com/" target="_blank">
+            <img src="logo_whatsapp.jpg" alt="WhatsApp"></a>
+
+        <a href="https://www.pinterest.com" target="_blank">
+            <img src="https://img.icons8.com/color/48/pinterest--v1.png" alt="Pinterest">
+        </a>
+        <a href="https://www.linkedin.com" target="_blank">
+            <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn">
+        </a>
+        <a href="https://www.snapchat.com" target="_blank">
+            <img src="https://img.icons8.com/color/48/snapchat--v1.png" alt="Snapchat">
+        </a>
+        <a href="https://copainsdavant.linternaute.com" target="_blank">
+            <img src="https://img.icons8.com/color/48/friends.png" alt="Copains d'avant">
+        </a>
+        <a href="https://www.tumblr.com" target="_blank">
+            <img src="https://img.icons8.com/color/48/tumblr--v1.png" alt="Tumblr">
+        </a>
+<a href="https://www.tiktok.com" target="_blank">
+            <img src="https://img.icons8.com/color/48/tiktok--v1.png" alt="TikTok">
+        </a>
+    </div>
+</div>
+  
+</div>
+
+
+
+
+
+
+ <br>
+
+
+
+
+
+<div class="row">
+<div class="col-xs-12">
+<div class="clean-links">
+<a href="frigo_scam.htm"  target=_blank>Escroquerie 2026</a> | 
+<a href="seniors_fixed.htm"  target=_blank>Le coin des seniors</a> | 
+<a href="https://www.lemurdelapresse.com/" target=_blank>Le mur de la presse</a> | 
+<a href="RSS.htm" target=_blank>Les flux RSS d'actualit&eacute;</a> | 
+<a href=https://limportant.fr/ target=_blank>L'important</a> | <a href=https://www.programme-television.org/ target=_blank>Programme TV ce soir</a> | <a href=https://time.is/Paris target=_blank>L&apos;heure exacte en France</a> | <a href="2026calendrier.htm"  target=_blank>Calendrier 2026 (dates &agrave; retenir)</a> | <a href="vacances_scolaires.htm"  target=_blank>Vacances scolaires 2025-2027</a> | <a href="https://www.xe.com/fr/currencyconverter/"  target=_blank>Taux de change</a> | <a href="https://www.metric-conversions.org/fr/"  target=_blank>Convertisseur d'unit&eacute;s de mesure</a> | <a href="citations.html"  target=_blank>Quelques citations</a> | <a href="page_arnaques.htm"  target=_blank>Page des arnaques</a> | <a href="http://pgoh13.free.fr/mycourse2/malais.php"  target=_blank>Cours de Malais</a> | <a href="8meilleuresIA_2025.htm"  target=_blank>8 sites d'IA</a> | <a href="hop_auFour.htm"  target=_blank>Et hop! Au four pour ces cakes</a> | <a href="vieilles_chansons.htm"  target=_blank>Chansons intemporelles</a> | <a href="https://www.kombo.co/fr/"  target=_blank>En avion, train ou bus</a>
+
+
+
+
+<br><br>
+<div>
+<span style="color:black">Search THIS site/Recherche INTERNE</span>
+<script async src="https://cse.google.com/cse.js?cx=65192936afd3d4b97">
+</script>
+<div id="csc" style="width:300px;border:1px solid black">
+<div class="gcse-search"></div>
+</div></div>
+
+<br>
+<span style="font-size:18px;font-weight:800">L'info &agrave; volont&eacute; sur Paris:</span>
+<a href="https://parisjetaime.com/"  target=_blank>Office du tourisme</a> | <a href="parcs_paris.htm"  target=_blank>Parcs et espaces verts</a> | <a href="paris_neuf.htm"  target=_blank>Quoi de neuf</a> | <a href="marches_paris.htm"  target=_blank>Les march&eacute;s d&eacute;couverts</a> | <a href="carteUGC.htm">Cin&eacute;ma</a> | <a href="http://pgoh13.free.fr/parc"  target=_blank>Promenade en v&eacute;lo</a> | <a href="https://www.accuweather.com/fr/fr/paris/623/hourly-weather-forecast/623"  target=_blank>Pr&eacute;vision m&eacute;t&eacute;o</a> | <a href=http://metromap.fr/fr target=_blank>Nouveau plan du m&eacute;tro</a> | <a href=https://www.sortiesdumetro.fr/ target=_blank>Sorties du m&eacute;tro</a> | <a href="https://me-deplacer.iledefrance-mobilites.fr/a-proximite/?&filters=10000" target=_blank>Transport &agrave; proximit&eacute;</a> | <a href=https://www.ratp.fr/trafic-metro target=_blank>Info traffic RATP</a> | <a href="https://www.paris.fr/equipements/bibliotheques/tous-les-horaires"  target=_blank>Biblioth&eacute;ques</a> | <a href="https://www.paris.fr/equipements/piscines/tous-les-horaires" target=_blank>Piscines</a> | <a href=https://vide-greniers.org/75-Paris target=_blank>Brocantes</a> | <a href="https://www.paris.fr/pages/cours-municipaux-d-adultes-205"  target=_blank>Cours d'Adultes de Paris</a> | <a href="http://pgoh13.free.fr/emeraude.htm" target=_blank>Restaurants &Eacute;meraude</a>
+</div>
+</div>
+<br>
+
+<div>
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="converted_responsive_white.css" />
+
+<h2 style="margin-left:2%;">Journaux télévisés en direct</h2>
+<br><em style="margin-left:2%;font-size:16px;">Si la diffusion en direct ne s'ouvre pas dans votre navigateur, essayez un autre navigateur (Chrome, Firefox, Brave, etc.)</em> 
+<br>
+<table style="width:100%;max-width:900px;"><tr>
+
+<td width=2%></td>
+<td width=47%><br>
+<a href="http://www.bfmtv.com/video/bfmtv/direct/"  target=_blank><img src=simonet_2023-24.jpg>
+<em style="font-family:arial;font-size:12px;">BFMTV (photo: Pauline Simonet)</em></a><br><br>
+</td>
+<td width=2%></td>
+<td width=47%><br><a href="https://www.cnews.fr/le-direct"  target=_blank><img src=pascal_praud.jpg>
+<em style="font-family:arial;font-size:12px;"> &nbsp;CNews  &nbsp;(photo: Pascal Praud)</em></a><br><br>
+</td>
+
+</tr><tr>
+<td width=2%></td>
+<td width=47%>
+<a href="https://www.tf1.fr/tf1/direct"  target=_blank><img src=tf1_coudray.jpg>
+<em style="font-family:arial;font-size:12px;"> &nbsp;TF1 (photo: Gilles Bouleau et Anne-Claire Coudray)</em></a><br><br>
+</td>
+<td width=2%></td>
+<td width=47% valign=top>
+<a href="https://www.france.tv/france-2/direct.html"  target=_blank><img src=lea_salame.jpg>
+<em style="font-family:arial;font-size:12px;">France 2 (photo: Léa Salamé)</em></a><br><br>
+</td>
+</tr>
+
+<tr>
+<td width=2%></td>
+<td width=47%>
+<a href="https://www.france.tv/france-3/direct.html"  target=_blank><img style="border:1px solid black" src=france3_journalistes.jpg>
+<em style="font-family:arial;font-size:12px;">France 3 (photo: France 3 journalistes)</em></a><br><br>
+</td>
+<td width=2%></td>
+<td width=47%><a href="https://www.tf1.fr/lci/direct"  target=_blank><img style="vertical-align:top" src=Marie-AlineMeliyi_LCI.jpg>
+<em style="font-family:arial;font-size:12px;"> &nbsp;LCI (photo: Marie-Aline Meliyi)</em></a><br><br>
+</td>
+</tr>
+
+
+<tr>
+<td width=2%></td>
+<td width=47%>
+<a href="https://www.france.tv/france-5/direct.html"  target=_blank><img style="border:1px solid black" src=casse_2023-24.jpg>
+<em style="font-family:arial;font-size:12px;">France 5 (photo: Aur&eacute;lie Casse)</em></a><br><br>
+</td>
+<td width=2%></td>
+<td width=47%><a href="https://www.m6.fr/M6/direct"  target=_blank><img src=ashleyChevalierM6.jpg>
+<em style="font-family:arial;font-size:12px;"> &nbsp;M6 (photo: Ashley Chevalier)</em></a><br><br>
+</td>
+</tr><tr>
+
+<td width=2%></td>
+<td width=47%>
+<a href="https://www.france24.com/fr/direct"  target=_blank><img style="border:1px solid black" src=france24_2025.jpg>
+<em style="font-family:arial;font-size:12px;">France 24 (Pauline Paccard et ses invités le 09/10/2025)</em></a><br><br>
+</td>
+<td width=2%></td>
+<td width=47%>
+<a href="https://www.francetvinfo.fr/en-direct/tv.html"  target=_blank><img style="border:1px solid black" src=franceinfo2025.jpg>
+<em style="font-family:arial;font-size:12px;">franceinfo 2025: (photo: Julien Benedetto et Sorya Khaldoun)</em></a><br><br>
+</td>
+
+</tr>
+
+<tr>
+<td colspan=2>
+<a style="font-family:arial;font-size:18px" href=http://playtv.fr/television/ target=_blank>Plus de chaines...</a></td>
+</tr>
+<tr>
+<td colspan=2><br><strong style="font-family:arial;font-size:18px">Les replays: </strong> 
+<br><a style="font-family:arial;font-size:18px" href=https://www.tf1.fr/tf1/replay target=_blank>TF1</a> &nbsp; 
+<br><a style="font-family:arial;font-size:18px" href=https://www.france.tv/france-2/toutes-les-videos/>France 2&nbsp;</a> <a style="font-family:arial;font-size:18px" href=https://www.france.tv/france-3/toutes-les-videos/>France 3&nbsp;</a> <a style="font-family:arial;font-size:18px" href=https://www.france.tv/france-5/toutes-les-videos/>France 5</a>
+<br><a style="font-family:arial;font-size:18px" href=https://www.6play.fr/m6 target=_blank>M6&nbsp;&nbsp;</a> <a style="font-family:arial;font-size:18px" href=https://www.6play.fr/w9 target=_blank>W9</a> &nbsp; 
+<br><a style="font-family:arial;font-size:18px" href=https://www.arte.tv/fr/ target=_blank>Arte</a></td>
+</tr>
+</table>
+
+<h2>N&eacute;o-journalisme?</h2>
+<br><a style="font-family:arial;font-size:18px" href="https://www.brut.media/fr" target=_blank>Brut</a>
+<br><a style="font-family:arial;font-size:18px" href="https://www.vice.com/fr" target=_blank>VICE</a>
+<br><a style="font-family:arial;font-size:18px" href="https://www.instagram.com/hugodecrypte/" target=_blank>Hugo D&eacute;crypte: l'actu destin&eacute;e aux jeunes</a>
+
+<br>
+<h2>Les Principaux Journaux et Magazines</h2>
+<br><em style="font-size:16px;">Veuillez noter que je ne cautionne pas forcément tous les journaux, magazines ou sites mentionnés ici. Je ne prends pas parti! - Webmaster</em>
+<br><br><a href="http://www.lemonde.fr/" target=_blank><img style="border:0;padding-top:10px;width:267px;height:60px" src=lemonde.gif></a>&nbsp;&nbsp;
+<a href="http://www.lefigaro.fr/" target=_blank><img style="border:0;padding-top:10px;width:320px;height:60px" src=lefigaro.gif></a>&nbsp;&nbsp; 
+<a href="https://www.liberation.fr/" target=_blank><img style="border:0;padding-top:10px;width:320px;height:60px" src=liberation_journal.jpg></a>&nbsp;&nbsp;
+<a href="http://www.leparisien.fr/" target=_blank><img style="border:0;padding-top:10px;width:132px;height:60px" src=leparisien.gif></a>&nbsp;&nbsp;
+<a href="https://www.cnews.fr/" target=_blank><img style="border:0;padding-top:10px;width:180px;height:60px" src=cnews_180x45.jpg></a> &nbsp;&nbsp;
+<a href="https://www.20minutes.fr/" target=_blank><img style="border:0;padding-top:10px;width:145px;height:60px" src=20minutes_145x45.jpg></a>&nbsp;&nbsp
+<br><br>
+
+<em style="font-size: 16px;">Une s&eacute;lection de magazines sur l&apos;actualit&eacute; pour tous les go&ucirc;ts et toutes les opinions. Je ne prends pas parti! - Webmaster</em>
+<br><br>
+<a href=https://www.franc-tireur.fr/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=franc_tireur.jpg></a>&nbsp;&nbsp;
+<a href=http://www.atlantico.fr/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=atlantico.gif></a>&nbsp;&nbsp;
+<!-- <a href=http://www.rue89.com/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=rue89.gif></a>&nbsp;&nbsp; -->
+<a href=http://www.huffingtonpost.fr/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=huffington_post.gif></a>&nbsp;&nbsp;
+<a href=http://www.slate.fr/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=slate_french.gif></a>&nbsp;&nbsp;
+<a href=http://www.mediapart.fr/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=mediapart.gif></a>&nbsp;&nbsp;
+<a href=http://www.lopinion.fr/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=lopinion.gif></a>&nbsp;&nbsp;
+<a href=http://www.marianne.net/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=marianne.gif></a>&nbsp;&nbsp;
+<a href=http://www.causeur.fr/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=causeur.png></a>&nbsp;&nbsp;
+<a href=http://www.society-magazine.fr/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=society_mag.jpg></a>&nbsp;&nbsp;
+<a href=http://www.courrierinternational.com/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=courrier_intl.jpg></a>&nbsp;&nbsp;
+<a href=http://www.socialter.fr/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=socialter_icon.jpg></a>&nbsp;&nbsp;
+<a href=https://www.politis.fr/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=politis_icon.jpg></a>&nbsp;&nbsp;
+<a href=http://www.bvoltaire.fr/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=bvoltaire_icon.jpg></a>&nbsp;&nbsp;
+<a href=https://lincorrect.org/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=lincorrect.jpg></a>&nbsp;&nbsp;
+<a href=https://theconversation.com/fr  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=conversation.jpg></a>&nbsp;&nbsp;
+<a href=https://revue-pouvoirs.fr/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=pouvoirs.jpg></a>&nbsp;&nbsp;
+<a href=http://www.laruchemedia.com/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=ruche_media.jpg></a>&nbsp;&nbsp;
+<a href=http://www.regards.fr/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=regards_magazine.jpg></a>&nbsp;&nbsp;
+<a href=https://www.contrepoints.org/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=contrepoints_magazine.jpg></a>&nbsp;&nbsp;
+<a href=https://www.strategies.fr/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=strategies_magazine.jpg></a>&nbsp;&nbsp;
+<a href=https://www.neonmag.fr/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=neon_magazine.jpg></a>&nbsp;&nbsp;
+<a href=https://www.valeursactuelles.com/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=valeurs_actuelles.jpg></a>&nbsp;&nbsp;
+<a href=https://www.brut.media/fr  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=brut_media.jpg></a>&nbsp;&nbsp;
+<a href=https://polesocietes.com/actualites/acquisition/le-magazine-feministe-causette-repris-par-melody-madar-fondatrice-du-site-les-eclaireuses  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=causette.jpg></a>&nbsp;&nbsp;
+<a href=https://www.zadiglemag.fr/  target=_blank><img style="width:140px;height:45px;border:0;padding-top:10px" src=zadig.jpg></a>&nbsp;&nbsp;
+<a href=https://www.caminteresse.fr/  target=_blank><img style="width:96px;height:45px;border:0;padding-top:10px" src=ca_minteresse.jpg></a>&nbsp;&nbsp;
+<a href=https://bastillemagazine.com/  target=_blank><img style="width:167px;height:45px;border:0;padding-top:10px" src=bastille_magazine.jpg></a>&nbsp;&nbsp;
+<a href=https://www.wedemain.fr/  target=_blank><img style="width:167px;height:45px;border:0;padding-top:10px" src=WEdemain_logo.gif></a>&nbsp;&nbsp;
+<a href=https://www.koimagazine.fr/  target=_blank><img style="width:167px;height:45px;border:0;padding-top:10px" src=koi_mag.gif></a>&nbsp;&nbsp;
+<a href=https://lejournal.info/  target=_blank><img style="width:167px;height:45px;border:0;padding-top:10px" src=lejournal_info.jpg></a>&nbsp;&nbsp;
+<a href=https://charliehebdo.fr/  target=_blank><img style="width:167px;height:45px;border:0;padding-top:10px" src=charlie_hebdo.jpg></a>&nbsp;&nbsp;
+<a href=https://www.lecanardenchaine.fr/  target=_blank><img style="width:167px;height:45px;border:0;padding-top:10px" src=canard_enchaine.gif></a>&nbsp;&nbsp;
+<a href=https://fakirpresse.info/  target=_blank><img style="width:167px;height:45px;border:0;padding-top:10px" src=fakir.gif></a>&nbsp;&nbsp;
+<a href=https://www.legorafi.fr/  target=_blank><img style="width:167px;height:45px;border:0;padding-top:10px" src=gorafi.jpg></a>&nbsp;&nbsp;
+<a href=https://www.courrierinternational.com/  target=_blank><img style="width:167px;height:45px;border:0;padding-top:10px" src=courrier_international.jpg></a>&nbsp;&nbsp;
+
+<br><br>
+<em style="font-size: 16px;">...quelques magazines hebdomadaires:</em>
+<br><br>
+<a href=http://www.lepoint.fr/ target=_blank><img style="width:237px;height:50px;border:0;padding-top:10px" src=lepoint_ico.jpg></a>&nbsp;&nbsp;
+<a href=http://www.lexpress.fr/ target=_blank><img style="width:156px;height:50px;border:0;padding-top:10px" src=lexpress_ico.jpg></a>&nbsp;&nbsp;
+<a href=http://tempsreel.nouvelobs.com/ target=_blank><img style="width:174px;height:50px;border:0;padding-top:10px" src=lobs_ico.jpg></a>&nbsp;&nbsp;
+<a href=https://www.challenges.fr/ target=_blank><img style="width:174px;height:50px;border:0;padding-top:10px" src=challenges_magazine.jpg></a>&nbsp;&nbsp;
+<a href=https://www.parismatch.com/ target=_blank><img style="width:85px;height:50px;border:0;padding-top:10px" src=paris_match.jpg></a>&nbsp;&nbsp;
+<a href=https://www.elle.fr/ target=_blank><img style="width:85px;height:50px;border:0;padding-top:10px" src=elle_magazine.jpg></a>
+
+<br><br>
+<em style="font-size: 16px;">...quelques magazines de voyage:</em>
+<br><br>
+<a href=https://www.magvoyage.com/  target=_blank><img style="width:150px;height:110px;border:0;padding-top:10px"  src=magvoyage_magazine.jpg></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=https://www.voyageursdumonde.fr/  target=_blank><img style="width:150px;height:110px;border:0;padding-top:10px" src=voyageurs_dumonde.jpg></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=https://www.grands-reportages.com/  target=_blank><img style="width:150px;height:110px;border:0;padding-top:10px"  src=grands_reportages.jpg></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=https://www.geo.fr/  target=_blank><img style="width:150px;height:110px;border:0;padding-top:10px"  src=geo_magazine.jpg></a>
+
+<br><br>
+<em style="font-size: 16px;">...quelques magazines de sant&eacute;:</em>
+<br><br>
+<a href=https://www.santemagazine.fr/  target=_blank><img style="width:150px;height:110px;border:0;padding-top:10px"  src=sante_magazine.jpg></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=https://www.topsante.com/  target=_blank><img style="width:150px;height:110px;border:0;padding-top:10px" src=top_sante.jpg></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=https://www.sciencesetavenir.fr/sante/  target=_blank><img style="width:150px;height:110px;border:0;padding-top:10px"  src=sciences_avenir.jpg></a>
+
+<br><br>
+<em style="font-size: 16px;">...quelques magazines des consommateurs:</em>
+<br><br>
+
+<a href=https://www.60millions-mag.com/  target=_blank><img style="width:150px;height:110px;border:0;padding-top:10px"  src=60_millions.jpg></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=https://www.quechoisir.org/  target=_blank><img style="width:150px;height:110px;border:0;padding-top:10px" src=que_choisir.jpg></a>
+
+<br><br>
+<em style="font-size: 16px;">...et quelques magazines "people":</em>
+
+<br><br>
+<a href=http://www.closermag.fr/  target=_blank><img style="width:150px;height:110px;border:0;padding-top:10px"  src=closer_logo.jpg></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=http://www.gala.fr/  target=_blank><img style="width:150px;height:110px;border:0;padding-top:10px" src=gala_logo.jpg></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=http://www.voici.fr/  target=_blank><img style="width:150px;height:110px;border:0;padding-top:10px"  src=voici_logo.jpg></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=http://www.public.fr/  target=_blank><img style="width:150px;height:110px;border:0;padding-top:10px" src=public_logo.jpg></a>
+
+<br><br>
+
+<h2>Les top radios d'actualit&eacute;</h2>
+
+<br>
+<a href="https://www.rtl.fr/direct"><img style="width:120px;height:120px;border:0;padding-top:10px" src=rtl.gif></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.europe1.fr/"><img style="width:120px;height:120px;border:0;padding-top:10px" src=europe1.gif></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.franceinter.fr/"><img style="width:120px;height:120px;border:0;padding-top:10px" src=france_inter.gif></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://rmc.bfmtv.com/mediaplayer/live-audio/"><img style="width:120px;height:120px;border:0;padding-top:10px" src=rmc.gif></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.francetvinfo.fr/en-direct/radio.html"><img style="width:120px;height:120px;border:0;padding-top:10px" src=france_info.gif></a>
+<br><br>
+
+
+<div class="clean-links">
+<table style="width:100%;max-width:600px;"><tr>
+<td valign=top>
+<h2>Les Services Publics</h2>
+<br><a href="https://immatriculation.ants.gouv.fr/"  target=_blank>V&eacute;hicule/Carte Grise</a>
+<br><a href="https://passeport.ants.gouv.fr/Vos-demarches/1ere-demande-de-passeport-biometrique"  target=_blank>Passeport Biom&eacute;trique</a>
+<br><a href="https://www.service-public.fr/particuliers/vosdroits/N358"  target=_blank>Carte d&apos;Identit&eacute;</a>
+<br><a href="https://www.service-public.fr/particuliers/vosdroits/N359"   target=_blank>Actes d&apos;&eacute;tat civil en ligne</a>
+<br><a href="http://impots.gouv.fr"   target=_blank>Vos Impots</a>
+<br><a href="http://lassuranceretraite.fr"   target=_blank>CNAV (Caisse de Retraite)</a>
+<br><a href="http://ameli.fr"   target=_blank>La Securit&eacute; Sociale</a>
+<br><a href="http://laposte.fr"   target=_blank>La Poste</a>
+<br><a href="http://pole-emploi.fr"   target=_blank>France Travail (ex-Pole Emploi)</a>
+<br><a href="http://caf.fr"   target=_blank>CAF (Allocations Familiales)</a>
+<br><a href="http://www.diplomatie.gouv.fr/fr/"   target=_blank>Quai d&apos;Orsay</a>
+<br><a href="https://demarchefrancaise.fr"   target=_blank>Titre de s&eacute;jour/Naturalisation fran&ccedil;aise</a>
+</td></tr></table>
+</div>
+<br>
+
+
+
+
+
+<h2>Les liens qui pourraient vous &ecirc;tre utiles</h2>
+<div class="clean-links">
+<table style="width:100%;max-width:500px;"><tr>
+<td>
+<font face=arial>
+<a href=http://www.le-dictionnaire.com/  target=_blank>1. 
+Dictionnaire fran&ccedil;ais en ligne gratuit</a>
+<br><a href=https://www.doctolib.fr/ target=_blank>2. Doctolib: Prenez rendez-vous chez un m&eacute;decin ou un dentiste</a>
+<br><a href=http://www.skyscanner.fr  target=_blank>3. Skyscanner: Comparateur de prix de billets d&apos;avion</a>
+<br><a href="http://www.programme-tv.net/programme/toutes-les-chaines/"  target="_blank">4.  Programme t&eacute;l&eacute; d&apos;aujourd&apos;hui de toutes les chaines fran&ccedil;aises</a>
+<br><a href="http://www.pagesjaunes.fr/pagesblanches"  target=_blank>5. Pages Blanches : Pour trouver le num&eacute;ro de t&eacute;l&eacute;phone de quelqu&apos;un</a>
+<br><a href="http://www.pagesjaunes.fr/annuaireinverse"  target=_blank>6. Annuaire invers&eacute;: &Agrave; qui est ce num&eacute;ro ?</a>
+<br><a href="https://pastel.diplomatie.gouv.fr/fildariane/dyn/public/login.html"  target=_blank>7. Ariane, un fil de s&eacute;curit&eacute; pour des voyageurs fran&ccedil;ais</a>
+</td></tr>
+</table>
+</div>
+<br>
+<a href=https://www.ar24.fr/  target=_blank><img style="width:250px;height:21px;" src=ar24.jpg><br>Comment envoyer une lettre recommand&eacute;e &eacute;lectronique avec A/R</a>
+<br><br>
+
+<table><tr><td>
+<p style="font-size: 16px;">Cliquez  ci-dessous pour aller directement sur le site de la pr&eacute;-plainte en ligne.</p>
+<a href="https://www.plus.transformation.gouv.fr/experiences/5039949_pre-plainte-en-ligne"  target=_blank><img src=preplainte_enligne.gif></a>
+</td></tr></table>
+
+<!-- <hr color="red">
+<footer>
+<a href="contact_formspree.htm" class="nav-item nav-link" style="font-size:1.2em;padding-left:10px;color:red"><strong>Contact&nbsp;<img src=envelope.gif style="width:18px;height:12px"></strong></a>
+</footer> -->
+
+ <!-- SCRIPTS -->
+  <!-- JQuery -->
+  <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+  <!-- Bootstrap tooltips -->
+  <script type="text/javascript" src="js/popper.min.js"></script>
+  <!-- Bootstrap core JavaScript -->
+  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+  <!-- MDB core JavaScript -->
+  <script type="text/javascript" src="js/mdb.min.js"></script>
+
+
+
+
+</body>
+
+</html>
