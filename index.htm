@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="description" content="Info à volonté. Ce site a pour vocation, en regroupant des liens utiles en un seul et même endroit, de faciliter votre recherche d'informations sur divers sujets">
+<title>L'info à volonté, tout sur Paris, info à volonté</title>
+
+<!-- For google site search -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+</script>
+ <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="css/mdb.min.css" rel="stylesheet">
+  <!-- below emeraude_hugescreen.css needed for top nav to work esp container-fluid class -->
+<link rel="stylesheet" href="emeraude_hugescreen.css">
+
+<style>
+html,
+body,
+* {background color:white !imp;max-width:1200px;margin-left:2px;}
+header,
+#intro {
+    height: 100%;
+margin-bottom:10px;
+margin-left:7px;}
+
+#intro {
+    background: url("opaque_background.jpg")no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100% 100%; <!-- this makes the difference -->
+background-attachment: scroll;
+background-position: center top;
+}
+
+video {
+  width: 800px;
+  height: 600px;
+}
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: relative;
+	top: 0;
+	left: 0;
+	width: 800px;max-width:800px;
+	height: 600px;
+}
+</style>
+
+<!-- Below script is for showing part of longer text Source: cssnewbiedotcom/showhide-content-css-javascript/ -->
+<script language="javascript" type="text/javascript">
+function showHide(shID) {
+   if (document.getElementById(shID)) {
+      if (document.getElementById(shID+'-show').style.display != 'none') {
+         document.getElementById(shID+'-show').style.display = 'none';
+         document.getElementById(shID).style.display = 'block';
+      }
+      else {
+         document.getElementById(shID+'-show').style.display = 'inline';
+         document.getElementById(shID).style.display = 'none';
+      }
+   }
+}
+</script>
+
+<style>
+.more {
+	display: none;
+	border-top: 1px solid #666;
+	border-bottom: 1px solid #666; }
+a.showLink, a.hideLink {
+	text-decoration: none;
+	color: #36f;
+	padding-left: 8px;
+	background: transparent url('down.gif') no-repeat left; }
+a.hideLink {
+	background: transparent url('up.gif') no-repeat left; }
+a.showLink:hover, a.hideLink:hover {
+	border-bottom: 1px dotted #36f; }
+</style>
+
+<style>
+.jumbotron {
+  background: url('journaux.jpg') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+font-family:arial;margin-left:15px;padding-left:15px;
+border:1px solid black;
+}
+</style>
+
+    <style>
+        .social-media-row {
+            display: flex;
+            justify-content: center;
+        gap: 10px;
+            flex-wrap: wrap;
+        }
+        .social-media-row a {
+            text-decoration: none;
+            color: inherit;
+        }
+        .social-media-row img {
+            width: 32px;
+            height: 32px;
+        }
+    </style>
+
+<style>
+/* to have all the links in a row with little spacing */
+.clean-links a {
+  all: unset;
+  display: inline-block;
+  color: #0077cc; /* your link color */
+  text-decoration: none;
+  cursor: pointer;
+  margin: 0 1px;
+  font-family: inherit;
+  font-size: 16px; /* or whatever base size you use */
+  line-height: 1.5;
+}
+
+.clean-links {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  box-sizing: border-box;
+}
+</style>
+
+<style>
+    /* to have balloon text...Container for the paragraph */
+    .paragraph-container {
+      position: relative;
+      max-width: 600px;
+      margin: 50px auto;
+      font-size: 18px;
+      line-height: 1.5;
+    }
+
+    /* Tooltip styling */
+    .tooltip {
+      position: absolute;
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      border-radius: 5px;
+      font-size: 16px;
+      max-width: 500px;
+      z-index: 10;
+      opacity: 0;
+      visibility: hidden;
+      transition: opacity 0.3s, visibility 0.3s;
+      top: -100%;
+      left: 50%;
+      transform: translateX(-50%);
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    }
+
+    /* Show tooltip on hover */
+    .paragraph-container:hover .tooltip {
+      opacity: 1;
+      visibility: visible;
+    }
+
+    /* Optional: Add a small triangle below the tooltip */
+    .tooltip::after {
+      content: '';
+      position: absolute;
+      top: 100%;
+      left: 50%;
+      transform: translateX(-50%);
+      border-width: 8px;
+      border-style: solid;
+      border-color: #333 transparent transparent transparent;
+    }
+  </style>
+
+
+<style>
+/* Masquer par défaut sur mobile */
+.qr-desktop-only {
+    display: block;
+}
+
+/* Cacher sur smartphones et petites tablettes */
+@media (max-width: 900px) {
+    .qr-desktop-only {
+        display: none !important;
+    }
+}
+</style>
+
+
+
+
+
+
+
+
+  <!-- Javascript below for day and date and time is from Mistral -->
+    <script>
+        function afficherDateHeure() {
+            const maintenant = new Date();
+
+            // Noms des jours et des mois en français
+            const jours = ["dimanche", "lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi"];
+            const mois = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"];
+
+            // Récupération des informations
+            const jourSemaine = jours[maintenant.getDay()];
+            const jourMois = maintenant.getDate();
+            const nomMois = mois[maintenant.getMonth()];
+            const annee = maintenant.getFullYear();
+            const heures = maintenant.getHours().toString().padStart(2, '0');
+            const minutes = maintenant.getMinutes().toString().padStart(2, '0');
+
+            // Affichage
+            const dateHeure = `Nous sommes ${jourSemaine} ${jourMois} ${nomMois} ${annee}. Il est ${heures}h ${minutes}m`;
+            document.getElementById("date-heure").textContent = dateHeure;
+        }
+
+        // Mise à jour toutes les minutes
+        setInterval(afficherDateHeure, 1000);
+    </script>
+
+</head>
+
+<!-- <body style="background-color:white !imp;" onload="afficherDateHeure()">
+
+<div class="jumbotron">
+<article>
+<H1 style="background-color:yellow;color:black;font-family:arial;display:inline-block;text-align:center;margin-left: auto;
+	margin-right: auto;font-size:60px; font-weight:700;border:1px solid black;">Hello World</H1>
+
+</div>
+</article>
+</div>
+
+
+
+
+
+
+
+</body>
+
+</html>
