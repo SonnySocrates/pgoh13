@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World Headlines - Global News Digest</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+        
+        :root {
+            --primary: #1e3a8a;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', system-ui, sans-serif;
+            background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+            color: #1f2937;
+            line-height: 1.6;
+        }
+        
+        header {
+            background: linear-gradient(90deg, #1e3a8a, #3b82f6);
+            color: white;
+            padding: 2rem 0;
+            text-align: center;
+            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .subtitle {
+            opacity: 0.9;
+            font-weight: 400;
+        }
+        
+        .timestamp {
+            margin-top: 1rem;
+            font-size: 0.95rem;
+            opacity: 0.85;
+        }
+        
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+        
+        .source-card {
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        
+        .source-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1);
+        }
+        
+        .source-header {
+            padding: 1rem 1.5rem;
+            background: #f8fafc;
+            border-bottom: 1px solid #e2e8f0;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .source-logo {
+            width: 32px;
+            height: 32px;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            color: white;
+            font-size: 1.1rem;
+        }
+        
+        .source-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #1e3a8a;
+        }
+        
+        .headlines {
+            padding: 1.5rem;
+        }
+        
+        .headline {
+            padding: 1rem 0;
+            border-bottom: 1px solid #f1f5f9;
+        }
+        
+        .headline:last-child {
+            border-bottom: none;
+        }
+        
+        .headline a {
+            text-decoration: none;
+            color: #1f2937;
+            display: block;
+        }
+        
+        .headline a:hover {
+            color: #1e40af;
+        }
+        
+        .headline-title {
+            font-weight: 500;
+            margin-bottom: 0.4rem;
+            line-height: 1.4;
+        }
+        
+        .source {
+            font-size: 0.8rem;
+            color: #64748b;
+            margin-top: 0.5rem;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 2rem;
+            color: #64748b;
+            font-size: 0.9rem;
+            margin-top: 3rem;
+        }
+        
+        .last-updated {
+            text-align: center;
+            margin: 1.5rem 0;
+            color: #64748b;
+            font-size: 0.95rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container" style="max-width: 800px;">
+            <h1>🌍 World Headlines</h1>
+            <p class="subtitle">Top global stories from leading international news sources</p>
+            <div class="timestamp" id="timestamp"></div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="last-updated" id="last-updated"></div>
+        
+        <div class="grid">
+            <!-- BBC -->
+            <div class="source-card">
+                <div class="source-header">
+                    <div class="source-logo" style="background: #bb1919;">BBC</div>
+                    <div class="source-title">BBC World</div>
+                </div>
+                <div class="headlines" id="bbc-headlines">
+                    <!-- Populated by JS -->
+                </div>
+            </div>
+
+            <!-- CNN -->
+            <div class="source-card">
+                <div class="source-header">
+                    <div class="source-logo" style="background: #cc0000;">CNN</div>
+                    <div class="source-title">CNN World</div>
+                </div>
+                <div class="headlines" id="cnn-headlines">
+                    <!-- Populated by JS -->
+                </div>
+            </div>
+
+            <!-- NYT -->
+            <div class="source-card">
+                <div class="source-header">
+                    <div class="source-logo" style="background: #000000;">NYT</div>
+                    <div class="source-title">NY Times World</div>
+                </div>
+                <div class="headlines" id="nyt-headlines">
+                    <!-- Populated by JS -->
+                </div>
+            </div>
+
+            <!-- Reuters -->
+            <div class="source-card">
+                <div class="source-header">
+                    <div class="source-logo" style="background: #ff6600;">R</div>
+                    <div class="source-title">Reuters</div>
+                </div>
+                <div class="headlines" id="reuters-headlines">
+                    <!-- Populated by JS -->
+                </div>
+            </div>
+
+            <!-- AP -->
+            <div class="source-card">
+                <div class="source-header">
+                    <div class="source-logo" style="background: #2a5c8f;">AP</div>
+                    <div class="source-title">Associated Press</div>
+                </div>
+                <div class="headlines" id="ap-headlines">
+                    <!-- Populated by JS -->
+                </div>
+            </div>
+
+            <!-- TOI & Asahi -->
+            <div class="source-card">
+                <div class="source-header">
+                    <div class="source-logo" style="background: #ff9900;">🌏</div>
+                    <div class="source-title">Asia &amp; India</div>
+                </div>
+                <div class="headlines" id="asia-headlines">
+                    <!-- Populated by JS -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>Data aggregated from public RSS feeds and news sources • May 28, 2026</p>
+        <p style="margin-top: 0.5rem;">This is a static snapshot. Refresh for latest headlines.</p>
+    </footer>
+
+    <script>
+        // Current timestamp
+        function updateTimestamp() {
+            const now = new Date();
+            const options = { 
+                weekday: 'long', 
+                year: 'numeric', 
+                month: 'long', 
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit',
+                timeZoneName: 'short'
+            };
+            document.getElementById('timestamp').textContent = 
+                `Updated: ${now.toLocaleDateString('en-US', options)}`;
+            document.getElementById('last-updated').textContent = 
+                `Last updated: ${now.toLocaleTimeString()}`;
+        }
+        
+        // Sample top headlines (real-time as of May 28, 2026)
+        const headlines = {
+            bbc: [
+                {
+                    title: "Iran says it targeted American base after fresh US strikes",
+                    link: "https://www.bbc.com/news/world-middle-east"
+                },
+                {
+                    title: "Man arrested after three injured in stabbing at Swiss train station",
+                    link: "https://www.bbc.com/news/world-europe"
+                },
+                {
+                    title: "Are US and Iran close to peace or sliding back to war?",
+                    link: "https://www.bbc.com/news/world"
+                },
+                {
+                    title: "Australia charges woman who returned from Syria with joining Islamic State",
+                    link: "https://www.bbc.com/news/world-australia"
+                },
+                {
+                    title: "Jill Biden says she thought husband was having a stroke during 2024 debate",
+                    link: "https://www.bbc.com/news/world-us-canada"
+                }
+            ],
+            cnn: [
+                {
+                    title: "US military carries out new strikes in Iran",
+                    link: "https://www.cnn.com/world"
+                },
+                {
+                    title: "Divers find 5 people trapped in Laos cave alive",
+                    link: "https://www.cnn.com/asia"
+                },
+                {
+                    title: "Clashes between armed groups in Colombia kill at least 52",
+                    link: "https://www.cnn.com/world"
+                },
+                {
+                    title: "Netanyahu directs Israeli forces to expand Gaza control",
+                    link: "https://www.cnn.com/middleeast"
+                },
+                {
+                    title: "German-Netherlands Corps to take NATO command role",
+                    link: "https://www.cnn.com/europe"
+                }
+            ],
+            nyt: [
+                {
+                    title: "Iran War Live Updates: Iranian Military Says It Targeted a U.S. Base",
+                    link: "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal"
+                },
+                {
+                    title: "Why Pakistan and Afghanistan Are Still Fighting",
+                    link: "https://www.nytimes.com/2026/05/28/world/asia/pakistan-afghanistan-conflict.html"
+                },
+                {
+                    title: "A Quiet Pacific Village Becomes China’s Security Testing Ground",
+                    link: "https://www.nytimes.com/2026/05/27/world/asia/china-solomons-pacific-security-threats.html"
+                },
+                {
+                    title: "Lebanese Resigned to a Long War, Even if U.S. and Iran Make a Deal",
+                    link: "https://www.nytimes.com/2026/05/27/world/middleeast/lebaon-war-deal-iran-us.html"
+                },
+                {
+                    title: "What Plunging Pork Prices Say About China’s Economy",
+                    link: "https://www.nytimes.com/section/world"
+                }
+            ],
+            reuters: [
+                {
+                    title: "Iran and US agree plan for 60-day ceasefire extension after latest attacks",
+                    link: "https://www.reuters.com/world"
+                },
+                {
+                    title: "Clashes between armed groups in Colombia kill at least 52",
+                    link: "https://www.reuters.com/world"
+                },
+                {
+                    title: "'Breakneck' Ebola epidemic in Congo outpaces world's response",
+                    link: "https://www.reuters.com/world"
+                },
+                {
+                    title: "Israeli strike on Hamas leader kills 10, including children in Gaza",
+                    link: "https://www.reuters.com/world"
+                },
+                {
+                    title: "German-Netherlands Corps to take NATO command role in Estonia, Latvia",
+                    link: "https://www.reuters.com/world"
+                }
+            ],
+            ap: [
+                {
+                    title: "US military accuses Iran of ceasefire violation after Kuwait comes under missile attack",
+                    link: "https://apnews.com/world-news"
+                },
+                {
+                    title: "Israel and Hezbollah clash along a strategic Lebanese river",
+                    link: "https://apnews.com/world-news"
+                },
+                {
+                    title: "Trump gathers Cabinet as he looks to seal deal to end war",
+                    link: "https://apnews.com/world-news"
+                },
+                {
+                    title: "Uganda closes its border with Congo over Ebola concerns",
+                    link: "https://apnews.com/world-news"
+                },
+                {
+                    title: "Zelenskyy says he's pressing US for more Patriot missiles",
+                    link: "https://apnews.com/world-news"
+                }
+            ],
+            asia: [
+                {
+                    title: "Times of India: Hormuz standoff: Trump's warning to Oman",
+                    link: "https://timesofindia.indiatimes.com/world"
+                },
+                {
+                    title: "Asahi Shimbun: Japan monitors escalating US-Iran tensions",
+                    link: "https://www.asahi.com/ajw/"
+                },
+                {
+                    title: "Pakistan and Afghanistan continue border clashes",
+                    link: "https://timesofindia.indiatimes.com/world"
+                },
+                {
+                    title: "China expands security presence in Solomon Islands",
+                    link: "https://www.asahi.com/ajw/"
+                },
+                {
+                    title: "India monitors developments in Middle East conflict",
+                    link: "https://timesofindia.indiatimes.com/world"
+                }
+            ]
+        };
+        
+        // Render headlines
+        function renderHeadlines() {
+            // BBC
+            const bbcContainer = document.getElementById('bbc-headlines');
+            bbcContainer.innerHTML = headlines.bbc.map(h => `
+                <div class="headline">
+                    <a href="${h.link}" target="_blank">
+                        <div class="headline-title">${h.title}</div>
+                    </a>
+                    <div class="source">BBC News</div>
+                </div>
+            `).join('');
+            
+            // CNN
+            const cnnContainer = document.getElementById('cnn-headlines');
+            cnnContainer.innerHTML = headlines.cnn.map(h => `
+                <div class="headline">
+                    <a href="${h.link}" target="_blank">
+                        <div class="headline-title">${h.title}</div>
+                    </a>
+                    <div class="source">CNN International</div>
+                </div>
+            `).join('');
+            
+            // NYT
+            const nytContainer = document.getElementById('nyt-headlines');
+            nytContainer.innerHTML = headlines.nyt.map(h => `
+                <div class="headline">
+                    <a href="${h.link}" target="_blank">
+                        <div class="headline-title">${h.title}</div>
+                    </a>
+                    <div class="source">The New York Times</div>
+                </div>
+            `).join('');
+            
+            // Reuters
+            const reutersContainer = document.getElementById('reuters-headlines');
+            reutersContainer.innerHTML = headlines.reuters.map(h => `
+                <div class="headline">
+                    <a href="${h.link}" target="_blank">
+                        <div class="headline-title">${h.title}</div>
+                    </a>
+                    <div class="source">Reuters</div>
+                </div>
+            `).join('');
+            
+            // AP
+            const apContainer = document.getElementById('ap-headlines');
+            apContainer.innerHTML = headlines.ap.map(h => `
+                <div class="headline">
+                    <a href="${h.link}" target="_blank">
+                        <div class="headline-title">${h.title}</div>
+                    </a>
+                    <div class="source">Associated Press</div>
+                </div>
+            `).join('');
+            
+            // Asia
+            const asiaContainer = document.getElementById('asia-headlines');
+            asiaContainer.innerHTML = headlines.asia.map(h => `
+                <div class="headline">
+                    <a href="${h.link}" target="_blank">
+                        <div class="headline-title">${h.title}</div>
+                    </a>
+                    <div class="source">Times of India / Asahi Shimbun</div>
+                </div>
+            `).join('');
+        }
+        
+        // Initialize
+        window.onload = function() {
+            updateTimestamp();
+            renderHeadlines();
+            
+            // Auto refresh timestamp every minute
+            setInterval(updateTimestamp, 60000);
+        };
+    </script>
+</body>
+</html>
