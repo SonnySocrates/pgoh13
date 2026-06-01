@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+
+<title>pgoh's Free Malay 101 course and tutorial online (with some Indonesian thrown in for good measure).  Free Basic Malay course by pgoh13. Learn Malay language in 64 lessons.</title>
+<meta name="description" content="pgoh's free Malay tutorial, free Malay lessons by pgoh13, Malay 101 course and tutorial online - with some Indonesian thrown in for good measure.  Free Basic Malay course by pgoh. Learn Malay language in 64 lessons.">
+
+
+<meta name="viewport" content="width = 980" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+<?/*
+<style>
+
+<script type="text/javascript">
+  if (top.frames.length > 1) {
+top.location="http://pgoh13.free.fr/mycourse2/";
+}
+// 
+</script>
+
+</style> */?>
+
+<link rel="shortcut icon" href="http://pgoh13.free.fr/favicon.ico"> 
+
+<script>
+function setFocusToTextBox(){
+    document.getElementById("mytext").focus();
+}
+</script>
+<style type="text/css">
+body {padding-left:20px;max-width:960px;margin:auto}
+table.pleasenote6 td {text-align:left;padding:10px;
+font: normal 10pt verdana, arial, sans-serif;
+color:black; background-color:lightyellow}  
+table.heading td {
+font: bold 18pt verdana, arial, sans-serif;
+color:red; background-color:yellow}
+</style>
+</head>
+
+<body bgcolor=#cccccc>
+
+<!--
+<br><p style="display:block;background-color:beige;border:1px solid black;margin-left:20px;padding:12px;font-family:arial;font-size:12px;font-style:normal;max-width:980px;">This website will not be updated. It is left here as archives.  Please note that with the passing of time it is likely to contain outdated information or information that is no longer relevant. Thank you. - Webmaster
+</p>
+
+<br><a style="text-decoration:none" href="http://www.emailmeform.com/builder/form/Vr4xzDPmb4W" target=_blank><span style="font-family:arial;font-size:18px">Contact &nbsp;<img src=../envelope.gif style="width:18px;height:12px"></span></a> -->
+
+<a style="font-size:14px;text-decoration:none;font-family:arial;" href="http://pgoh13.free.fr" target=_blank><b>Home Page</b></a>
+<br><a style="font-size:14px;text-decoration:none;font-family:arial;"  href="http://pgoh13.free.fr/mycourse2/lesson62_a.html" target=_blank><strong style="font-family:arial;">Telling all about yourself in Malay</strong></a>
+<br><a style="font-size:14px;text-decoration:none;font-family:arial;"  href="http://pgoh13.free.fr/mycourse2/time_forReal.php" target=_blank><strong style="font-family:arial;color:#006400;">Practise telling the time in Malay for real</strong></a>
+<br><a style="font-size:14px;text-decoration:none;font-family:arial;"  href="http://pgoh13.free.fr/mycourse2/lesson8nombor2.php#age" target=_blank><strong style="font-family:arial;color:#006400;">Berapa umur anda? (How old are you)</strong></a>
+<br><br>
+
+
+
+
+
+<!--
+<p style="display:inline-block;background-color:green; color:white;border:1px solid black; font-family:arial; font-size:clamp(16px,4vw,18px); font-weight:400; margin-left:5px;padding-left:15px;margin-right:10px;padding-right:15px;max-width:900px;">A big "Thank you!" to Basic_Cilantro for his/her encouraging message <a style="font-family:arial;color:yellow;" href="https://www.reddit.com/r/bahasamelayu/comments/1lw57zv/thank_you_to_the_creator_of_pgoh13_free_malay/" target=_blank> here</a>.
+</p>
+
+<div class="paragraph-container">
+<p style="background-color:black; color:yellow;border:1px solid black; font-family:tahoma; font-size:14px; font-weight:300; font-style:normal; margin-left:5px;padding-left:15px;margin-right:15px;padding-right:15px;max-width:900px;">All in one place! This is one of the few websites where there are no advertising, no sponsors, no cookies (except for external sites over which I have no control). To find this site easily, simply type <a href=https://www.google.com/search?q=pgoh target=_blank><strong style="color:white;font-size:14px;">&nbsp;pgoh</strong></a> or <a href=https://www.bing.com/search?q=pgoh13 target=_blank><strong style="color:white;font-size:14px;">&nbsp;pgoh13</strong></a> into a search engine. - Webmaster (25/03/2026)
+</div>
+ -->
+
+
+
+
+
+
+
+
+
+
+
+<br>
+<h1 span style="display: inline;color:yellow;background-color:midnightblue;font-family:arial;font-size:30px;">&nbsp;Basic Malay Language Course&nbsp;</h1>
+<br><em style="font-family:arial;font-size:18px;">(with some Indonesian thrown in for good measure)</em>
+<br><br>
+
+
+
+
+
+
+
+
+
+
+<a style="font-family:tahoma;text-decoration:none;font-size:18px" href=index.htm>Go here for the smartphone version (does not include Indonesian).</a>
+<br>
+<p style="max-width:960px;font-size: 18px;font-family: Trebuchet,Verdana,Lucida Grande,Sapir Sans,Tahoma,sans-serif;">How would you like to learn two languages (Malay and Indonesian) for the price of one?  Just joking, of course as all the lessons here are completely free.  In fact although this course is on the Malaysian language, anyone wishing to learn the Indonesian language could just as well start here and then look at the differences at the bottom of each lesson (not too many, at least for day-to-day conversations, I can assure you).  So I intend to develop this course further and point out to you the most important differences with the Indonesian language as we go along.
+<br>As this is a basic course I am assuming, of course, that your aim in studying the Malaysian or Indonesian language from here is to be able to understand and to make yourself understood when you travel to those countries.  If your study is of an academic nature then of course you will have to go through a proper school and attend regular classes and do practical exercises to gain proficiency.
+<br>To those of you who are more interested in learning Indonesian rather than Malay from here you still have to go through these 64 lessons in Basic Malay as much of the vocabulary and structure are common to both languages.  However to facilitate their study I have highlighted all the differences between the two languages <a href=indon_tables.php target=_blank> here (click to go)</a>.
+</p>
+
+
+
+
+<p style="display:inline-block;border:1px solid black;background-color:yellow;padding:10px"><a style="font-family:tahoma;text-decoration:none;font-size:24px" href=malay_introduction.php target=_blank>Before you begin</a>
+</p>
+
+
+
+
+<p style="max-width:960px;font-size: 18px;font-family: Trebuchet,Verdana,Lucida Grande,Sapir Sans,Tahoma,sans-serif;">Before you start studying you might want to read the introduction first.  <a style="text-decoration:none" href=malay_introduction.php target=_blank>Go here for an Introduction to the Malay Language.</a>
+
+
+<br>Please note that this is just a basic course and is meant for beginners only.  Advanced students of Malay are kindly requested to look elsewhere.
+<br>For those of you who have already finished the course and would like to revise constantly without having to go through the lessons all over again, I have put all the tables together here to make your revision easier (click on the smiley) <a href=tables_oflessons.php><img style="width:20px;height:20px" src=happy_smiley.jpg></a></p>
+
+
+
+<p style="display:inline-block;border:1px solid black;background-color:yellow;padding:10px;font-family:tahoma;text-decoration:none;font-size:24px">Table of Contents</p>
+
+
+
+
+<p style="max-width:960px;font-size: 18px;font-family: Trebuchet,Verdana,Lucida Grande,Sapir Sans,Tahoma,sans-serif;">
+<a href=lesson1nama.php style="text-decoration:none" class="black">Lesson 1 Nama/Ganti nama (Name/Pronouns)</a>
+<br><a href=lesson2bahasa.php style="text-decoration:none" class="black">Lesson 2 Bahasa (Language)</a>
+<br><a href=lesson3ini.php style="text-decoration:none" class="black">Lesson 3 Ini...(This is...)</a>
+<br><a href=lesson4orang.php style="text-decoration:none" class="black">Lesson 4 Orang Inggeris (Englishman)</a>
+<br><a href=lesson5nombor.php style="text-decoration:none" class="black">Lesson 5 Nombor 1-9</a>
+<br><a href=lesson6berapa.php style="text-decoration:none" class="black">Lesson 6 Berapa? (How many?)</a>
+<br><a href=lesson7hari.php style="text-decoration:none" class="black">Lesson 7 Hari ini hari apa? (What day is it today?)</a>
+<br><a href=lesson8nombor2.php style="text-decoration:none" class="black">Lesson 8  Nombor 10-99.  Berapa umur anda? (How old are you?)</a>
+<br><a href=lesson9jam.php style="text-decoration:none" class="black">Lesson 9  Pukul berapa sekarang?  (What time is it now?)</a>
+<br><a href=lesson10bulan.php style="text-decoration:none" class="black">Lesson 10 Bulan ini bulan apa?  (What month is this month?)</a>
+<br><a href=lesson11greetings.php style="text-decoration:none" class="black">Lesson 11 Apa khabar?  (How are you?)</a>
+<br><a href=lesson12warna.php style="text-decoration:none" class="black">Lesson 12 Warna  (Colours)</a>
+<br><a href=lesson13belum.php style="text-decoration:none" class="black">Lesson 13 Belum (Not yet)</a>
+<br><a href=lesson14hendak.php style="text-decoration:none" class="black">Lesson 14 Hendak (Wish to)</a>
+<br><a href=lesson15akan.php style="text-decoration:none" class="black">Lesson 15 Akan (Will)</a>
+<br><a href=lesson16kalau.php style="text-decoration:none" class="black">Lesson 16 Kalau (If)</a>
+<br><a href=lesson17bila.php style="text-decoration:none" class="black">Lesson 17 Questions with "Bila" (When)</a>
+<br><a href=lesson18jangan.php style="text-decoration:none" class="black">Lesson 18 Jangan (Don't)</a>
+<br><a href=lesson19apa.php style="text-decoration:none" class="black">Lesson 19 Questions with "Apa" (What?)</a>
+<br><a href=lesson20maafkan.php style="text-decoration:none" class="black">Lesson 20 Maafkan saya (Excusing oneself)</a>
+<br><a href=lesson21mana.php style="text-decoration:none" class="black">Lesson 21 Questions with "Di mana" (Where?)</a>
+<br><a href=lesson22nombor3.php style="text-decoration:none" class="black">Lesson 22 Nombor (100 and above)</a>
+<br><a href=lesson23makan.php style="text-decoration:none" class="black">Lesson 23 Apa yang anda suka makan?  (What do you like to eat?)</a>
+<br><a href=lesson24minum.php style="text-decoration:none" class="black">Lesson 24 Apa yang anda hendak minum?  (What do you wish to drink?)</a>
+<br><a href=lesson25mengapa.php style="text-decoration:none" class="black">Lesson 25 Mengapa (Why)</a>
+<br><a href=lesson26boleh.php style="text-decoration:none" class="black">Lesson 26 Questions beginning with "Boleh"</a>
+<br><a href=lesson27barangkali.php style="text-decoration:none" class="black">Lesson 27 Barangkali (Perhaps)</a>
+<br><a href=lesson28selalu.php style="text-decoration:none" class="black">Lesson 28 Selalu (Always)</a>
+<br><a href=lesson29siapa.php style="text-decoration:none" class="black">Lesson 29 Questions with "Siapa" (Who?)/Family members</a>
+<br><a href=lesson30sejuk.php style="text-decoration:none" class="black">Lesson 30 Sejuk (Cold)</a>
+<br><a href=lesson31sedang.php style="text-decoration:none" class="black">Lesson 31 The present continuous tense</a>
+
+<br><a href=lesson32suka.php style="text-decoration:none;" class="black">Lesson 32 Suka (To like)</a>
+<br><a href=lesson33sangat.php style="text-decoration:none" class="black">Lesson 33 Sangat (Very)</a>
+<br><a href=lesson34sila.php style="text-decoration:none" class="black">Lesson 34 Sila (Please extending an invitation)</a>
+<br><a href=lesson35sudah.php style="text-decoration:none" class="black">Lesson 35 Sudah (The past tense)</a>
+<br><a href=lesson36tadi.php style="text-decoration:none" class="black">Lesson 36 Tadi (Just now)</a>
+<br><a href=lesson37tidak.php style="text-decoration:none" class="black">Lesson 37 Tidak ("Not" with adjectives)</a>
+<br><a href=lesson38tolong.php style="text-decoration:none" class="black">Lesson 38 Tolong (Please asking a service)</a>
+<br><a href=lesson39untuk.php style="text-decoration:none" class="black">Lesson 39 Untuk (For)</a>
+<br><a href=lesson40yang.php style="text-decoration:none" class="black">Lesson 40 Yang mana? (Which one?)</a>
+<br><a href=lesson41dengan.php style="text-decoration:none" class="black">Lesson 41  Dengan (With)</a>
+<br><a href=lesson42beli.php style="text-decoration:none" class="black">Lesson 42 Saya hendak beli...(I wish to buy...)</a>
+<br><a href=lesson43harga.php style="text-decoration:none" class="black">Lesson 43 Berapa harganya? (What's the price?)</a>
+<br><a href=lesson44shortforms.php style="text-decoration:none" class="black">Lesson 44 Short forms (nak, tak, etc.)</a>
+<br><a href=lesson45prepo1.php style="text-decoration:none" class="black">Lesson 45 Prepositions (to, from some place)</a>
+<br><a href=lesson46prepo2.php style="text-decoration:none" class="black">Lesson 46 Prepositions (to, from, for someone)</a>
+<br><a href=lesson47opposites.php style="text-decoration:none" class="black">Lesson 47 Adjectives and Synonyms</a>
+<br><a href=lesson48betulkah.php style="text-decoration:none" class="black">Lesson 48 Betulkah?  (Is that true?)</a>
+<br><a href=lesson49sebutan1.php style="text-decoration:none" class="black">Lesson 49 Sebutan1 (Pronunciation Part 1)</a>
+<br><a href=lesson50sebutan2.php style="text-decoration:none" class="black">Lesson 50 Sebutan2 (Pronunciation Part 2)</a>
+<br><a href=lesson51bukan.php style="text-decoration:none" class="black">Lesson 51 Bukan ("Not" with nouns)</a>
+<br><a href=lesson52masih.php style="text-decoration:none" class="black">Lesson 52 Masih (Still)</a>
+<br><a href=lesson53pernah.php style="text-decoration:none" class="black">Lesson 53 Use of "pernah" (ever)</a>
+<br><a href=lesson54alamat.php style="text-decoration:none" class="black">Lesson 54 Alamat (Address)</a>
+<br><a href=lesson55kata.php style="text-decoration:none" class="black">Lesson 55 Dia kata...  (He said that...)</a>
+<br><a href=lesson56badan.php style="text-decoration:none" class="black">Lesson 56 Badan (Parts of the body)</a>
+<br><a href=lesson57sakit.php style="text-decoration:none" class="black">Lesson 57 Sakit (Sick)</a>
+<br><a href=lesson58compare.php style="text-decoration:none" class="black">Lesson 58 Making Comparisons</a>
+<br><a href=lesson59occupations.php style="text-decoration:none" class="black">Lesson 59 Pekerjaan (Occupations)</a>
+<br><a href=lesson60penjodoh.php style="text-decoration:none" class="black">Lesson 60 Penjodoh Bilangan (Classifiers)</a>
+<br><a href=lesson61apa_ini.php style="text-decoration:none" class="black">Lesson 61 Apa ini?  (What is this?)</a>
+<br><a href=lesson62_a.html style="text-decoration:none" class="black" target=_blank>Lesson 62 Presenting oneself</a>
+<br><a href=lesson63compliments.php style="text-decoration:none" class="black">Lesson 63 Compliments and criticisms</a>
+<br><a href=lesson64signboards.php style="text-decoration:none" class="black">Lesson 64 Signboard language</a>
+<br><a href=appendix.php style="text-decoration:none" class="black">APPENDIX: Malay prefixes and suffixes</a>
+<br><a href=translation.xml><font color=red>Ready for more?</font></a>
+<br><a href="tables_oflessons.php" target="_blank" style="text-decoration:none" class="black">REVISION (Malay In A Nutshell)</a>
+<br><a href="table_contentsPC.htm" target="_blank" style="text-decoration:none" class="black">Summary of the 64 lessons (for PC)</a>
+<br><a href="table_contents.htm" target="_blank" style="text-decoration:none" class="black">Summary of the 64 lessons (for smartphone)</a>
+<br><a href="indon_tables.php" style="text-decoration:none" class="black">From Malay to Indonesian</a>
+
+</td></tr></table>
+</td></tr></table>
+
+</center>
+
+
+<br><br>
+
+
+</body></html>

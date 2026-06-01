@@ -1,0 +1,74 @@
+<table style="max-width:400px;background-color:white">
+    <tr>
+        <td>
+            <span style="font-size:0.8em;">
+                <b>A quick revision:</b> hari Ahad (Sunday), Isnin (Monday), Selasa (Tuesday), Rabu (Wednesday), Khamis (Thursday), Jumaat (Friday), Sabtu (Saturday)
+                <br><br>
+                <b>Fill in the days of the week below with their Malay names:</b>
+            </span>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <br>
+            <?
+            $day = strftime("%A");
+            echo " <em>It is " . $day . " in France</em>";
+            echo "<br>";
+            echo "<font color=red>Hari apa di Perancis?</font>";
+            echo "<br>";
+            echo " <font color=red>Hari _______ di Perancis</font>";
+            echo "<br><br>";
+
+            $day = strftime("%A", time() + 25200);
+            echo " <em>It is " . $day . " in Malaysia</em>";
+            echo "<br>";
+            echo "<font color=red>Hari apa di Malaysia?</font>";
+            echo "<br>";
+            echo " <font color=red>Hari _______ di Malaysia</font>";
+            echo "<br><br>";
+
+            $day = strftime("%A", time() - 21600);
+            echo " <em>It is " . $day . " in New York</em>";
+            echo "<br>";
+            echo "<font color=red>Hari apa di New York?</font>";
+            echo "<br>";
+            echo " <font color=red>Hari _______ di New York</font>";
+            echo "<br><br>";
+
+            $day = strftime("%A", time() - 3600);
+            echo " <em>It is " . $day . " in London</em>";
+            echo "<br>";
+            echo "<font color=red>Hari apa di London?</font>";
+            echo "<br>";
+            echo " <font color=red>Hari _______ di London</font>";
+            echo "<br><br>";
+
+            $day = strftime("%A", time() + 16200);
+            echo " <em>It is " . $day . " in India</em>";
+            echo "<br>";
+            echo "<font color=red>Hari apa di India?</font>";
+            echo "<br>";
+            echo " <font color=red>Hari _______ di India</font>";
+            echo "<br><br>";
+
+            $day = strftime("%A", time() - 39600); // Honolulu est en UTC-10
+            echo " <em>It is " . $day . " in Honolulu</em>";
+            echo "<br>";
+            echo "<font color=red>Hari apa di Honolulu?</font>";
+            echo "<br>";
+            echo " <font color=red>Hari _______ di Honolulu</font>";
+            echo "<br><br>";
+
+            $day = strftime("%A", time() + 43200); // Auckland est en UTC+12 (ou UTC+13 en heure d'été)
+            echo " <em>It is " . $day . " in Auckland</em>";
+            echo "<br>";
+            echo "<font color=red>Hari apa di Auckland?</font>";
+            echo "<br>";
+            echo " <font color=red>Hari _______ di Auckland</font>";
+            echo "<br><br>";
+            ?>
+        </td>
+    </tr>
+</table>
+

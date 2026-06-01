@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Age Calculator</title>
+    <style>
+        input, label {
+            font-family: sans-serif;
+            font-size: 14px;
+        }
+        input[type="text"] {
+            width: 180px;
+            margin: 8px 0;
+        }
+        input[name="res"] {
+            width: 290px;
+        }
+        input[type="button"] {
+            margin-top: 10px;
+            padding: 8px 16px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <h5>Age Calculator</h5>
+    
+    <form name="MF">
+        <label>Enter your date of birth (dd/mm/yyyy):</label><br>
+        <input type="text" name="madate" placeholder="dd/mm/yyyy" maxlength="10" onkeyup="formatDate(this)"><br>
+        <input type="text" name="res" placeholder="Your age will appear here" readonly><br>
+        <input type="button" value="Click for age" onclick="calculateAge()">
+    </form>
+
+    <script>
+        // Auto-format date while typing (adds slashes)
+        function formatDate(input) {
+            let value = input.value.replace(/\D/g, ''); // Remove non-digits
+            
+            if (value.length > 2) {
+                value = value.substring(0,2) + '/' + value.substring(2);
+            }
+            if (value.length > 5) {
+                value = value.substring(0,5) + '/' + value.substring(5,9);
+            }
+            
+            input.value = value.substring(0,10);
+        }
+
+        function calculateAge() {
+            var today = new Date();
+            var inputStr = document.MF.madate.value.trim();
+
+            if (!inputStr) {
+                alert("Please enter your date of birth!");
+                return;
+            }
+
+            // Remove slashes
+            var numbers = inputStr.replace(/\D/g, '');
+            
+            if (numbers.length !== 8) {
+                alert("Please enter a valid date (dd/mm/yyyy)");
+                return;
+            }
+
+            // === CHANGED FOR dd/mm/yyyy ===
+            var day   = parseInt(numbers.substring(0,2));
+            var month = parseInt(numbers.substring(2,4)) - 1;  // month 0-11
+            var year  = parseInt(numbers.substring(4,8));
+
+            var birthDate = new Date(year, month, day);
+
+            // Validate the date
+            if (birthDate.getFullYear() !== year || 
+                birthDate.getMonth() !== month || 
+                birthDate.getDate() !== day) {
+                alert("Please enter a valid date!");
+                return;
+            }
+
+            var age = today.getFullYear() - birthDate.getFullYear();
+            
+            if (today.getMonth() < birthDate.getMonth() || 
+               (today.getMonth() === birthDate.getMonth() && today.getDate() < birthDate.getDate())) {
+                age--;
+            }
+
+            var todayStr = (today.getMonth()+1) + "/" + today.getDate() + "/" + today.getFullYear();
+            document.MF.res.value = age + " years on " + todayStr;
+        }
+    </script>
+</body>
+</html>

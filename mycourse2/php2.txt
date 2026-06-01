@@ -1,0 +1,75 @@
+<?php
+$heure = strftime("%H:%M", time());
+$jour = strftime("%A", time());
+echo '<em>It is now ' . $heure . ' (' . $jour . ') in France</em>';
+echo '<br>';
+echo '<font color=red>Pukul berapa sekarang di Perancis?</font>';
+echo '<br>';
+echo '<font color=red>Sekarang pukul ' . $heure . ' di Perancis</font>';
+?>
+
+<br><br>
+<?php
+$heure = strftime("%H:%M", time() + 17100);
+$jour = strftime("%A", time() + 17100);
+echo '<em>It is now ' . $heure . ' (' . $jour . ') in Nepal (France +4 3/4 hours)</em>';
+echo "<br>";
+echo " <font color=red>Pukul berapa sekarang di Nepal?</font>";
+echo "<br>";
+echo '<font color=red>Sekarang pukul ' . $heure . ' di Nepal</font>';
+?>
+
+<br><br>
+<?php
+$heure = strftime("%H:%M", time() + 25200);
+$jour = strftime("%A", time() + 25200);
+echo ' <em>It is now ' . $heure . ' (' . $jour . ') in Malaysia (France +7 hours)</em>';
+echo "<br>";
+echo " <font color=red>Pukul berapa sekarang di Malaysia?</font>";
+echo "<br>";
+echo '<font color=red>Sekarang pukul ' . $heure . ' di Malaysia</font>';
+?>
+
+<br><br>
+<?php
+$heure = strftime("%H:%M", time() - 3600);
+$jour = strftime("%A", time() - 3600);
+echo ' <em>It is now ' . $heure . ' (' . $jour . ') in London (France -1 hour)</em>';
+echo "<br>";
+echo " <font color=red>Pukul berapa sekarang di London?</font>";
+echo "<br>";
+echo '<font color=red>Sekarang pukul ' . $heure . ' di London</font>';
+?>
+
+<br><br>
+<?php
+$heure = strftime("%H:%M", time() + 16200);
+$jour = strftime("%A", time() + 16200);
+echo '<em>It is now ' . $heure . ' (' . $jour . ') in India (France +4.5 hours)</em>';
+echo '<br>';
+echo '<font color=red>Pukul berapa sekarang di India?</font>';
+echo '<br>';
+echo '<font color=red>Sekarang pukul ' . $heure . ' di India</font>';
+?>
+
+<br><br>
+<?php
+$heure = strftime("%H:%M", time() - 39600); // Honolulu est en UTC-10, donc France -11 heures en hiver et France -12 heures en été
+$jour = strftime("%A", time() - 39600);
+echo '<em>It is now ' . $heure . ' (' . $jour . ') in Honolulu (France -11/-12 hours)</em>';
+echo '<br>';
+echo '<font color=red>Pukul berapa sekarang di Honolulu?</font>';
+echo '<br>';
+echo '<font color=red>Sekarang pukul ' . $heure . ' di Honolulu</font>';
+?>
+
+<br><br>
+<?php
+$heure = strftime("%H:%M", time() + 43200); // Auckland est en UTC+12 (ou UTC+13 en heure d'été)
+$jour = strftime("%A", time() + 43200);
+echo '<em>It is now ' . $heure . ' (' . $jour . ') in Auckland (France +11/+12 hours)</em>';
+echo '<br>';
+echo '<font color=red>Pukul berapa sekarang di Auckland?</font>';
+echo '<br>';
+echo '<font color=red>Sekarang pukul ' . $heure . ' di Auckland</font>';
+?>
