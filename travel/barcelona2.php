@@ -1,0 +1,132 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<TITLE>Visiting Barcelona (2) - The Barcelona of Antoni Gaudi.  A page for those who are planning a visit to Barcelona.</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1" >
+<META name=description content="Visiting Barcelona (2) - The Barcelona of Antoni Gaudi.  A page for those who are planning a visit to Barcelona.">
+<meta name="keywords" content="La Pedrera, Casa Mila, Casa Batllo, Sagrada Familia, Park Guell"> 
+
+<style>
+.white {color:white}
+</style>
+<style>
+body {background: #ccc;max-width: 980px;margin: auto;} //will center your table
+h1 {font-family:arial;font-size:42px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h2 {font-family:arial;font-size:36px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h3  {font-family:arial;font-size:24px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+a {text-decoration:none}
+</style>
+<script type="text/javascript">
+  function setfocus()
+  {
+    document.forms[0].q.focus()
+  }
+  </script>
+<style type="text/css">
+h2 {
+width:400px;
+text-align:left;
+font-size: 20px;
+color: #FFFF00;
+background-color: #000000;
+padding: 2px 15px;
+font-family: Arial, Georgia, "Times New Roman", Times, serif;
+font-weight: normal;
+} 
+</style>
+</HEAD>
+
+<BODY bgcolor="#cccccc" onload='setFocusToTextBox()'>
+
+<table width=980><tr>
+<td width=800 valign=top>
+<table><tr><td>
+<b><a href=barcelona_tube.php target="_blank">Barcelona underground map</a>  |  <a href=http://www.bcn.es/temps/english/ target="_blank">Weather outlook</a></b><br />
+</td></tr>
+<tr><td align=left>
+
+</td></tr></table>
+
+
+<h1 style="font-family:arial;font-size:42px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px">VISITING BARCELONA (2)</h1>
+
+<table align=right width=500 height=306><tr><td valign=top><a href=boqueria_market.jpg><img title="The Boqueria market in Barcelona" alt="The Boqueria market in Barcelona" src=boqueria_market500.jpg width=500></a></td></tr><tr><td><font size=3><em>The Boqueria market in Barcelona, which was built in 1836 is one of the most amazing in the world.  You are not likely to miss it as it is near the Liceu subway station, which is right in the middle of La Rambla, Barcelona's famous sidewalk.  Note the freshly-cut exotic fruits on the left and the numerous fresh fruit juices on the right.  It remains open till about 8 p.m. daily.</em></font></td></tr></table>
+
+<br><FONT face=tahoma color=black size=3>BARCELONA is the 4th most visited city in Europe (coming after Paris, London and Rome) thanks mainly to Antoni Gaudi's architectural masterpieces (see below).
+<br />As a matter of fact Barcelona is such an interesting city that if you are visiting Paris for a few weeks you should consider taking the night train there for a short visit.  Even if it is just for a weekend I think it would be well worth the trip.  The night train Elipsos (formerly called Talgo) leaves Paris at 20h41 and arrives at the Barcelona Franca station at 08h24 the next morning (June 2011 time-table) giving you a leisurely start to your Spanish holiday.  And if you happen to be in Madrid, it would be a pity not to come to Barcelona as it takes only slightly more than two and a half hours with the high-speed AVE trains.
+<br />However, those of you who have been studying Spanish and who hope to make full use of it, will be in for a disappointment as Catalan is spoken everywhere instead of Castellano (Spanish).  In fact all public signboards and road names are in Catalan (and not in Spanish) which makes some words unpronounceable.
+<br>A single subway/bus ticket costs 1.45 euros but if you are going to make more than three trips think of buying the T10 ticket (costs 8.25 euros) from the very beginning as it is valid for 10 trips and so works out to only 82 euro centimes per trip (prices are valid for Year 2011). Another advantage in buying the T10 ticket is that, unlike the single-trip tickets, you can combine metro + bus and count it as only one trip if your travel time doesn't exceed 1 hour and 15 minutes.  But don't leave the metro station for 5 minutes to buy something and get into it again.  This will count as a second trip!
+<br>The pulse of the city is undoubtedly La Rambla (used to be called Las Ramblas until Catalan took over) which stretches all the way from Plaza Catalunya to Port Vell.
+<br>And one of the not-to-be-missed highlights at La Rambla is the famous and immense Boqueria market.  It is so immense that you will find a stand selling nothing but eggs, another selling only mushrooms and a third selling nothing but jelly sweets made from every fruit imaginable.  My favourite stall is the one selling exotic fruit juices and cut fruit (photo above).
+
+<br />
+
+<h2>The Barcelona of Antoni Gaud&iacute;</h2>
+
+<table width=980><tr>
+<td width="490" valign=top><a href="lapedrera_facade.jpg"><img alt="Facade of Gaudi's La Pedrera (also known as Casa Mila)" title="Facade of Gaudi's La Pedrera (also known as Casa Mila)" src="lapedrera_facade400.jpg" width="490"></a>
+Facade of Gaudi's <em>La Pedrera</em> (also known as <em>Casa Mila</em>) from the opposite side of Paseig de Gracia.
+</td>
+<td width=490 valign=top><a href="lapedrera_rooftop.jpg"><img alt="Rooftop of Gaudi's La Pedrera" title="Rooftop of Gaudi's La Pedrera" src="lapedrera_rooftop400.jpg" width=490></a>
+<em>The rooftop at La Pedrera has a commanding view over Barcelona.  The building is at 92 Paseig de Gracia.</em>
+</td></tr>
+
+<tr><td><br /></td></tr><tr>
+<td width="490" valign=top><a href="park_guell.jpg"><img alt="Gaudi's Park Guell in Barcelona" title="Gaudi's Park Guell in Barcelona" src="park_guell400.jpg" width="490"></a>
+The world-renowned Park Guell which took the Catalan architect Antoni Gaud&iacute; four years (1900-1914) to build.
+</td>
+<td width="490" valign=top><a href="mosaicdragon_parkguell.jpg"><img alt="Mosaic dragon in Gaudi's Park Guell in Barcelona" title="Mosaic dragon in Gaudi's Park Guell in Barcelona" src="mosaicdragon_parkguell400.jpg" width="490"></a>
+<em>A boy puts his hand into the mouth of the mosaic dragon (or is it a salamander?) in Park Guell.</em>
+</td></tr>
+
+<tr><td><br /></td></tr><tr>
+<td width="490" valign=top><a href="sagrada_familia.jpg"><img alt="The Sagrada Familia in Barcelona" title="The Sagrada Familia in Barcelona" src="sagrada_familia400.jpg" width="490"></a>
+Gaudi had hardly finished a quarter of the <em>Sagrada Familia</em> project when he died in 1926.  A group of architects then continued the project which is expected to be terminated only around 2026!
+</td>
+<td width="490" valign=top><a href="Casa_Batllo.jpg"><img alt="Gaudi's Casa Batllo in Barcelona" title="Gaudi's Casa Batllo in Barcelona" src="Casa_Batllo400.jpg" width="490"></a>
+<em>Another Gaudi masterpiece - the Casa_Batllo at 49 Paseig de Gracia.  But apart from Gaudi, art lovers also come to Barcelona for Miro, Picasso and Dali.</em>
+<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><a href=barcelona3.php>Go here for Visiting Barcelona (3)</a></td></tr></table>
+
+</font></font>
+</td></tr></table>
+
+<? include "all_cities.inc"; ?>
+
+</td></tr></table>
+</BODY>
+</HTML>

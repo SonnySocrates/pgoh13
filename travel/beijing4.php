@@ -1,0 +1,130 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<TITLE>VISITING BEIJING (4).  A page for those who are visiting Beijing or who plan to visit Beijing.</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1" >
+<META name=description content="Fourth of 8 pages on visiting Beijing. This site will help those who are visiting Beijing to plan their holidays in advance">
+<meta name="keywords" content="visit Beijing, visiting Beijing, photos of Beijing, pictures of Beijing, Palace Museum, Forbidden City, Gugong Bowuyuan, Imperial Garden, Tian An Men, Sun Yat-Sen Park, Summer Palace, Yiheyuan, Long Corridor, Qianmen, Yonghegong Lama Temple, hutongs, Badaling, Great Wall of China, Wangfujing Dajie, gourmets' street, Olympic Park, Water Cube"> 
+
+
+<!-- below 3 lines are for bootstrap's pagination -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+
+<style>
+.white {color:white}
+</style>
+<style type="text/css">
+<!--
+A {text-decoration:none }
+-->
+</style>
+<script type="text/javascript">
+  function setfocus()
+  {
+    document.forms[0].q.focus()
+  }
+  </script>
+<style type="text/css">
+div.externallinks { 
+  border:2px solid;
+border-color:red;
+  padding:10px;
+  background: beige;
+  width:400px;
+margin-left: 10px;
+//float:left;
+//use float to take it to the left side
+}
+div.boxtest { 
+  border:2px solid;
+border-color:red;
+  padding:10px;
+  background: beige;
+  width:300px;
+margin-right: 20px;
+//float:right;
+//use float to take it to the right side
+}
+h1 {font-family:arial;font-size:42px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h2 {font-family:arial;font-size:36px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h3  {font-family:arial;font-size:24px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+body {background: #ccc;width: 980px;margin:0 auto;} //or without zero just auto will center your table
+a {text-decoration:none}
+</style>
+</HEAD>
+
+<BODY bgcolor="#cccccc" onload='setFocusToTextBox()'>
+
+<table width=980><tr>
+<td valign=top>
+
+<h1><span style="background-color:midnightblue;">&nbsp;&nbsp;VISITING BEIJING (Page 4)&nbsp;&nbsp;</span></h1>
+
+<table width=980><tr><td valign=top><a href=beijing/beijing_stadium.jpg  target=_blank><img src=beijing/beijing_stadium400.jpg width=480></a><br />The Beijing 2008 Olympic Games are over but visitors to the city continue to flock to the Bird's Nest (photo).  Subway Line 8 will take you there.<br /></td><td valign=top><a href=beijing/bicyclepark_deshengmen.jpg  target=_blank><img src=beijing/bicyclepark_deshengmen400.jpg width=480></a><br />A two-storey bicycle parking lot at the Deshengmen underground station for workers who collect them after returning from work by the tube.<br /></td></tr></table>
+
+<br />
+<table width=980><tr><td valign=top><a href=beijing/houhai_lake.jpg  target=_blank><img src=beijing/houhai_lake400.jpg width=480></a><br />Reserve a whole afternoon (or evening) for Hou Hai Lake in the Shichahai area.  You can hire a bicycle for a whole day for only 20 RMB when coming out from the underground station at Gulou (with a deposit of 400 RMB).  The bicycle rental shop is at Exit B.<br /></td><td valign=top><a href=beijing/qianhai_lake.jpg  target=_blank><img src=beijing/qianhai_lake400.jpg width=480></a><br />Walk to the end of Hou Hai Lake and you will arrive at Qian Hai Lake.  Here you can admire the beauty and serenity of the lake while eating or drinking from comfortable sofas or look for souvenirs in its pedestrians-only street.<br /></td></tr></table>
+
+<br />
+<table width=980><tr><td valign=top><a href=beijing/silk_street.jpg  target=_blank><img src=beijing/silk_street400.jpg width=480></a><br />Silk Street in Xiushuijie (Xiushui Street) is actually the name of a covered shopping complex with narrow alleys in bazaar-like fashion.  Place to go if you are shopping for clothes.  The adjoining street is filled with a row of both indoor and outdoor restaurants so plan to eat here before or after your shopping experience.<br /></td><td valign=top><a href=beijing/silkstreet_inside.jpg  target=_blank><img src=beijing/silkstreet_inside400.jpg width=480></a><br />Silk Street from the inside.  This is not a place for the weak-hearted as the salespeople here are quite aggressive and you will need to bargain real hard when you go through its narrow alleys.  But the chances are you'll find some clothing to your liking here.  It's very near to the Yonganli underground station (Line 1).   <a href=beijing5.php><font color=red><b>Next page </b></font></a><br /><br />
+
+
+
+<ul class="pagination" style="float:right">
+    <li><a href="beijing_introduction.php">Introduction</a></li>
+    <li><a href="beijing1.php">1</a></li>
+    <li><a href="beijing2.php">2</a></li>
+    <li><a href="beijing3.php">3</a></li>
+    <li class="active"><a href="beijing4.php">4</a></li>
+    <li><a href="beijing5.php">5</a></li>
+    <li><a href="beijing6.php">6</a></li>
+    <li><a href="beijing7.php">7</a></li>
+    <li><a href="beijing8.php">8</a></li>
+  </ul>
+
+
+
+</td></tr></table>
+
+<? include "all_cities.inc"; ?>
+
+</BODY>
+</HTML>

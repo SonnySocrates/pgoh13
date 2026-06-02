@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: /roller/
+Disallow: /faireduroller/
+Disallow: /fansduroller/
+Disallow: /rollandroll/

@@ -1,0 +1,8 @@
+
+<center><table width=780 style="border: 1px solid black;font-size:1.2em;"><tr><td bgcolor=yellow align=left><a href=http://pgoh13.com/lowcost_flights.html target=_blank>CLICK HERE</a> for some of the low-cost airlines  that could help you with your holiday planning.  You could get really cheap fares if you book several months ahead.  (Note:  Right-click on the company you are interested in, choose "This Frame" then "Open frame in new window".)
+<br>The following sites compare all air fares:   <a href=http://www.liligo.com/ target=_blank>(1)  Liligo</a> &nbsp;  <a href="http://www.kayak.fr/flights" target=_blank>(2)  Kayak</a> &nbsp;  <a href=http://www.opodo.com/ target=_blank>(3)  Opodo</a>  &nbsp;  <a href=http://skyscanner.com target=_blank>(4)  Skyscanner</a> &nbsp;  <a href=http://us.jetcost.com/en/ target=_blank>(5)  Jetcost</a>
+<br>Here is one site where you can fix the fare you want to pay: <a href="https://www.optionway.com" target=_blank>Option Way</a>
+<br>And here is a site to enable you to book your train tickets for all over Europe: <a href=https://www.trainline.eu/ target=_blank>https://www.trainline.eu/</a>
+<br>But if you prefer travelling all over Europe by bus then you might be interested in booking <a href=https://www.flixbus.com/ target=_blank>Flixbus</a>, one of Europe's largest long-distance bus network, the other being <a href=http://www.eurolines.com/en/ target=_blank>Eurolines</a>.  Take your choice!
+</td></tr></table></center>
+<br>

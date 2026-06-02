@@ -1,0 +1,142 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<TITLE>2nd part of Visiting Copenhagen (2).  A page for those who are visiting Copenhagen or who plan to visit Copenhagen.</TITLE>
+<meta name="viewport" content="width = 980" />
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1" >
+<META name=description content="2nd part of Visiting Copenhagen.  A page for those who are visiting Copenhagen or who plan to visit Copenhagen.">
+<meta name="keywords" content="Copenhagen, visit Copenhagen, visiting Copenhagen, Copenhagen holiday, Copenhagen vacation, Copenhagen tourism, Stroget, Radhuspladsen, Kongens Nytorv, Nyhavn, BLACK DIAMOND (Den Sorte Diamant), Kongelige Bibliotek (royal library), Amalienborg (royal palace), Ny Carlsberg Glyptotek museum, Kastellet, Copenhagen Card (CPH Card), Copenhagen Jazz Festival, Copenhagen Cultural Harbour Festival, smorrebrod, rugbrod, frikadeller, stegt flaesk, skipperlabskovs, Copenhagen free bikes, KASTRUP AIRPORT, Kobenhavns Hovedbanegard (Kobenhavn H)">
+
+
+<style type="text/css"> 
+table.copenhagen {border-collapse:collapse;width:"750px";}
+table.copenhagen td, th
+{
+border:1px solid black;
+width:33%;font-family:tahoma,verdana,arial;color:darkblue;}
+ 
+ 
+div.cadre {color:darkblue;position:absolute;
+  border:solid black 2px;
+  }
+</style> 
+
+
+<style type="text/css">
+table.pleasenote2 {
+border-color: darkblue; border-width:0; border-style:solid;
+margin: 0px}
+table.pleasenote2 td {
+font: normal 22pt verdana, arial, sans-serif;
+color:yellow; background-color:black} 
+table.heading td {
+font: bold 32pt verdana, arial, sans-serif;
+color:red; background-color:yellow}
+table.pleasenote3 td {
+font: normal 10pt verdana, arial, sans-serif;
+color:yellow; background-color:black} 
+table.heading td {
+font: bold 18pt verdana, arial, sans-serif;
+color:red; background-color:yellow}
+</style>
+<style type="text/css">
+p.floatleft {width: 683px; float:left;background-color:black;}
+h1 {font-family:arial;font-size:42px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h2 {font-family:arial;font-size:36px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h3  {font-family:arial;font-size:24px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+a {text-decoration:none}
+</style>
+
+</head>
+
+<body bgcolor=#cccccc onload='setFocusToTextBox()'>
+<center>
+
+<table width="980"><tr>
+<td valign="top">
+
+<b><a href="http://www.weather-forecast.com/locations/Copenhagen/forecasts/latest" target="_blank">Weather outlook</a> | <a href=copenhagen.php#copenhagenlinks>Useful links</a> | <a href=malmo.php>Day trip to Malmo</a></b>
+<br>
+<h1><span style="background-color:midnightblue;">&nbsp;&nbsp;Visiting Copenhagen (2)&nbsp;&nbsp;</span></h1>
+
+<br />
+<table width=480 align=right><tr><td><a href=copenhagen/stroget1.jpg target=_blank><img alt="Stroget, a pedestrians-only shopping area." title="Stroget, a pedestrians-only shopping area."  src=copenhagen/stroget1.jpg width=480></a><br /><font size=3><em>Stroget, a pedestrians-only shopping area.</em></font></td></tr></table>
+
+<h3>STROGET</h3>
+<br>
+<FONT face=tahoma color=black size=3>You might not find the famous shopping street Stroget in your map as it is really made up of a number of streets (namely, Frederiksberggade, Nygade, Vimmelskaftet, Amagertorv and Ostergade, one continuing from the other) but don't worry, once you are there, you will see the word STROGET marked on road signs together with the name of the street below it.  It actually runs all the way from Radhuspladsen (the city hall which is quite close to Tivoli and the central station) right down to Kongens Nytorv where the animated Nyhavn quarter is.  As the whole stretch is for pedestrians only (even bicycles are not allowed) it makes for a pleasant promenade.  There are trendy shops as well as restaurants all along the slightly over 1km Stroget, not counting the many interesting side streets that branch off it, making it a place where you can pass hours on end.
+
+<br /><br />
+<h3>BLACK DIAMOND (Den Sorte Diamant)</h3> 
+<table width=980><tr><td width=480 valign=top><a href=copenhagen/diamond_outside.jpg target=_blank><img alt="The Black Diamond building from the outside." title="The Black Diamond building from the outside." src=copenhagen/diamond_outside.jpg width=480></a></td><td valign=top>
+<a href=copenhagen/diamond_inside.jpg target=_blank><img alt="The Black Diamond building from the inside." title="The Black Diamond building from the inside." src=copenhagen/diamond_inside.jpg width=480></a></td></tr><tr><td colspan=2>
+<FONT face=tahoma color=black size=3>The <em>Den Sorte Diamant</em> houses the <em>Kongelige Bibliotek</em> (royal library).  In fact it is more than just a library as many cultural events and exhibitions are held there.  People also go to the posh restaurant there for dinner.  The building is so called because black granites from Zimbabwe were imported into Copenhagen and used in its construction.  It was inaugurated in September 1999.  Photo on left shows the fa&ccedil;ade of Den Sorte Diamant while the photo on right shows an inside view of the royal library.</td></tr></table>
+
+<br />
+
+<table width=480 align=right><tr><td><a href=copenhagen/amalienborg.jpg target=_blank><img title="Amalienborg (royal palace)" alt="Amalienborg (royal palace)" src=copenhagen/amalienborg.jpg width=480></a><br /><font size=3><em>Amalienborg (royal palace).</em></font><br /><br /></td></tr>
+<tr><td><a href=copenhagen/carlsberg_museum.jpg target=_blank><img alt="Ny Carlsberg Glyptotek museum" title="Ny Carlsberg Glyptotek museum" src=copenhagen/carlsberg_museum.jpg width=480></a><br /><font size=3><em>The Ny Carlsberg Glyptotek museum has a very large collection of ancient art.</em></font><br /><br /></td></tr>
+<tr><td><a href=copenhagen/kastellet_fortress.jpg target=_blank><img title="Kastellet in Copenhagen" alt="Kastellet in Copenhagen" src=copenhagen/kastellet_fortress.jpg width=480></a><br /><font size=3><em>The Kastellet, open to the public, is one of Europe's best preserved fortifications.</em></font><br /><br /></td></tr>
+<tr><td><a href=copenhagen/cityhall.jpg target=_blank><img alt="City Hall square at Radhuspladsen" title="City Hall square at Radhuspladsen" src=copenhagen/cityhall.jpg width=480></a><br /><font size=3><em>The City Hall square at Radhuspladsen.</em></font><br /><br /></td></tr>
+<tr><td><a href=copenhagen/danish_bread.jpg target=_blank><img alt="Rugbrod (dark rye bread) used to make the smorrebrod sandwich" title="Rugbrod (dark rye bread) used to make the smorrebrod sandwich" src=copenhagen/danish_bread.jpg width=480></a><br /><font size=3><em>Rugbrod (dark rye bread) used to make the smorrebrod sandwich.</em></font><br /><br /></td></tr></table>
+
+<h3>AMALIENBORG PALACE</h3>
+<br />This is where Queen Margrethe II was born in 1940 and where she and her consort live in winter.  One peculiarity of this palace is that it is made up of four identical buildings spread around the courtyard.  As it is within walking distance from the Nyhavn port you might wish to combine both places to follow one another in your day's programme.  There is a changing-of-the-guards ceremony at noon daily in the huge square so keep this in mind in your planning as it would be a real pity to miss it if you should be in the vicinity around that time.  
+<br /><br />
+<h3>OTHER PLACES OF INTEREST</h3>
+
+<ul type="disc">
+
+<li>the Kastellet near Churchill Park</li>
+<li>The City Hall square at Radhuspladsen</li>
+<li>The Ny Carlsberg Glyptotek museum</li>
+<li>the Rosenborg Castle</li>
+<li>the beach at Bellevue in summer</li>
+<li>the Frederiksberg Gardens (Frederiksberg Have) where you can find a statue of Soren Kierkegaard, the father of existentialism.</li>
+<li>the animated Norrebro district</li>
+<li>the Vesterbro quarter near the central station with its many ethnic restaurants, a number of which serve Thai food. </li>
+</ul>
+
+<b>MONEY</b>
+<br />One hundred Danish Kroner or 100 DKK (a Danish Krone is further divided into 100 ore) is worth about 13.50 euros.
+Although a member of the EC, Denmark, like the United Kingdom and Sweden, do not use the euro (but the krone is pegged to the euro nevertheless).
+<br /><br />
+
+
+<b>PUBLIC TRANSPORT</b>
+<br />A single metro/bus ticket costs 24 Kr and can be used for one hour.  You might prefer to buy a 10-trip ticket which costs 140 Kroner (price in October 2011).  There is also the Copenhagen Card (CPH Card) which is meant for tourists.  Besides unlimited public transport it also allows you free entrance to 65 museums.  A 24-hour CPH Card costs 249 Kr but if you are a museum buff this could be your best option.  You can buy the CPH Card at their counter upon arrival at the airport in order to be able to use it immediately on the train to the city.  There is also a 24-hour ticket for transport only at 130 Kroner.  All the tickets allow you to use the S-trains (suburban trains) which complement the two lines of metro in the city.
+
+
+
+<br /><br />
+<b>TYPICAL DANISH FOOD</b>  
+<br />- smorrebrod (Danish open sandwich) 
+<br />- frikadeller (fried pork and veal meatballs)
+<br />- stegt flaesk (fried slices of pork served with boiled potatoes)
+<br />- skipperlabskovs (stewed beef with chunks of potatoes)
+
+<br /><br />
+<b>FREE BIKES</b><br />
+<table width=250 align=left><tr><td><a href=copenhagen/free_bicycle.jpg target=_blank><img alt="Copenhagen's free bike" title="Copenhagen's free bike" src=copenhagen/free_bicycle250.jpg width=350></a></td></tr></table>
+Cycling around Copenhagen is a real pleasure as it is as much a city for cyclists as Amsterdam is, with broad cycling lanes everywhere.  In fact if you are lucky enough you might be able to find one of those free bikes (see photo) that you need only put a 20 kroner coin into a slot to unlock it.  I was lucky enough to find one available just across the road when I was leaving Christiania after a visit.  After using it you can either put the bike back at any of its allotted points to get your 20 Kr coin back or just leave it anywhere without feeling guilty as long as you are willing to forgo the coin.  It will gladly be picked up by someone else.  In fact this is the whole idea behind it and later versions of the bikes have their wheels completely covered up to prevent anyone from putting a chain round it for prolonged use.
+
+<br />
+
+<table width=250 align=left><tr><td><a href=copenhagen/CPH_airport.jpg target=_blank><img alt="Kastrup Airport, Copenhagen" title="Kastrup Airport, Copenhagen" src=copenhagen/CPH_airport250.jpg width=350></a><br /><font size=3><em>Scene at Kastrup Airport.</em></font></td></tr></table>
+<b>KASTRUP AIRPORT</b><br />
+Copenhagen airport's official name is Kobenhavns Lufthavn, Kastrup, though most people just refer to it as Kastrup Airport.  The best way to go to the city, which is some 11km away from the airport, is to take a train to the city's main railway station called Kobenhavns Hovedbanegard (often reduced to just Kobenhavn H).  The trip itself takes barely 13 minutes (with a train every 10 minutes) and a ticket costs 31.50 Kr but if you use your 10-trip ticket you will have to punch the card twice as the trip counts for 2 tickets.  By the way as access to the platform is completely open it is easy to forget to do this.  You are expected to validate your ticket at one of the machines before boarding the train (or metro when you are in the city).</font></font>
+<br /><br />
+
+<?/*  must put end of font above or below will not work  */?>
+<h2>&nbsp;Day trip to Malmo&nbsp;</h2>
+<br>
+<font face=tahoma size=3>
+You can easily make a side trip to Malmo in Sweden from Copenhagen by train.  This only costs 82 Kroner (price in October 2011) and the trip takes hardly 35 minutes across the Oresund Bridge. There is a train every 20 minutes making it unnecessary to really plan ahead.  <a href=malmo.php>More here on Malmo.</a>
+
+</td></tr></table>
+
+<center><? include "all_cities.inc"; ?></center>
+
+</center>
+</body></html>

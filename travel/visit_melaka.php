@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head><title>Visiting Malacca (Melaka).  Part 3 of Visiting Malaysia.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Visiting Malacca (Melaka).  Part 3 of Visiting Malaysia.">
+<meta name="keywords" content="visit Malaysia, tourism Malaysia, visit Malacca, visit Melaka, visiting Malacca, visiting Melaka">
+
+</head>
+<body bgcolor=#cccccc onload='setFocusToTextBox()'>
+<center>
+
+<table width="980"><tr>
+<td colspan=2>
+<?  include "dropdown_menu.inc";  ?>
+<?  include "oneclick_away.inc";  ?>
+</td></tr><tr>
+<td width="180" valign="top">
+<? include "leftmenu.inc"; ?>
+<?/*  if remove border tag there won't be any table lines  */?>
+</td>
+<td width="780" valign="top">
+<b><a href=visit_kl.php target=_blank>Kuala Lumpur</a> | <a href=visit_penang1.php target=_blank>Penang</a> | <a href=visit_melaka.php target=_blank>Malacca</a> | <a href=visit_kb.php target=_blank>Kota Bharu</a> | <a href=visit_cameron.php target=_blank>Cameron Highlands</a> | <a href=visit_perhentian.php target=_blank>Perhentian Islands</a> | <a href="Malaysia_new.php#survival">Survival Malay</a>
+<br /><a href=Malaysia.php target=_blank>Focus on Malaysia</a> | <a href="singapore.php">Side trip to Singapore</a>
+</b>
+
+<center><h1><span style="background-color:midnightblue;">&nbsp;&nbsp;Visiting Malacca (Melaka)&nbsp;&nbsp;</span></h1></center>
+
+<!-- google_ad_section_start -->
+
+<?  include "banner_ad.inc";  ?>
+
+<table width="705"><tr><td>
+
+<FONT face=tahoma color=black size=3>Malacca (or Melaka) used to be known as a "Sleepy Hollow".  It no longer is, thanks in part to its joint status with Penang as a UNESCO World Heritage site since 7 July 2008.  This is not surprising because Malacca is truly a showcase of Malaysia's past.  As the Unesco committee puts it: "With its government buildings, churches, squares and fortifications, Melaka demonstrates the early stages of this history originating in the 15th-century Malay sultanate and the Portuguese and Dutch periods beginning in the early 16th century."
+<br /><br />
+
+<table width="750"><tr>
+<td align="left" width="250" valign="top">
+		<a href=msiapix_new/melaka_clock_tower.jpg><img src="msiapix_new/melaka_clock_tower250.jpg" align="right" width="250" title="The clock tower in the historic quarter of Malacca." alt="The clock tower in the historic quarter of Malacca."></a><br /><em><font size=2>The clock tower in the historic quarter of Malacca.</font></em>
+</td>
+<td align="left" width="250">
+	<a href=msiapix_new/melaka_jonker_walk.jpg><img src="msiapix_new/melaka_jonker_walk250.jpg" align="right" width="250" title="Jonker Walk gives a touch of modernity to history-drenched Malacca." alt="Jonker Walk gives a touch of modernity to history-drenched Malacca."></a><br /><em><font size=2>Jonker Walk gives a touch of modernity to history-drenched Malacca.</font></em>
+</td>
+<td align="left" width="250" valign="top">
+	<a href=msiapix_new/melaka_trishaws.jpg><img src="msiapix_new/melaka_trishaws250.jpg" align="right" width="250" title="Malacca trishaws are more colourful than those elsewhere." alt="Malacca trishaws are more colourful than those elsewhere."></a><br /><em><font size=2>Malacca trishaws are more colourful and jovial than those elsewhere in Malaysia.</font></em>
+</td></tr></table>
+
+<br />So a visit to Malaysia will not be complete without passing at least one night here to see how the various influences (Portuguese, Dutch, British, Chinese, Malay, Indian) over the centuries have made Malacca what it is today.
+
+<br /><br />
+<table width="750"><tr>
+<td align="left" width="250" valign="top">
+		<a href=msiapix_new/melaka_christ_church.jpg><img src="msiapix_new/melaka_christ_church250.jpg" align="right" width="250" title="Christ Church Melaka - another monument in Malacca." alt="Christ Church Melaka - another monument in Malacca."></a><br /><em><font size=2>Christ Church was built in 1753 and is another monument in Malacca.</font></em>
+</td>
+<td align="left" width="250">
+	<a href=msiapix_new/melaka_river_cruise.jpg><img src="msiapix_new/melaka_river_cruise250.jpg" align="right" width="250" title="The Melaka River Cruise." alt="The Melaka River Cruise."></a><br /><em><font size=2>Take the Melaka River Cruise at night for an unforgettable experience.</font></em>
+</td>
+<td align="left" width="250" valign="top">
+	<a href=msiapix_new/melaka_stpauls_church.jpg><img src="msiapix_new/melaka_stpauls_church250.jpg" align="right" width="250" title="The ruins of St. Paul's Church on the top of St. Paul's Hill." alt="The ruins of St. Paul's Church on the top of St. Paul's Hill."></a><br /><em><font size=2>The ruins of St. Paul's Church on the top of St. Paul's Hill.</font></em>
+</td></tr></table>
+
+<br />Try to stay near Jonker Street (formerly known as Jalan Hang Jebat) as it is within walking distance of the historic area and the boat cruise.  Besides, this whole area comes to life on weekends with their very animated night markets so if you can, try to be in Malacca on a weekend.
+<?/* <br />For local food, how about trying out an authentic nyonya restaurant?   As these are quite hard to find, I will make an exception and give you the name of one such.  The restaurant is called Kocik Kitchen and it's at 100, Jalan Tun Tan Cheng Lock (also known as Heeren Street).  You can visit the Baba Peranakan Museum of Melaka at No. 48 of the same street before having your lunch here. */?>
+<br />While in Malacca do not miss the boat cruise which starts just behind the Tourism Office opposite the historic quarter.  If you take the cruise at night the boat ride will be even more spectacular with colourful illuminations all the way along the Melaka River.  You will be able to see traditional Malay houses along the banks of the river.  <a href=http://www.youtube.com/watch?v=e0i6TwFOlgc target=_blank>This video clip</a> will give you an idea of what you can expect on the cruise.
+<br />Malacca is famous for its nyonya (or peranakan) food so try not to leave Malacca without tasting it.  Two restaurants serving authentic nyonya food are the well-established Nyonya Makko restaurant at Taman Melaka Raya and the Kocik Kitchen at 100, Jalan Tun Tan Cheng Lock (also known as Heeren Street).  You can visit the Baba Peranakan Museum of Melaka at No. 48 of the same street before (or after) having your lunch here.  Among the typical nyonya dishes are  <em>ayam pongteh, chicken buah keluak, ikan asam, udang sambal petai, otak-otak, itik tim</em> (duck soup) and <em>kangkung belacan</em>.  The <em>ayam pongteh</em> is in fact the signature dish of nyonya cooking.  For dessert you have to try out Malacca's famous nyonya <em>cendol</em> which is slightly different from the Penang <em>cendol</em>, and is sometimes served with pulut or durian paste.
+<img src=nyonya_dishes.jpg><br>Malacca's famous <em>ayam pongteh</em> (left) and <em>cendol</em> (right)
+<br><br>
+<? include "banner_ad.inc"; ?>
+
+</td></tr></table>
+</td></tr></table>
+<center><?  include "footer_cities.inc";  ?></center>
+</body></html>

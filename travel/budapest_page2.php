@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Visiting Budapest (Part  2)</title>
+<meta name="viewport" content="width = 980" />
+<meta charset="iso-8859-1">
+<meta name="description" content="Visiting Budapest (Part  2)">
+<meta name="keywords" content="Budapest visit, visit Budapest, visiting Budapest, Budapest tourism, Chain Bridge, Danube River, Hungarian Parliament building, Liberty Bridge, Elizabeth Bridge, Vorosmarty Square, paprika chicken, halaszle fish soup, Liberty Bridge, Elizabeth Bridge">
+<link rel="shortcut icon" href="../travel/favicon.ico" rel="nofollow"> 
+
+<style>
+h1 {font-family:arial;font-size:42px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h2 {font-family:arial;font-size:36px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h3  {font-family:arial;font-size:24px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+a {text-decoration:none}
+</style> 
+</head>
+<center>
+<body bgcolor=#cccccc onload='setFocusToTextBox()'>
+<center>
+
+<table width="980"><tr>
+<td valign=top>
+<h1 span style="width:400px;color:yellow;background-color:midnightblue;font-size:30px;text-align:left;">&nbsp;Visiting Budapest (Part  2)&nbsp;</h1>
+
+<img src="../travel/budapest/viewfrom_budahill.jpg" width="980" alt="Aerial view of the Danube River and the Chain Bridge" title="Aerial view of the Danube River and the Chain Bridge"><br>
+<em style="padding-left:10px;">View of the Danube River with the Chain Bridge striding across it.</em> 
+
+<article style="display:block;padding-left:5px;padding-right:5px;border-right:5px;font-family:tahoma,arial;">
+
+<h3>HEROES' SQUARE  <span style="font-size:12px;color:white;">(where the Millennium Monument is)</span></h3>
+
+<table width=980><tr>
+<td valign=top><a href=../travel/budapest/heroessquare_millenium.jpg target=_blank><img style="border:1px solid black;" src=../travel/budapest/heroessquare_millenium400.jpg width=480 alt="The Millennium Monument in Heroes' Square (Hosok tere)" title="The Millennium Monument in Heroes' Square (Hosok tere)"></a><br>The Millennium Monument is right in the middle of Heroes' Square (Hosok tere).  The metro station carrying the same name is just across the road. </td>
+<td><a href=../travel/budapest/city_park.jpg target=_blank><img src=../travel/budapest/city_park400.jpg width=480 alt="City Park in Budapest" title="City Park in Budapest"></a><br>Nearby is the main entrance to City Park, reputed to be the first public park in the world and where ducks and pigeons coexist in perfect harmony.</td></tr></table>
+
+<br><br>
+<table width=980><tr>
+<td style="vertical-align:top"><a href=../travel/budapest/mucsarnok_museum.jpg target=_blank><img style="vertical-align:top" src=../travel/budapest/mucsarnok_museum400.jpg width=480 alt="The Hall of Art, also known as Palace of Art (Mucsarnok in Hungarian) museum in Budapest" title="The Hall of Art, also known as Palace of Art (Mucsarnok in Hungarian) museum in Budapest"></a></td>
+<td><img style="border:1px solid black;" src=../travel/budapest/ImreBukta_painting.jpg width=480 alt="Bela with pheasant or bela facannal by Imre Bukta" title="Bela with pheasant or bela facannal by Imre Bukta"></td>
+</tr></table>
+<span style="padding-right:10px;">As you face the Millennium Monument in Heroes' Square, you are likely to notice the Hall of Art (photo above), also known as Palace of Art (Mucsarnok in Hungarian) to your right.   It is a museum of contemporary art, and at the time the photo was taken it was hosting an exhibition of the works of Imre BUKTA,  a Hungarian artist whose works have been exhibited at the Venice Biennale as well as the Sao Paulo Biennale.  Shown above is a recent painting by Bukta called B&eacute;la with pheasant (<em>B&eacute;la f&aacute;c&aacute;nnal</em>).
+<br>Opposite the Mucsarnok is another museum called the Museum of Fine Arts.   So museum-lovers will be able to visit two museums while they are at the Heroes' Square here.</span>
+<br>
+
+
+
+<h3>BUDAPEST AT NIGHT  <span style="font-size:12px;color:white;">(A walk along the Danube River at night to appreciate the illuminations of the city.)</span></h3>
+
+<table width=980>
+<tr>
+<td><href=../travel/budapest/parliament_night.jpg target=_blank><img src=../travel/budapest/parliament_night400.jpg width=480 alt="The Hungarian Parliament building at night." title="The Hungarian Parliament building at night."></a><br> The Parliament building is well-illuminated at night. </td>
+<td><a href=../travel/budapest/chainbridge.jpg target=_blank><img src=../travel/budapest/chainbridge400.jpg width=480 valign=top alt="Chain Bridge of Budapest at night" title="Chain Bridge of Budapest at night"></a><br> So is the Chain Bridge not too far away from it. </td></tr>
+<tr><td height=14></td></tr>
+<tr>
+<td><a href=../travel/budapest/promenade_pestside.jpg target=_blank><img src=../travel/budapest/promenade_pestside400.jpg width=480 alt="Wide promenade on both sides of the Danube River" title="Wide promenade on both sides of the Danube River"></a><br> There is a very broad promenade on both sides of the Danube River.  This one is on the Pest side between Liberty Bridge and Elizabeth Bridge. </td>
+<td><a href=../travel/budapest/vorosmarty_square.jpg target=_blank><img src=../travel/budapest/vorosmarty_square400.jpg width=480 alt="Vorosmarty ter (square) in Budapest" title="Vorosmarty ter (square) in Budapest"></a><br>Vorosmarty ter (square), a popular meeting place for excursion groups.   It is at one end of Vaci utca (the other end being near the Central Market).</td></tr></table>
+
+<h3>POPULAR HUNGARIAN DISHES  <span style="font-size:12px;color:white;">(paprikas csirke, halaszle and of course the ever popular gulyasleves or goulash)</span></h3>
+
+<table width=980><tr>
+<td><a href=../travel/budapest/chicken_paprika.jpg target=_blank><img style="border:1px solid black;" src=../travel/budapest/chicken_paprika400.jpg width=480 alt="Paprikas csirke or paprika chicken" title="Paprikas csirke or paprika chicken"></a></td><td><a href=../travel/budapest/halaszle_fishsoup.jpg target=_blank><img src=../travel/budapest/halaszle_fishsoup400.jpg width=480 alt="Halaszle fish soup" title="Halaszle fish soup"></a></td></tr></table>
+<br>
+<span style="padding-right:10px;">The paprika being the king of all spices in Hungary, you might want to try some popular local dishes using paprika such as paprikas csirke or paprika chicken (photo on left), or if you prefer fish then the fish soup with paprika called halaszle (photo on right - cost 950ft at a central market stall).  If you are travelling on a shoestring the market is an ideal place to eat.  A very filling bowl of goulash (with beef and potatoes) costs only 750ft (about 2.50 euros) here.  And it is delicious too!  Top it with bread and you'll have a full meal for very little.
+<br>Oh, by the way you can also take the popular Tram #2 at its stop near the Central Market.</span>
+<br><br>
+
+<h3>MORE VIEWS OF BUDAPEST</h3>
+<table width=980><tr>
+<td><a href=../travel/budapest/gellert_hilltop.jpg target=_blank><img style="border:1px solid black;" src=../travel/budapest/gellert_hilltop400.jpg width=480 alt="Gellert hilltop in Buda" title="Gellert hilltop in Buda"></a><br> The Gellert hilltop as seen from the Pest side. </td>
+<td><a href=../travel/budapest/vaci_utca.jpg target=_blank><img src=../travel/budapest/vaci_utca400.jpg width=480 alt="Vaci utca (Vaci street) in Budapest" title="Vaci utca (Vaci street) in Budapest"></a><br>Vaci utca, the pedestrian shopping street in Budapest. </td></tr>
+<tr><td height=14></td></tr>
+<tr>
+<td><a href=../travel/budapest/kalvin_ter.jpg target=_blank><img src=../travel/budapest/kalvin_ter400.jpg width=480 alt="Kalvin ter (Kalvin Square)" title="Kalvin ter (Kalvin Square)"></a><br> Kalvin ter (Kalvin Square) is also full of life, especially the neighbouring Raday utca (Raday street). </td>
+<td><a href=../travel/budapest/nationalmuseum_budapest.jpg target=_blank><img src=../travel/budapest/nationalmuseum_budapest400.jpg width=480 alt="The Hungarian National Museum" title="The Hungarian National Museum"></a><br> Not too far from Kalvin Square is the Hungarian National Museum.  <a href=https://mnm.hu/en/ target=_blank>Link to their website.</a> </td></tr>
+<tr><td height=14></td></tr>
+<tr><td><a href=../travel/budapest/libertybridge_budapest.jpg target=_blank><img src=../travel/budapest/libertybridge_budapest400.jpg width=480 alt="Liberty Bridge in Budapest" title="Liberty Bridge in Budapest"></a><br> Liberty Bridge which crosses the Danube River for Gellert Hill from Pest. </td>
+<td><a href=../travel/budapest/oldestmetro_lineone.jpg target=_blank><img src=../travel/budapest/oldestmetro_lineone400.jpg width=480 alt="M1 of Budapest is the oldest metro line in the world after London underground" title="M1 of Budapest is the oldest metro line in the world after London underground"></a><br> The M1 metro line is the second oldest in the world (after that of London).</td>
+</tr></table>
+
+<h3>FESTIVALS:</h3>
+<br>
+<a href=https://www.carnifest.com/budapest-spring-festival-2022/ target=_blank>Budapest Spring Festival</a>
+<br><a href=http://sziget.hu/festival_english/ target=_blank>Sziget Festival in August</a>
+<br><a href=http://www.cafebudapestfest.hu/2012/?l=en target=_blank>CAFE Budapest (Contemporary Arts Festival) in October</a>
+
+<!--
+<h3>SURVIVAL HUNGARIAN:  <span style="font-size:12px;color:black;">(the words are stripped of their accents!)</span></h3>
+Please = kerem/kereme, thank you = koszonom, yes = igem, no = nem, excuse me = bocsanat, I don't understand = nem ertem, how much is it? = mennyi?, toilet = mosdo, water = viz, Kijarat = exit (in a metro station), gyogy=thermal, furdo=bath, ut = avenue, utca = street, ter = a square, korut = boulevard, hid = bridge, ferfi = man, noi = woman's -->
+
+<a name="budapestlinks">
+<br>
+<h3>USEFUL LINKS:</h3>
+<section>
+
+<a href="https://www.budapestinfo.hu/en/" target="_blank">Official website of Budapest tourism</a>
+<br><a href="http://www.budapest.com/">Tourism portal of Budapest</a>
+<br><a href="http://budapest-card.com/en/">The Budapest Card for Visitors</a> 
+<br><a href="https://cityopentour.hu/en">Hop On Hop Off bus</a> 
+<br><a href="https://mnm.hu/en">Hungarian National Museum</a> 
+<br><a href="http://www.aquincum.hu/en/">Aquincum Museum (ruins)</a> 
+<br><a href="http://www.spasbudapest.com/">Thermal baths</a> 
+
+</section>
+</article>
+
+<table style="width:200px;float:right;"><tr><td>
+<a href=budapest.php target=_blank>Back to Page 1.</a></td></tr></table>
+
+</td></tr></table>
+
+<center><? include "all_cities.inc"; ?></center>
+
+</center>
+</body>
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<TITLE>Visiting Brighton, an hour's ride from London's Victoria train station.</TITLE>
+<meta name="viewport" content="width = 980" />
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1" >
+<META name=description content="Visiting Brighton, an hour's ride from London's Victoria train station.">
+<meta name="keywords" content="London, Brighton, Brighton beach, Bartholomew Square, Brighton tourism office, Brighton seaside resort, Brighton railway station, Brighton promenade, Churchill Square Shop, Duke Street">
+
+<style type="text/css">
+h1 {font-family:arial;font-size:42px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h2 {font-family:arial;font-size:36px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h3  {font-family:arial;font-size:24px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+<!--
+A{text-decoration:none}
+-->
+</style>
+
+</head>
+
+<body bgcolor=#cccccc onload='setFocusToTextBox()'>
+<center>
+
+<table width="980"><tr>
+<td valign="top">
+
+
+<h1><span style="background-color:midnightblue;">&nbsp;&nbsp;Visiting Brighton from London&nbsp;&nbsp;</span></h1>
+
+<br />
+<FONT face=tahoma color=black size=3>If it is one of those hot summer days and you are suffocating from the heatwave in London you can take an hour-long train  ride from London to Brighton.  Once a fishing village, it has become one of the most popular seaside resorts in the United Kingdom.  The main take-off point from London is the Victoria train station.  But if you should be arriving by Eurostar from another European city there is a direct train connection at St Pancras to Brighton. 
+
+<br>The <a href=http://www.visitbrighton.com/ target=_blank><strong>Brighton tourism office</strong></a> is at  Bartholomew Square.  The town can easily be covered on foot without a map, more so if you just want to take in the sea breeze, or get in the water for a swim or just look around at the shops.
+<br><br>
+<table width=980><tr>
+<td valign=top width=320><a href=centre_brighton.jpg target=_blank><img src=centre_brighton.jpg width=320></a><br>The town centre of Brighton is just a few minutes from the railway station.  Just follow the crowd as they leave the railway station upon arrival in Brighton and you should soon find yourself in the town centre.  For ice-cream go to Scoop & Crumb at 5 & 6 East Street, not too far from Brighton Pier.   It boasts of the largest ice-cream sundae and waffle menu in the UK.</td>
+<td valign=top width=320><a href=railway_beach.jpg target=_blank><img src=railway_beach.jpg width=320></a><br>It's a long straight road from the railway station to the seafront and you'll arrive at the beach after a leisurely 15-20 minutes stroll.  Trains depart from Brighton for London at half-hourly intervals.</td>
+<td valign=top width=320><a href=churchill_square.jpg target=_blank><img src=churchill_square.jpg width=320></a><br>Churchill Square Shop, up on a little slope off the main road, is a favourite shopping area, besides the popular  North Laine.  In winter people come to Brighton just for shopping, seeing that the sea is not the principal attraction then as it is in summer.  Between shopping and the seafront you would have your afternoon filled in Brighton.</td>
+</tr></table>
+<br>
+
+<table width=980><tr>
+<td valign=top width=320><a href=dukestreet_brighton.jpg target=_blank><img src=dukestreet_brighton.jpg width=320></a><br>Duke Street where it's nice to chill out (or hang out, if you prefer).</td>
+<td valign=top width=320><a href=brighton_beach.jpg target=_blank><img src=brighton_beach.jpg width=320></a><br>View of Brighton beach from the promenade high above.</td>
+<td valign=top width=320><a href=victoria_forbrighton.jpg target=_blank><img src=victoria_forbrighton.jpg width=320></a><br>Victoria train station in London - your taking-off point for Brighton.</td></tr></table>
+
+<br>
+
+<center><? include "all_cities.inc"; ?></center>
+
+</td></tr></table>
+</td></tr></table>
+
+
+</center>
+</body></html>

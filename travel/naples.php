@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Visiting Naples, or Napoli, the home of pizza and Sophia Loren.</title>
+<meta name="viewport" content="width = 980" />
+<meta name=description content="Visiting Naples, or Napoli, the home of pizza and Sophia Loren.">
+<meta name="keywords" content="visiting Naples, Napoli, Via Caracciolo, Naples youth hostel, Mergellina, Sorrento, pig's tripe, trippa musso, Stazione Napoli Centrale, Piazza Garibaldi, Paolo and Angela, rubbish crisis in Naples">
+
+<style>
+h1 {font-family:arial;font-size:42px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h2 {font-family:arial;font-size:36px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h3  {font-family:arial;font-size:24px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+a {text-decoration:none}
+</style>
+</head>
+
+<body bgcolor=#cccccc onload='setFocusToTextBox()'>
+<center>
+
+<table width="980"><tr>
+<td valign="top">
+<FONT face=tahoma color=black size=3>
+
+<center><h1 style="background-color:midnightblue;margin-top:0;">&nbsp;&nbsp;Visiting  Naples, Italy&nbsp;&nbsp;</h1></center>
+
+<p><font face=arial size=3>Naples, or Napoli, to give it its Italian name, is known as the home of pizza and where Sophia Loren grew up.  On the musical side its <em>O sole mio</em> has been immortalized by Elvis Presley's rendition of "It's now or never".
+<br />Although Naples city itself has not as much to offer the tourist as Rome it is still worth a visit, especially if you are already in Rome, as it is from Naples that you will be able to visit the ruins of Pompeii <a href=pompeii.php target=_blank>(more here)</a> and the emerald-coloured seas of Sorrento and the Isle of Capri <a href=capri.php target=_blank>(more here)</a> which is only 75 minutes away by boat (costs 17 euros).  But if you should pass a night in Naples the place to go to is the waterfront at the <em>Mergellina</em> port from where you can see the <em>Castel dell'Ovo</em> (Egg Castle) from afar and promenade along its broad avenue called <i>Via Caracciolo</i>, which is full of life at night.  In fact the whole esplanade here is like a fairyland!  And despite the fact that I do not speak Italian I've met some really wonderful Neapolitans, both English-speaking and non-English-speaking.  No wonder they say "See Naples and die".</font></font>
+
+<br />
+
+<table><tr><td>
+<table><tr><td valign=top width=320><a href=/rome/naples_sunrise.jpg target=_blank><img src=../travel/rome/naples_sunrise.jpg width=320></a><br>The many facets of Nature as observed from Naples.  This sunrise was taken at 6h50 (on August 16, 2008) from the port at <em>Mergellina</em>.</td>
+<td valign=top width=320><a href=/rome/naples_sunset.jpg target=_blank><img src=../travel/rome/naples_sunset.jpg width=320></a><br>This was how splendid the sunset was at 19h50 (on August 17, 2008) as seen from the S. Antonio railway station on the Naples-Sorrento line.</td>
+<td valign=top width=320><a href=/rome/naples_fullmoon.jpg target=_blank><img src=../travel/rome/naples_fullmoon.jpg width=320></a><br>Three hours later.  A full moon and its reflection in the sea from the esplanade at <em>Via Caracciolo</em> which is always full of strollers out for the night air.</td>
+</tr></table>
+<br>
+
+<table><tr>
+<td valign=top width=470><a href=/rome/naples_trippa_musso.jpg target=_blank><img src=../travel/rome/naples_trippa_musso.jpg width=470></a><br>After a nice stroll along <em>Via Caracciolo</em> at night how about trying out a dish of pig's tripes with lemon juice?  When I came across such an unusual stall at the end of the esplanade I couldn't help taking out my camera for a few snapshots.  A friendly Neapolitan waiting in the queue shouted out to me that it's called <em>trippa musso</em> and said: "You have to try it.  Then you will always remember it."
+</td><td width=40></td>
+<td valign=top width=470><a href=/rome/naples_pigs_tripe.jpg target=_blank><img src=../travel/rome/naples_pigs_tripe.jpg width=470></a><br>I can't honestly say that it's my cup of tea but then to each his taste.  The Neapolitans must have liked it, for an unending stream of people, both young and old, were still queuing up for it when I passed by the same stall two hours later (near midnight).  Naples has a nightlife here that bigger cities like Paris and London do not have.</td>
+</tr></table>
+
+</td></tr></table>
+</td></tr></table>
+
+<center><? include "all_cities.inc"; ?></center>
+
+</center>
+</body>
+</html>

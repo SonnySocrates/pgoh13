@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Visiting Krakow, Poland</title>
+<meta name="viewport" content="width = 980" />
+<meta name="description" content="Visiting Krakow, Poland" /> 
+
+<link rel="shortcut icon" href="http://pgoh13.com/favicon.ico" rel="nofollow"> 
+<!-- without the link rel= below the dropdown menu will not work -->
+<link rel="stylesheet" href="http://pgoh13.com/test_menu_files/css3menu1/style.css" type="text/css" />
+<!-- without script below the focus will not be on the searchbox -->
+<script>
+function setFocusToTextBox(){
+    document.getElementById("mytext").focus();
+}
+</script>
+<style type="text/css">
+img {border:1px solid black;}
+a{text-decoration:none}
+
+h1 {font-family:arial;font-size:42px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h2 {font-family:arial;font-size:36px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h3  {font-family:arial;font-size:24px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+body {background: #ccc;max-width: 980px;margin: auto;} //will center your table
+</style>
+</head>
+
+<?/* 
+for your own reference
+whatever u put here will not appear in source code 
+*/?>
+
+<body bgcolor=#cccccc onload='setFocusToTextBox()'>
+<center>
+
+<table width="980"><tr>
+<td valign="top">
+<strong style="font-family:arial;padding-left:20px;"><a href="http://www.accuweather.com/en/pl/krakow/274455/hourly-weather-forecast/274455" target=_blank>Weather in Krakow</a> | <a href="http://tinyurl.com/ou5nvma" target=_blank>Map of Krakow city centre</a>&nbsp; | <a href="#krakowlinks">Useful links</a></strong>
+<br>
+
+<center><h1 style="background-color:midnightblue;color:yellow;font-family:arial;font-size:42px;display:inline-block;text-align:center;margin-right:130px;">&nbsp;&nbsp;Visiting Krakow, Poland&nbsp;&nbsp;</h1></center>
+
+<table style="width:980px;">
+<tr><td style="width:550px;vertical-align:top;"><FONT face=tahoma color=black size=3>Krakow is one of the cheaper cities to visit in Europe.  As a matter of fact it took fourth place (after Kiev, Bucharest and Sofia) among 56 European cities compared in a survey of the most affordable places to visit in Europe in 2015 (full results <a href=http://www.priceoftravel.com/1979/european-backpacker-index/ target=_blank>here.</a>)
+<br>And this is what it says of Krakow: <em>Krakow continues as Europe's best travel bargain. The low prices have drawn in larger numbers of Europeans for weekend breaks...Put this one on your list before demand forces prices up like in Prague and Budapest.</em>
+<br>The table on the right will give you an idea of what 100 units of your currency is equivalent to in PLN (or zloty) in September 2015.  It is possible to have a simple meal in Krakow for less than 20 zloty (5 euros).  And the bus fare from the John Paul II International Airport at Balice to the central railway station at Krakow Glowny costs only 4 zloty (1 euro).  These are September 2015 prices.
+<br></td>
+<td style="width:320px;padding-left:10px;"><a href="../travel/travel/krakow/zloty_on100915v.jpg" target=_blank"><img alt="Exchange rates for zloty on September 10, 2015" title="Exchange rates for zloty on September 10, 2015" src=../travel/travel/krakow/zloty_on100915v250.jpg width=320px></a><br><em>Value of zloty on September 10, 2015</em></td></tr></table>
+
+<h2 style="background-color:midnightblue;color:yellow;font-size:24px;width:480px;font-family:arial;margin-left:20px;padding-left:10px;">Rynek Glowny, Krakow's Market Square</h2>
+
+<FONT face=tahoma color=black size=3>
+<table style="width:980px;">
+<tr> 
+<td colspan=3 style="vertical-align:top;padding-left:20px;"><a href="../travel/travel/krakow/sukiennice_morning.jpg" target=_blank"><img alt="The Cloth Hall (Sukiennice) at sunrise" title="The Cloth Hall (Sukiennice) at sunrise" src=../travel/travel/krakow/sukiennice_morning800.jpg width=980px></a><br>The Cloth Hall (<em>Sukiennice</em>), centrepiece of the most popular square in Krakow, having a quiet moment at sunrise before it is taken over by hordes of tourists later in the morning.  There are many shops inside for your souvenir shopping.  But it also houses part of the <a href="http://mnk.pl/branch/gallery-of-the-19th-century-polish-art-the-sukiennice-the-cloth-hall/about-the-branch" target=_blank>National Museum in Krakow</a> on the first floor.  The Rynek Glowny is in the form of a square, with 200m. on each side, making it the largest medieval square in Europe.<br><br></td></tr>
+<tr>
+<td style="width:320px;padding-left:10px;"><a href="../travel/travel/krakow/overview_rynek.jpg" target=_blank"><img alt="An overview of the Rynek Glowny" title="An overview of the Rynek Glowny" src=../travel/travel/krakow/overview_rynek250.jpg width=320px></a><br>An overview of the Rynek Glowny, Krakow's famous Market Square.<br><br></td>
+<td style="width:320px;padding-left:10px;"><a href="../travel/travel/krakow/rynek_statue.jpg" target=_blank"><img alt="Rallying point for groups at Rynek Glowny" title="Rallying point for groups at Rynek Glowny" src=../travel/travel/krakow/rynek_statue250.jpg width=320px></a><br>This statue is a popular rallying point for groups at Rynek Glowny.<br><br></td>
+<td  style="width:320px;padding-left:10px;"><a href="../travel/travel/krakow/rynek_horsecarriages.jpg" target=_blank"><img alt="Horse carriages at Rynek Glowny" title="Horse carriages at Rynek Glowny" src=../travel/travel/krakow/rynek_horsecarriages250.jpg width=320px></a><br>Horse carriages waiting to take tourists for a short tour.<br><br></td>
+</tr>
+<tr>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/rynek_busker.jpg" target=_blank"><img alt="A street musician in Rynek Glowny" title="A street musician in Rynek Glowny" src=../travel/travel/krakow/rynek_busker250.jpg width=320px></a><br>A street musician in Rynek Glowny.  Performers and buskers make the square a lively place both day and night.<br><br></td>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/everpresent_bagels.jpg" target=_blank"><img alt="A roadside stall selling obwarzanek in Rynek Glowny" title="A roadside stall selling obwarzanek in Rynek Glowny" src=../travel/travel/krakow/everpresent_bagels250.jpg width=320px></a><br>A roadside stall selling <em>obwarzanek</em> and pretzels near the marketplace.  Similar stalls are to be found at street corners all over the city.<br><br></td>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/churchof_stmary.jpg" target=_blank"><img alt="St. Mary's Church/Basilica in Rynek Glowny" title="St. Mary's Church/Basilica in Rynek Glowny" src=../travel/travel/krakow/churchof_stmary250.jpg width=320px></a><br>The towering St. Mary's Church/Basilica catches your attention as you enter Rynek Glowny from Florianska street.<br><br></td>
+</tr>
+<tr>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/rynek_townhallv.jpg" target=_blank"><img alt="The Town Hall Tower in Rynek Glowny" title="The Town Hall Tower in Rynek Glowny" src=../travel/travel/krakow/rynek_townhallv250.jpg width=320px></a><br>The Town Hall Tower is at the far end of St. Mary's Basilica.</td>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/souvenir_stallv.jpg" target=_blank"><img alt="Souvenir stall in Rynek Glowny" title="Souvenir stall in Rynek Glowny" src=../travel/travel/krakow/souvenir_stallv250.jpg width=320px></a><br>Souvenir stall selling bric-a-brac at the main market square.</td>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/adams_statuev.jpg" target=_blank"><img alt="Statue of Adam Mickiewicz in Rynek Glowny" title="Statue of Adam Mickiewicz in Rynek Glowny" src=../travel/travel/krakow/adams_statuev250.jpg width=320px></a><br>Poland's national poet Adam Mickiewicz has his statue here.</td>
+</tr>
+</table>
+
+<h2 style="background-color:midnightblue;color:yellow;font-size:24px;width:480px;font-family:arial;margin-left:20px;padding-left:10px;">Wawel Hill and the Wawel Royal Castle</h2>
+<table style="width:980px;"><tr>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/wawel_fromstreet.jpg" target=_blank"><img alt="Wawel Hill as seen from the street" title="Wawel Hill as seen from the street" src=../travel/travel/krakow/wawel_fromstreet250.jpg width=320px></a><br>Wawel Hill as seen from the street.  Go round it to see the Dragon's Lair.<br><br></td>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/gateway_wawelpalace.jpg" target=_blank"><img alt="Archway that leads to the Wawel Royal Castle." title="Archway that leads to the Wawel Royal Castle." src=../travel/travel/krakow/gateway_wawelpalace250.jpg width=320px></a><br>The closely-guarded archway that leads to the Wawel Royal Castle.<br><br></td>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/wawelcastle_visitors.jpg" target=_blank"><img alt="Wawel Cathedral" title="Wawel Cathedral" src=../travel/travel/krakow/wawelcastle_visitors250.jpg width=320px></a><br>Groups of visitors on their way to the Wawel Cathedral.<br><br></td>
+</tr>
+<tr>
+<td colspan=3 style="padding-left:10px;vertical-align:top;"><img src=../travel/travel/krakow/panoviewfrom_wawelhill.jpg  width=980px><br>&nbsp;&nbsp;Panoramic view of the Vistula (Wisla) River from the top of Wawel Hill.</td></tr>
+</table>
+<br>
+<table style="width:980px;padding:0 20px;"><tr><td><FONT face=tahoma color=black size=3><a href="../travel/travel/krakow/dragon.jpg" target=_blank"><img style="float:right;margin-left:20px;" alt="The Dragon's Lair at Wawel Hill" title="The Dragon's Lair at Wawel Hill" src=../travel/travel/krakow/dragon400.jpg width=320px></a>The Dragon's Lair at Wawel Hill is not on the hill itself but is at ground level.  To see it you have to go round Wawel Hill at street level to where it is closest to the Vistula River.  Every five minutes or so it will spit fire from its mouth so get your cameras ready.  There is a legend surrounding this dragon.  It goes like this: <em>A fire-spitting dragon was hiding at the bottom of Wawel Hill and ate sheep and cattle grazing in the field near the Vistula River. Many tried to kill it but no one succeeded.
+<br>Not knowing what to do, the king promised that whoever killed the dragon would have the right to marry his
+daughter. A poor shoemaker's apprentice named Krak made his way to Wawel Hill to try his luck.  He went to the butchery to buy a dead sheep and sulphur powder (used for making matches) from a shop. Then he cut the sheep open with his shoemaker's knife, put the powdered sulphur inside, sewed it up with the shoemaker's thread and left the sheep outside the dragon's cave.
+After a while, the hungry dragon came out and greedily ate the dead sheep. The sulphur caught fire and the dragon ran to the river to quench the fire in its stomach.  It drank so much water that it became sick.
+Krak came out from his hiding place and when the dragon saw him tried to spit fire at him but all that came
+out of its mouth was steam from the water that it drank. It finally exploded and died. The king kept his word and Krak and the princess were married. When the king died, Krak became King and built his castle on the top of Wawel Hill and for hundreds of years later it was where all the Kings of Poland lived. The people built a city around the hill and called it Krakow in his honour.</em></td>
+</tr></table>
+
+<br>
+<FONT face=tahoma color=black size=3>
+<table style="width:980px;"><tr>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/entrance_railstation.jpg" target=_blank"><img alt="Entrance to Krakow Glowny (Dworzec Glowny), Krakow's main railway station and the Galeria Krakowska mall" title="Entrance to Krakow Glowny (Dworzec Glowny), Krakow's main railway station and the Galeria Krakowska mall" src=../travel/travel/krakow/entrance_railstation250.jpg width=320px></a><br>The principal entrance to the Krakow central railway station (known locally as <em>Krakow Glowny</em> or <em>Dworzec Glowny</em>) and the Galeria Krakowska mall inside.  The coach terminus is also here.<br><br></td>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/stflorians_gate.jpg" target=_blank"><img alt="St. Florian's gate (Brama Florianska)" title="St. Florian's gate (Brama Florianska)" src=../travel/travel/krakow/stflorians_gate250.jpg width=320px></a><br>St. Florian's gate (<em>Brama Florianska</em>) is near the start of the Royal Route.  It is a short distance from the main railway station and leads to the touristy Ulica Florianska pedestrian street.<br><br></td>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/foodby_weight.jpg" target=_blank"><img alt="Olimp restaurant where you pay by the weight of your plate" title="Olimp restaurant where you pay by the weight of your plate" src=../travel/travel/krakow/foodby_weight250.jpg width=320px></a><br>At the Olimp restaurant inside the Krakow Glowny railway station you put whatever you want into your plate then pay for it according to its weight!  There are over 20 dishes to choose from.<br><br></td>
+</tr>
+<tr>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/oldest_university.jpg" target=_blank"><img alt="Jagiellonian University, the oldest university in Poland" title="Jagiellonian University, the oldest university in Poland" src=../travel/travel/krakow/oldest_university250.jpg width=320px></a><br>Jagiellonian University, the oldest university in Poland founded in 1364, counts Copernicus as one of its distinguished students.<br><br></td>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/plac_szczepanski.jpg" target=_blank"><img alt="Sculptures by Michal Batkiewicz in Plac Szczepanski, Krakow" title="Sculptures by Michal Batkiewicz in Plac Szczepanski, Krakow" src=../travel/travel/krakow/plac_szczepanski250.jpg width=320px></a><br>Sculptures by Michal Batkiewicz in Plac Szczepanski near the grand market.  You can find more of his works <a href=http://rzezba.com.pl/?lang=en target=_blank>here.</a>
+<br><br></td>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/nowahuta_tesco.jpg" target=_blank"><img alt="Tesco supermarket in Nowa Huta" title="Tesco supermarket in Nowa Huta" src=../travel/travel/krakow/nowahuta_tesco250.jpg width=320px></a><br>A Tesco supermarket in Nowa Huta, a city built for workers of the gigantic steel factory there under the old communist regime.<br><br></td></tr></table>
+
+<br>
+<img src="../travel/travel/krakow/planty_lushness800.jpg" width=980px></a><br>The lush Planty garden encircles the whole of the old town (<em>Stare Miasto</em>), making walking there a pleasure.
+<br>
+
+<h2 style="background-color:midnightblue;color:yellow;font-size:24px;width:380px;font-family:arial;margin-left:20px;padding-left:10px;">Milk bars, a Polish institution</h2>
+<table style="width:800px;"><tr>
+<td style="width:320px;padding-left:10px;"><img alt="Sign of a milk bar (bar mleczny) in 43, Ulica Grodzka, Krakow" title="Sign of a milk bar (bar mleczny) in 43, Ulica Grodzka, Krakow" src=../travel/travel/krakow/logo_milkbar.jpg width=320px><br><em>Sign of a milk bar.</em></td>
+<td style="width:320px;padding-left:10px;"><a href="../travel/travel/krakow/menu_onwall.jpg" target=_blank"><img alt="Menu is displayed on wall of a milk bar in Krakow" title="Menu is displayed on wall of a milk bar in Krakow" src=../travel/travel/krakow/menu_onwall250.jpg width=320px></a><br><em>Menu is displayed on wall.</em></td>
+<td style="width:320px;padding-left:10px;"><a href="../travel/travel/krakow/milkbar_meal.jpg" target=_blank"><img alt="Simple, cheap and good food at a milk bar in Krakow" title="Simple, cheap and good food at a milk bar in Krakow" src=../travel/travel/krakow/milkbar_meal250.jpg width=320px></a><br><em>Simple, cheap and good!</em></td>
+</tr><tr><td colspan=3><br>While in Krakow, a meal in a milk bar is an experience not to be missed as there is nothing more Polish than this sort of canteen, a hangover from the years of communist rule.  Known locally as <em>bar mleczny</em> it offers an authentic Polish atmosphere and Polish food.  There is no waiting service, you make your order orally in a queue (as I do not know Polish I wrote the names out to show), pay for it and wait for 5-10 minutes for it to be ready.  Most people sit at a table first and go now and then to see if the plate is already on the counter.  In other milk bars your order number blinks when it's ready.  In one such milk bar at 43 Ulica Grodzka (the street that continues from Ulica Florianska along the market square) a huge menu "card" is posted on the wall itself.  I had a typical Polish dish called <em>placki ziemniaczane</em> (fried potato pancakes with goulash) and a cuttlefish soup for a total of 14.50 zloty (about 3.50 euro).  It was not only delicious but also filling and cheap.  A real proletarian treat.
+</td></tr></table>
+
+<table style="width:980px;"><tr><td><h2 style="background-color:midnightblue;color:yellow;font-size:24px;width:350px;font-family:arial;margin-left:20px;padding-left:10px;">Kazimierz, the Jewish quarter</h2>
+<br>After your visit to Wawel Hill it is very easy to walk over to the Kazimierz quarter.  Just take the road called Stradomska and if you keep on walking straight you will be in Kazimierz's Krakowska street.</td></tr></table>
+
+<table style="width:980px;"><tr>
+<td colspan=3><a href="../travel/travel/krakow/entrance_remuhsynagogue.jpg" target=_blank"><img alt="Entrance to the Remuh Synagogue and Cemetery in Kazimierz" title="Entrance to the Remuh Synagogue and Cemetery in Kazimierz" src=../travel/travel/krakow/entrance_remuhsynagogue800.jpg width=980px></a><br>The entrance to the Remuh Synagogue is also the same entrance for the Jewish cemetery which is behind the synagogue.  They are just a stone's throw away from Szeroka street (which is more of a square than a street).  At the cemetery I saw a group of young rabbis paying their respects to Avraham Yehoshua Heschel, Chief Rabbi of Krakow, whose remains are to be found there.<br><br></td></tr><tr>
+<td style="width:320px;padding-left:10px;"><a href="../travel/travel/krakow/kazimierz_wolnicasquare.jpg" target=_blank"><img alt="Wolnica square in Kazimierz, Krakow" title="Wolnica square in Kazimierz, Krakow" src=../travel/travel/krakow/kazimierz_wolnicasquare250.jpg width=320px></a><br>The quiet Wolnica square is to your left as you enter Krakowska street.</td>
+<td style="width:320px;padding-left:10px;"><a href="../travel/travel/krakow/kazimierz_oldsynagogue.jpg" target=_blank"><img alt="Old Synagogue in Kazimierz, Krakow" title="Old Synagogue in Kazimierz, Krakow" src=../travel/travel/krakow/kazimierz_oldsynagogue250.jpg width=320px></a><br>A tourist guide delving into the <a href="http://www.mhk.pl/branches/old-synagogue" target=_blank>Old Synagogue's</a> past.</td>
+<td style="width:320px;padding-left:10px;"><a href="../travel/travel/krakow/kazimierz_streetart.jpg" target=_blank"><img alt="Street art in Kazimierz, Krakow" title="Street art in Kazimierz, Krakow" src=../travel/travel/krakow/kazimierz_streetart250.jpg width=320px></a><br>Street art in an open space along Sw. Wawrzynca in Kazimierz.</td>
+</tr></table>
+
+<table style="width:980px;"><tr><td><h2 style="background-color:midnightblue;color:yellow;font-size:24px;width:350px;font-family:arial;margin-left:20px;padding-left:10px;">Podgorze, ex-Jewish ghetto</h2>
+<br>
+After your tour of the historical Jewish quarter of Kazimierz, you might want to visit Podgorze nearby.  It was here that a Jewish ghetto (for those awaiting extermination) was created by the Nazis during the German occupation of Poland in World War II.  You can ride in an electric car to come to Podgorze after your visit to Szeroka square and the Remuh cemetery (there are lots of them waiting for customers there).  But if you have plenty of time and enjoy walking it is possible to cross the Vistula River either with the Bernatka footbridge at the end of Mostowa street or use the wider (and closer) Powstancow bridge at the end of Starowislna road.  You might not be able to find the Bernatka footbridge on the older maps as it was only open on 30 September 2010.  Both will take you into the Podgorze district but in either case you have to turn left once you arrive at the other end of the bridge and look for Lipowa street (<em>Ulica Lipowa</em>) which is where the two main places of interest are: (1) MOCAK (Museum of Contemporary Art in Krakow) and (2) Oskar Schindler's Factory, which has been turned into a historical museum.</td></tr></table>
+
+<br>
+<table style="width:980px;"><tr>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/bernatka_footbridge.jpg" target=_blank"><img alt="The Bernatka footbridge that links Kazimierz to Podgorze" title="The Bernatka footbridge that links Kazimierz to Podgorze" src=../travel/travel/krakow/bernatka_footbridge250.jpg width=320px></a><br>The Bernatka bridge has separate lanes for cyclists and pedestrians.<br><br></td>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/schlindersfactory_entrance.jpg" target=_blank"><img alt="The entrance to Schindler's Factory in Podgorze" title="The entrance to Schindler's Factory in Podgorze" src=../travel/travel/krakow/schlindersfactory_entrance250.jpg width=320px></a><br>The entrance to <a href="http://www.mhk.pl/branches/oskar-schindlers-factory" target=_blank>Schindler's Factory</a>, now a museum.<br><br></td>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/schlindersfactory_inside.jpg" target=_blank"><img alt="Photos of Jewish factory workers saved by Schindler" title="Photos of Jewish factory workers saved by Schindler" src=../travel/travel/krakow/schlindersfactory_inside250.jpg width=320px></a><br>Photos of factory workers saved by Schindler from Nazi execution.<br><br></td></tr><tr>
+
+<th colspan=3>At MOCAK (Museum of Contemporary Art in Krakow) at 4 Lipowa Street</th></tr><tr>
+
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/mocak_building.jpg" target=_blank"><img alt="MOCAK building in Ulica Lipowa, Podgorze" title="MOCAK building in Ulica Lipowa, Podgorze" src=../travel/travel/krakow/mocak_building250.jpg width=320px></a><br>Once you are in Lipowa street you cannot miss the MOCAK building.</td>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/mocak_inside.jpg" target=_blank"><img alt="Inside the Museum of Contemporary Art of Krakow in Podgorze" title="Inside the Museum of Contemporary Art of Krakow in Podgorze" src=../travel/travel/krakow/mocak_inside250.jpg width=320px></a><br>Inside the Museum of Contemporary Art.  Pure art...</td>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/mocak_maymenrot.jpg" target=_blank"><img alt="Women as lumberjacks photo in MOCAK exposition" title="Women as lumberjacks photo in MOCAK exposition" src=../travel/travel/krakow/mocak_maymenrot250.jpg width=320px></a><br>...plus photos of women doing men's jobs*, here as lumberjacks.</td>
+</tr></table>
+
+<br>*This photograph is part of a series by a group of four artists called Lodz Kaliska entitled "May Men Rot".  Other photos on display are of naked women working as fishermen, miners, stone masons, etc.  Explanation <a href=../travel/travel/krakow/maymenrot_explanation.jpg target=_blank>here.</a>  It says: <em>The series of photographs shows women working in typical men's jobs.  All the women are semi- or completely naked; they are all totally focused on the task in hand.....In a world without men, women have been liberated from shame.  They do not have to be coquettish and to think about their looks or whether they are fat.  They have been liberated from the original sin and have become free people, for whom what counts the most is their work and their passions.  These photographs also experiment with how we react to nudity.</em>
+
+<table style="width:980px;"><tr><td><h2 style="background-color:midnightblue;color:yellow;font-size:24px;width:460px;font-family:arial;margin-left:20px;padding-left:10px;">3 popular spots for day excursions</h2>
+<br>
+<FONT face=tahoma color=black size=3><a href="../travel/travel/krakow/freelunch_booking.jpg" target=_blank><img style="float:right;margin-left:20px;" alt="Free lunch offered with excursion booking in Krakow" title="Free lunch offered with excursion booking in Krakow" src=../travel/travel/krakow/freelunch_booking400.jpg width=320px></a>
+If you have time to spare after visiting Krakow city you might want to consider making day trips to such places as the <a href=http://auschwitz.org/en/ target=_blank>Auschwitz and Birkenau camps</a>, the <a href=http://www.wieliczka-saltmine.com/ target=_blank>Wieliczka salt mine</a> or <a href=http://www.discoverzakopane.com/ target=_blank>Zakopane</a> at the foot of the Tatra Mountains.
+<br>The first two are really not to be missed as you will not be able to find such experiences elsewhere.  If you have a very short time in Krakow you might consider paying 65 euros for an excursion to take in both the two Auschwitz and Birkenau camps as well as the Wieliczka salt mine (also known as the Cracow Saltworks Museum) in a single day.  A packed lunch is included in the price as well as a different English-speaking guide in each of the three places.  They also pick you up from your hotel so it might be worth it for all the trouble and rush if you were to do it on your own.  It is going to be a very exhausting day, you can be sure, but at least you will be able to see all the three places which are outside Krakow city in a single day.
+<br>A few travel agencies near the St. Florian's Gate even offer a free lunch at a restaurant for an excursion booking with them.  But if you are the type who likes to plan everything before the trip starts then you might prefer to book online ahead of your trip (and thus forgo the free restaurant lunch!)  One reliable company is <a href=http://krakowshuttle.com/krakow-tours/auschwitz-salt-mine-one-day-tour/ target=_blank>krakowshuttle.com</a>.  They informed me the day before the excursion that they would pick me up from my hostel at 10.05am and their coach arrived at exactly 10.05am.  Quite unbelievable!</font></font></font></td></tr></table>
+
+
+<table style="width:980px;"><tr><td><h2 style="background-color:midnightblue;color:yellow;font-size:24px;width:370px;font-family:arial;margin-left:20px;padding-left:10px;">Auschwitz concentration camp</h2>
+<br>
+<FONT face=tahoma color=black size=3>This is a grim and highly depressing place to visit but it is here that you feel the full weight of the Holocaust and where history smacks you right in the face.  In fact the visit comprises two separate camps (Auschwitz I and Auschwitz II-Birkenau) in the city of Oswiecim which are situated 3.5 km from each other.  There is a free bus shuttle between the two concentration camps.  You will not be allowed inside with your backpack as the maximum size of bags allowed is 30 x 20 x 10 cm. (A4 paper size).
+<br>A plaque there says that the Nazis deported 1.3 million people to the Auschwitz concentration camps between 1940 and 1945.</td></tr></table>
+
+<br>
+<table style="width:980px;"><tr>
+<td style="width:320px;padding-left:10px;"><a href="../travel/travel/krakow/auschwitz_entrance.jpg" target=_blank"><img alt="Entrance to the Auschwitz I concentration camp." title="Entrance to the Auschwitz I concentration camp." src=../travel/travel/krakow/auschwitz_entrance250.jpg width=320px></a><br>Entrance to the Auschwitz I concentration camp.<br><br></td>
+<td style="width:320px;padding-left:10px;"><a href="../travel/travel/krakow/auschwitz_inside.jpg" target=_blank"><img alt="The tragic reality of Poland's past." title="The tragic reality of Poland's past." src=../travel/travel/krakow/auschwitz_inside250.jpg width=320px></a><br>Coming face to face with the tragic reality of Poland's past.<br><br></td>
+<td style="width:320px;padding-left:10px;"><a href="../travel/travel/krakow/birkenau_entrance.jpg" target=_blank"><img alt="Inside the Birkenau camp in the city of Oswiecim." title="Inside the Birkenau camp in the city of Oswiecim." src=../travel/travel/krakow/birkenau_entrance250.jpg width=320px></a><br>Inside the Birkenau camp in the city of Oswiecim.<br><br></td>
+</tr></table>
+
+
+<table style="width:980px;"><tr><td><h2 style="background-color:midnightblue;color:yellow;font-size:24px;width:260px;font-family:arial;margin-left:20px;padding-left:10px;">Wieliczka salt mine</h2>
+<br>
+<FONT face=tahoma color=black size=3>To reach the mine shaft 135 metres underground you have to go down some 390 narrow steps (but don't worry, a mining elevator will bring you back to the world!)  Once there you will continue to wind your way round numerous chambers along narrow corridors in a labyrinth-like setting.  The grand finale is an awe-inspiring main chapel dedicated to Queen Kinga (1224-1292), the patron of salt-miners.  There is a legend surrounding Kinga's role in the discovery of the Wieliczka salt mine.  You can read all about it <a href="http://www.slideshare.net/msanch43/the-legendofsaintkinga" target=_blank> here.</a>  The whole chapel (it's more of a cathedral actually) is brightly-illuminated with sculptures and carved works of art all around (including one of the Last Supper) - all completely sculptured out of crystalline salt.  Wherever you are in the salt mine you are permitted (nay, encouraged!) to lick the walls to be convinced that everything here is indeed made of salt.  Though visitors are allowed to go down as far as 135m, the mine actually goes much deeper, to 327m!</td></tr></table>
+
+<br>
+<table style="width:980px;"><tr>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/underground_chapel.jpg" target=_blank"><img alt="The deepest underground chapel in the world in Wieliczka salt mine" title="The deepest underground chapel in the world in Wieliczka salt mine" src=../travel/travel/krakow/underground_chapel250.jpg width=320px></a><br>The deepest underground chapel in the world is here.</td>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/salt_sculpture.jpg" target=_blank"><img alt="Bust of King Kazimierz carved out of salt." title="Bust of King Kazimierz carved out of salt." src=../travel/travel/krakow/salt_sculpture250.jpg width=320px></a><br>King Kazimierz carved out of salt along one of the corridors.</td>
+<td style="width:320px;padding-left:10px;vertical-align:top;"><a href="../travel/travel/krakow/lastsupper_insalt.jpg" target=_blank"><img alt="The Last Supper carved in a wall in Wieliczka salt mine" title="The Last Supper carved in a wall in Wieliczka salt mine" src=../travel/travel/krakow/lastsupper_insalt250.jpg width=320px></a><br>The Last Supper carved in a wall of rock salt in the chapel.</td></tr></table>
+
+<table style="width:980px;"><tr><td><h2 style="background-color:midnightblue;color:yellow;font-size:24px;width:200px;font-family:arial;margin-left:20px;padding-left:10px;">Miscellaneous</h2>
+<br>
+<strong>Airport to City:</strong>  There is no train at the moment from the airport to the city.  The airport-to-city train, which has been suspended since February 1, 2014 for modernisation works, is due to reopen in two weeks' time, on September 27, 2015 (let's see if they can keep to their deadline).  In the meantime you have to take the bus to Dworzec Glowny, the main railway station.  From the airport there is Bus 292 (running every 20 minutes), 208 (running once an hour) or 902 (night bus service running every hour between 11 pm and 4 am).
+
+<br><strong>Bus/tram tickets:</strong> You can buy tickets from the ticket dispenser in the bus.  Make sure you have plenty of coins for this as no notes are accepted.  A single ride up to 40 minutes costs 3.80 zloty while the ticket for a longer trip (up to 60 minutes and which allows you to change buses) costs 5 zloty.  Where a tram has three or four carriages you will probably find the ticket dispenser only in the first carriage.  And when the ticket comes out make sure you validate it!
+
+
+<br><strong>Don't get confused:</strong>  The word <em>glowny</em> simply means "main" so Dworzec Glowny means the "main station" (dworzec = station) and Rynek Glowny means "main market" (rynek = market or marketplace).</td></tr></table>
+
+<table width=980><tr><td width=70><img src=../travel/travel/krakow/logo_kantorh50.jpg width=320px></td><td style="padding-left:20px;width:730px;"><strong>Money:</strong> There are money changers (<em>kantor</em> in Polish) everywhere in St. Florian's street (<em>ulica Florianska</em>) and in the main market.  Don't waste your time trying to look for the best bargain as their exchange rates are practically the same in that area.</td></tr></table>
+
+<table width=980><tr><td><strong>Main railway station:</strong>  It is easy to get lost in  Dworzec Glowny, the main railway station, especially if you go up and down the electric escalators or go in and out of the tunnels to get out of it.  Following the direction signboards could be a red herring because of the different levels where you could find yourself in.  As a point of reference just remember that if you should get down from the airport bus (either No. 292 or 208) at its terminus at the coach station which is just outside the central railway station, enter the station without going up or down the numerous escalators and continue to the very end which will take you to the Pawia exit.  In this way you can be sure that you will always be at the street level.  Once you are outside the station at Pawia street turn left and a short walk will take you to St. Florian's Gate, Florianska street and the main market square.
+<br><strong>Internet cafe:</strong>  You can find an internet cafe which opens from 10am to 10pm at 22 Florianska street.  Price is 4 zloty for an hour's connection.
+</td></tr></table>
+
+
+<a name="krakowlinks">
+
+<table style="width:980px;"><tr><td width=400 valign=top><h2 style="background-color:midnightblue;color:yellow;font-size:24px;width:200px;font-family:arial;margin-left:20px;padding-left:10px;">Useful Links</h2>
+<br>
+<a href=http://www.poland.travel/en/krakow/ target=_blank>Poland's official travel website on Krakow</a><br>
+<a href=http://wawel.krakow.pl/en/ target=_blank>Wawel Royal Castle website</a><br>
+<a href=http://www.katedra-wawelska.pl/english target=_blank>Wawel Cathedral website</a><br>
+<a href="http://www.mhk.pl/branches/oskar-schindlers-factory" target=_blank>Schindler's Factory</a><br>
+<a href="http://www.mhk.pl/branches/old-synagogue" target=_blank>Old Synagogue in Kazimierz</a><br>
+<a href=http://www.galeriakrakowska.pl/en target=_blank>Galeria Krakowska shopping mall</a><br>
+<a href="http://mnk.pl/branch/gallery-of-the-19th-century-polish-art-the-sukiennice-the-cloth-hall/about-the-branch" target=_blank>National Museum in Krakow</a><br>
+<a href="https://en.mocak.pl/" target=_blank>Museum of Contemporary Art Krakow</a><br>
+<a href=http://auschwitz.org/en/ target=_blank>Auschwitz and Birkenau camps</a><br>
+<a href=http://www.wieliczka-saltmine.com/ target=_blank>Wieliczka salt mine</a><br>
+<a href=http://www.discoverzakopane.com/ target=_blank>Zakopane mountains</a><br>
+<a href=http://www.krakowairport.pl/en/ target=_blank>Krakow Int'l Airport at Balice</a><br>
+<br><em style="padding-right:20px;">Map on right shows Krakow's  city centre (which is actually the old town).  Click to enlarge.</em>
+</td><td width=400>
+<a href="http://tinyurl.com/ou5nvma" target=_blank><img src=../travel/travel/krakow/krakow_citymap.jpg width=320px></a>
+</td></tr></table>
+
+<center><? include "all_cities.inc"; ?></center>
+
+</td></tr></table>
+
+
+
+</center>
+</body>
+</html>

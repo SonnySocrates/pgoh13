@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"> <!-- The majority of the world uses UTF-8 for just about everything nowadays -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+<script>
+function setFocusToTextBox(){
+    document.getElementById("mytext").focus();
+}
+</script>
+
+<!-- without the js code below the dropdown menu won't work -->
+<script>
+$(document).ready( function() {
+$('.dropdown-toggle').dropdown();
+});
+</script>
+
+<!-- Below css style is for aligning the 8 blocks with the same height -->
+<style>
+.sameheight {
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+    background-color:#efefef;
+}
+#equalheight {
+    overflow: hidden; 
+}
+
+</style>
+
+<!-- Below script is for showing part of longer text Source: cssnewbiedotcom/showhide-content-css-javascript/ -->
+<script language="javascript" type="text/javascript">
+function showHide(shID) {
+   if (document.getElementById(shID)) {
+      if (document.getElementById(shID+'-show').style.display != 'none') {
+         document.getElementById(shID+'-show').style.display = 'none';
+         document.getElementById(shID).style.display = 'block';
+      }
+      else {
+         document.getElementById(shID+'-show').style.display = 'inline';
+         document.getElementById(shID).style.display = 'none';
+      }
+   }
+}
+</script>
+
+<style>
+.more {
+	display: none;
+	border-top: 1px solid #666;
+	border-bottom: 1px solid #666; }
+a.showLink, a.hideLink {
+	text-decoration: none;
+	color: #36f;
+	padding-left: 8px;
+	background: transparent url('down.gif') no-repeat left; }
+a.hideLink {
+	background: transparent url('up.gif') no-repeat left; }
+a.showLink:hover, a.hideLink:hover {
+	border-bottom: 1px dotted #36f; }
+</style>
+
+<link href="http://greatday.com/nmot/css/motivatorTFTD.css" rel="stylesheet" type="text/css">
+    
+<title>The World At Your Fingertips, website that makes your surfing easier.</title>
+<meta name="description" content="The World At Your Fingertips is a website that strives to make your surfing life easier.  Songs, Travel, News, Information, Computer Tips plus free online Malay language and Mandarin Pinyin courses.  Do everything from here.  Go everywhere from here." />
+</head>
+
+
+<body onload='setFocusToTextBox()' style="background-color:#cccccc">
+
+<nav class="navbar navbar-inverse"> <!-- adding navbar_fixed_top makes nav bar fixed but will screw up your CNN line as have to give margin top height -->
+
+  <div class="container-fluid"> <!-- this part stretches width to fill whole monitor -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+<span style="color:white;font-size:10px">MENU</span>                      
+      </button>
+      <a class="navbar-brand" style="background-color:red;color:black;" href="http://pgoh13.com">World Fingertips&nbsp;<span class="glyphicon glyphicon-home glyphicon-large" aria-hidden="true"></span></a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+
+            <li><a href="http://pgoh13.com"><span style="font-size:18px !important;color:yellow">Home</span></a></li>
+	    <li><a href="http://pgoh13.com/francais/"><span style="font-size:18px !important;color:yellow">En fran&ccedil;ais</span></a></li>
+            
+ <li class="dropdown">        
+   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span style="font-size:18px !important;color:yellow">Travel</span><span class="caret" style="color:white;border-width: 6px;"></span></a>
+                <ul class="dropdown-menu">
+          <li><a href="http://pgoh13.com/bruges.html" rel="nofollow">Bruges</a></li>
+                <li><a href="http://pgoh13.com/krakow.php" rel="nofollow">Krakow</a></li>
+		<li><a href="http://pgoh13.com/riga.php" rel="nofollow">Riga</a></li>
+		<li><a href="http://pgoh13.com/berlin.php" rel="nofollow">Berlin</a></li>
+		<li><a href="http://pgoh13.com/milan.php" rel="nofollow">Milan</a></li>	
+		<li><a href="http://pgoh13.com/lisbon.php" rel="nofollow">Lisbon</a></li>
+			<li><a href="http://pgoh13.com/dublin.php" rel="nofollow">Dublin</a></li>
+			<li><a href="http://pgoh13.com/sicily" rel="nofollow">Sicily</a></li>
+			<li><a href="http://pgoh13.com/budapest.php" rel="nofollow">Budapest</a></li>
+			<li><a href="http://pgoh13.com/paris_page1.php" rel="nofollow">Paris</a></li>
+			<li><a href="http://pgoh13.com/rome.php" rel="nofollow">Rome</a></li>
+			<li><a href="http://pgoh13.com/london.php" rel="nofollow">London</a></li>
+			<li><a href="http://pgoh13.com/barcelona.php" rel="nofollow">Barcelona</a></li>
+			<li><a href="http://pgoh13.com/madrid/" rel="nofollow">Madrid</a></li>
+			<li><a href="http://pgoh13.com/venice.php" rel="nofollow">Venice</a></li>
+			<li><a href="http://pgoh13.com/prague.php" rel="nofollow">Prague</a></li>
+			<li><a href="http://pgoh13.com/amsterdam.php" rel="nofollow">Amsterdam</a></li>
+			<li><a href="http://pgoh13.com/athens.php" rel="nofollow">Athens</a></li>
+			<li><a href="http://pgoh13.com/copenhagen.php" rel="nofollow">Copenhagen</a></li>
+			<li><a href="http://pgoh13.com/geneva.php" rel="nofollow">Geneva</a></li>
+			<li><a href="http://pgoh13.com/andalucia.php" rel="nofollow">Andalucia</a></li>
+			<li><a href="http://pgoh13.com/french_riviera.php" rel="nofollow">French Riviera</a></li>
+<li><a href="http://pgoh13.com/china.php" rel="nofollow">China</a></li>
+<li><a href="http://pgoh13.com/Malaysia_new.php" rel="nofollow">Malaysia</a></li>
+<li><a href="http://pgoh13.com/morocco.php" rel="nofollow">Morocco</a></li>
+</ul>
+
+            
+ <li class="dropdown">        
+   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span style="font-size:18px !important;color:yellow">Songs</span><span class="caret" style="color:white;border-width: 6px;"></span></a>
+                <ul class="dropdown-menu">
+		<li><a href="http://pgoh13.com/top12.php" rel="nofollow" target="_blank">This week's Top 12</a></li>
+		<li><a href="http://pgoh13.com/softsongs/" rel="nofollow" target="_blank">40 relaxing songs non-stop</a></li>
+		<li><a href="http://pgoh13.com/mobile/" rel="nofollow" target="_blank">English Songs and Their Lyrics</a></li>
+<li><a href="http://pgoh13.com/m.frenchsongsandlyrics.php" rel="nofollow" title="Spanish songs" target="_blank">Popular French songs</a></li>
+		<li><a href="http://pgoh13.com/malaysongs/" rel="nofollow" target="_blank">Malay Songs</a></li>
+		<li><a href="http://pgoh13.com/spanishsongs/" rel="nofollow" target="_blank">Spanish Songs</a></li>
+		<li><a href="http://pgoh13.com/chinese_songs.php" rel="nofollow" target="_blank">Chinese songs</a></li>
+		<li><a href="http://pgoh13.com/deezer/" rel="nofollow" target="_blank">Deezer playlists</a></li>
+		<li><a href="http://pgoh13.com/oldsongs_newsingers.php" rel="nofollow" target="_blank">Old songs, new singers</a></li>
+		<li><a href="http://pgoh13.com/songs/" rel="nofollow" target="_blank">Evergreens/Oldies</a></li>       	
+</ul>
+
+
+ <li class="dropdown">        
+   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span style="font-size:18px !important;color:yellow">Information</span><span class="caret" style="color:white;border-width: 6px;"></span></a>
+                <ul class="dropdown-menu">
+	<li class="active"><a href="http://pgoh13.com/calendar2017.html" rel="nofollow">2017 Calendar/Events</a></li>
+	<li><a href="http://www.web-l.com/country-codes/" rel="nofollow" target="_blank">Country codes for internet</a></li>
+	<li><a href="http://onlineconversion.com/" rel="nofollow" target="_blank">Conversions (length, weight, volume, temperature)</a></li>
+	<li><a href="http://wwp.greenwichmeantime.com/time-zone/usa/eastern-time/convert/index.htm" rel="nofollow" target="_blank">Time Conversion:  EST to GMT</a></li>
+	<li><a href="http://www.urbanrail.net/" rel="nofollow" target="_blank">World subways/metro</a></li>		
+	<li><a href="http://www.infobel.com/world/default.asp" rel="nofollow" target="_blank">World telephone directories</a></li>
+	<li><a href="http://embassyinformation.com/" rel="nofollow" target="_blank">World Embassies</a></li>
+	<li><a href="http://www.journeymart.com/tools/world-holidays/default.aspx" rel="nofollow" target="_blank">World public holidays</a></li>
+	<li><a href="http://www.seat61.com/" rel="nofollow" target="_blank">World train time-tables</a></li>
+	<li><a href="http://www.timeanddate.com/worldclock/dialing.html" rel="nofollow" target="_blank">International Dialling Codes</a></li>
+	<li><a href="http://www.timeanddate.com/date/weekday.html" rel="nofollow" target="_blank">What day is this date?</a></li>		</ul>
+
+ <li class="dropdown">        
+   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span style="font-size:18px !important;color:yellow">Internet</span><span class="caret" style="color:white;border-width: 6px;"></span></a>
+                <ul class="dropdown-menu">
+		<li class="active"><a href="http://pgoh13.com/control_button.php" rel="nofollow">The Ctrl button</a></li>
+		<li><a href="http://pgoh13.com/software_progs1.php" rel="nofollow">Useful programs</a></li>
+		<li><a href="http://pgoh13.com/internet_tips1.php" rel="nofollow">Internet/Computer tips</a></li>
+		<li><a href="http://pgoh13.com/using_hola.php" rel="nofollow">Using Hola! to access blocked sites</a></li>
+		<li><a href="http://pgoh13.com/using_printedit.php" rel="nofollow">Using Print Edit</a></li>
+		<li><a href="http://pgoh13.com/using_spybot.php" rel="nofollow">Using Spybot</a></li>
+		<li><a href="http://pgoh13.com/using_pixlr_masked.php" rel="nofollow">Using PIXLR</a></li>
+		<li><a href="http://pgoh13.com/using_manageflitter.php" rel="nofollow">Using ManageFlitter</a></li>
+		<li><a href="http://pgoh13.com/using_teamviewer.php" rel="nofollow">Using TeamViewer</a></li>
+		<li><a href="http://pgoh13.com/using_partitionwizard.php" rel="nofollow">Using Partition Wizard</a></li>
+		<li><a href="http://pgoh13.com/cobian_backup.php" rel="nofollow">Using Cobian Backup</a></li>
+		<li><a href="http://pgoh13.com/rssreader_installation.php" rel="nofollow">Using the RssReader</a></li>
+		<li><a href="http://pgoh13.com/copy_youtube.php" rel="nofollow">Tips for YouTube</a></li>
+		<li><a href="http://pgoh13.com/spam_list.php" rel="nofollow">Email spams and scams</a></li>
+		<li><a href="http://pgoh13.com/special_characters.php" rel="nofollow">Special characters</a></li>
+		<li><a href="http://pgoh13.com/country_domains.php" rel="nofollow">Country domain initials</a></li>
+	</ul>
+
+<li class="dropdown">        
+   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span style="font-size:18px !important;color:yellow">Languages</span><span class="caret" style="color:white;border-width: 6px;"></span></a>
+<ul class="dropdown-menu">
+		<li class="active"><a href="http://www.collinsdictionary.com/dictionary/english-french" rel="nofollow" target=_blank>French-English-French dictionary</a></li>
+		<li><a href="http://www.collinsdictionary.com/dictionary/english-spanish" rel="nofollow" target=_blank>Spanish-English-Spanish dictionary</a></li>
+		<li><a href="http://www.collinsdictionary.com/dictionary/english-german" rel="nofollow" target=_blank>German-English-German dictionary</a></li>
+		<li><a href="http://www.collinsdictionary.com/dictionary/english-italian" rel="nofollow" target=_blank>Italian-English-Italian dictionary</a></li>
+		<li><a href=http://www.mdbg.net/chindict/chindict.php rel="nofollow" target=_blank>English to Chinese dictionary</a></li>
+		<li><a href=http://www.linguee.com/ rel="nofollow" target=_blank>Linguee French, Spanish, German dictionary for phrases</a></li>
+		<li><a href=http://ukdataexplorer.com/european-translator/ rel="nofollow" target=_blank>European Word Translator by James Trimber</a></li>
+		<li><a href=http://www.lingvozone.com/ rel="nofollow" target=_blank>Multi-lingual dictionary with pronunciation</a></li>
+		<li><a href="http://pgoh13.com/mycourse/" rel="nofollow" target=_blank>Malaysian and Indonesian languages</a></li>
+		<li><a href="http://pinyin.pgoh13.com/chinese_introduction.php" rel="nofollow">Chinese Pinyin Lessons</a></li>
+		<li><a href="http://dictionary.pgoh13.com/" rel="nofollow">English-Malay Dictionary</a></li>
+		<li><a href="http://pinyin.pgoh13.com/chinese_characters.php" rel="nofollow">Basic Chinese Characters</a></li>
+<li><a href="http://www.word2word.com/course.html" rel="nofollow" target="_blank">All World Languages</a></li>
+
+</ul>
+
+<li class="dropdown">        
+   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span style="font-size:18px !important;color:yellow">Leisure</span><span class="caret" style="color:white;border-width: 6px;"></span></a>
+<ul class="dropdown-menu">
+		<li class="active"><a href="http://pgoh13.com/justforlaughs.php" rel="nofollow">Just for laughs</a></li>
+		<li><a href="http://pgoh13.com/brainteasers.php" rel="nofollow">Brainteasers</a></li>
+		<li><a href="http://pgoh13.com/quotations.php" rel="nofollow">Inspiring quotations</a></li>
+		<li><a href="http://pgoh13.com/pensioners_page.php" rel="nofollow">Page for senior citizens</a></li>
+		<li><a href="http://pgoh13.com/ecard_quotes.php" rel="nofollow">Motivational e-cards</a></li>
+		<li><a href="http://pgoh13.com/health_problems.php" rel="nofollow">Layman's guide to diseases</a></li>
+</ul>
+
+<li><a href="http://pgoh13.com/about_pgoh13.php" target="_blank"><span style="font-size:18px !important;color:yellow">About</span></a></li>
+            <li><a href="http://www.emailmeform.com/builder/form/Vr4xzDPmb4W" target="_blank"><span style="font-size:18px !important;color:yellow">Contact</span></a></li>
+
+</ul>
+
+
+<div class="pull-right">
+<form class="navbar-form" method=GET action="http://www.google.com/search" target=_blank>
+<img src=google_icon.jpg height="20" class="hidden-xs">
+<INPUT TYPE=text id=mytext name=q value="">
+<button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+</form>
+</div>
+
+</div>
+</div>
+</nav>
+
+<div class="container"> <!-- this part is not fluid so won't fill whole monitor -->
+
+
+<p style="font-size:1.2em"><em>Updated Tuesday March 21, 2017 at 7h40 <a href="http://time.is/GMT" target=_blank>GMT (this link also gives current time in major cities)</a></em>
+<br><em style="color:red">If you are used to the earlier site designed for desktop PCs, you can find it <a href=http://pgoh13.com/index_old.php target=_blank>here.</a></em>
+<br>Can't find what you are looking for in Google?  Try <a href=http://www.bing.com/ target=_blank>Bing</a> or <a href=https://www.qwant.com/ target=_blank>Qwant</a>
+</p>
+<br>
+<p>
+<a href=http://pgoh13.com/rss_worldnews.php target=_blank><img src=world_leaders.jpg class="img-responsive" alt="Today's World News" title="Today's World News"></a>
+</p>
+
+<br>
+
+<div class="container">
+<div class="row">
+
+<div class="col-sm-6">
+<p style="width:100%;max-width:400px;">
+<h3><span class="label label-default" style="background-color:midnightblue">From today's top hits</span></h3>
+<p style="width:100%;max-width:800px;font-size:1.2em"><em>This, and many other current hits, as well as their lyrics for you to sing along with, can be found in <a href="http://pgoh13.com/mobile" target=_blank>"Songs of Today, Songs of Yesterday"</a> at <a href="http://pgoh13.com/mobile" target=_blank>http://pgoh13.com/mobile</a>.  Enjoy!</em></p>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/JzSUgOmP66Q"></iframe>
+</div>
+<p style="width:100%;max-width:800px;font-size:16px">Tunnel Vision (Kodak Black)
+<br><em>Coming up next:</em> Bounce Back (Big Sean)
+<br>
+<a href=http://pgoh13.com/top12.php target=_blank><strong style="color:red">NEW! This week's Top 12 from U.S. Billboard's "The Hot 100"</strong></a></p>
+</div>
+
+<div class="col-sm-6">
+<p style="width:100%;max-width:400px;">
+<h3><span class="label label-default" style="background-color:midnightblue">A song from the past</span></h3>
+<p style="width:100%;max-width:800px;font-size:16px"><em>It is hoped that this, and other songs from the past featured here, will bring back nostalgic memories to the oldsters and happy discoveries to the younger generation.</em></p>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/WY3o4_iIudg"></iframe>
+</div>
+<p style="width:100%;max-width:800px;font-size:16px">Mary's Boy Child (Harry Belafonte)
+<br><em>Some oldies lined up:</em> Sixteen Tons (Tennessee Ernie Ford), Butterfly (Jim Ed Brown).
+<br>Lyrics of the above song (and many other songs from the past) can be found <a href=http://pgoh13.com/mobile/index-of-all-song-titles/ target=_blank><span style=color:red;">here.</span></a>
+</p>
+</div>
+
+</div>
+</div>
+
+
+
+
+<br>
+
+<div class="row">
+
+<div class="col-sm-6">
+<p style="width:100%;max-width:400px;">
+<h3><span class="label label-default" style="background-color:midnightblue">Latest news from the BBC</span></h3>
+<br>
+<!-- start feedwind code --><script type="text/javascript">document.write('\x3Cscript type="text/javascript" src="' + ('https:' == document.location.protocol ? 'https://' : 'http://') + 'feed.mikle.com/js/rssmikle.js">\x3C/script>');</script><script type="text/javascript">(function() {var params = {rssmikle_url: "http://feeds.bbci.co.uk/news/world/rss.xml",rssmikle_frame_width: "900",rssmikle_frame_height: "400",frame_height_by_article: "12",rssmikle_target: "_blank",rssmikle_font: "Arial, Helvetica, sans-serif",rssmikle_font_size: "16",rssmikle_border: "off",responsive: "on",rssmikle_css_url: "",text_align: "left",text_align2: "left",corner: "off",scrollbar: "off",autoscroll: "off",scrolldirection: "up",scrollstep: "3",mcspeed: "20",sort: "New",rssmikle_title: "off",rssmikle_title_sentence: "",rssmikle_title_link: "",rssmikle_title_bgcolor: "#0066FF",rssmikle_title_color: "#FFFFFF",rssmikle_title_bgimage: "",rssmikle_item_bgcolor: "#CCCCCC",rssmikle_item_bgimage: "",rssmikle_item_title_length: "100",rssmikle_item_title_color: "#0066FF",rssmikle_item_border_bottom: "on",rssmikle_item_description: "title_only",item_link: "off",rssmikle_item_description_length: "150",rssmikle_item_description_color: "#666666",rssmikle_item_date: "off",rssmikle_timezone: "Etc/GMT",datetime_format: "%b %e, %Y %l:%M %p",item_description_style: "text",item_thumbnail: "full",item_thumbnail_selection: "auto",article_num: "8",rssmikle_item_podcast: "off",keyword_inc: "",keyword_exc: ""};feedwind_show_widget_iframe(params);})();</script><div style="font-size:10px; text-align:center; "><a href="http://feed.mikle.com/" target="_blank" style="color:#CCCCCC;">RSS Feed Widget</a><!--Please display the above link in your web page according to Terms of Service.--></div><!--  end  feedwind code -->
+</p>
+</div>
+
+<div class="col-sm-6">
+<h3><span class="label label-default" style="background-color:midnightblue">Food for thought</span></h3>
+<div style="font-size:1.2em !important;">
+<p><script type="text/javascript" src="http://www.brainyquote.com/link/quotebr.js"></script></p>
+<small><i><a href="http://www.brainyquote.com/quotes_of_the_day.html" target="_blank">more Quotes</a></i></small>
+  </div>
+<div class="tftdBox5">
+  <script language="javascript" src="http://greatday.com/tftd_db/tftddyn.js"></script>
+</div></div>
+    
+</div>
+
+
+
+<br>
+
+<div class="container">
+<div class="row">
+
+<div class="col-sm-4">
+<p style="width:100%;max-width:400px;">
+<h3><span class="label label-default" style="background-color:midnightblue">This week's recipe (1)</span></h3>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7HQhHy-GO5c"></iframe>
+</div>
+<p style="font-size:1.2em;">How to Cook Ayam Pong teh</p>
+</div>
+
+<div class="col-sm-4">
+<p style="width:100%;max-width:400px;">
+ <h3><span class="label label-default" style="background-color:midnightblue">This week's recipe (2)</span></h3>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/BjUn8Vb_O0A"></iframe>
+</div>
+<p style="font-size:1.2em;">Ayam Pong Teh Peranakan</p>
+</div>
+
+<div class="col-sm-4">
+<p style="width:100%;max-width:400px;">
+<h3><span class="label label-default" style="background-color:midnightblue">This week's recipe (3)</span></h3>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-52iS9AEW1I"></iframe>
+</div>
+<p style="font-size:1.2em;">Nyonya-Style Potato Soup
+<br>
+<a href=http://pgoh13.com/recipes_list2.php target=_blank>Recipes that appeared earlier</a></p>
+</div>
+
+
+<div class="col-sm-10">
+<p style="width:100%;max-width:800px;font-size:16px">
+Use the above as a springboard for finding similar recipes more to your liking.
+<br>Grateful thanks to Youtubers for sharing their work with the world. - Webmaster</p>
+</div>
+
+</div>
+</div>
+
+<br>
+
+
+
+
+
+
+<style>
+
+@media screen and (min-width: 241px) and (max-width: 560px) {
+  .col-sm-6 {
+    display:block;
+  
+  }
+}
+@media screen and (min-width: 561px) and (max-width: 980px) {
+  .col-md-4 {
+    display:block;
+  
+  }
+}
+@media screen and (min-width: 981px) {
+  .col-lg-3 {
+    display:block;
+   
+  }
+}
+</style>
+
+ <div class="row" style="border:1px solid black">
+<div id="equalheight">
+
+<section style="font-size:1.4em;">
+            <div class="col-sm-6 col-md-4 col-lg-3 sameheight" style="background-color:#66CC33;border:1px solid black"><h3><span class="label label-default" style="background-color:midnightblue">Languages</span></h3>
+<a href="http://pgoh13.com/francais/" rel="nofollow" target=_blank><font color=black>Page in French</font></a>
+		<br><A href="http://pgoh13.com/mycourse/" rel="nofollow" title="Malaysian language" target=_blank><font color=black>Basic Malay course</font></a>
+		<br><A href="http://pinyin.pgoh13.com/index.php" rel="nofollow" title="Learn to speak Chinese" target=_blank><font color=black>Basic Chinese course</font></a>
+		<br /><A href="http://dictionary.pgoh13.com/" rel="nofollow" title="English-Malay Dictionary" target="_blank"><font color=red>English-Malay Dictionary</font></a>
+		<br /><A href="http://dictionary.pgoh13.com/malaydico_mobile.php" rel="nofollow" title="Malay-English Dictionary" target="_blank"><font color=black>Malay-English Dictionary</font></a>
+		<br /><A href="http://translate.google.com/" rel="nofollow" title="Google Translate" target=_blank><font color=black>Google Translate</font></a>
+		<br><a href=http://www.linguee.com/ rel="nofollow" target=_blank><font color=black>Linguee dictionary</a>
+		<br><a href="http://www.collinsdictionary.com/dictionary/english-french" rel="nofollow" target=_blank><font color=black>French dictionary</font></a>
+		<br><a href="http://www.collinsdictionary.com/dictionary/english-spanish" rel="nofollow" target=_blank><font color=black>Spanish dictionary</font></a></div>
+</section>
+
+<section style="font-size:1.4em">
+            <div class="col-sm-6 col-md-4 col-lg-3 sameheight" style="background-color:lightgreen;border:1px solid black"><h3><span class="label label-default" style="background-color:midnightblue">Songs</span></h3>
+<a href="http://pgoh13.com/mobile/" rel="nofollow" title="Songs and Lyrics" target="_blank"><font color=black>Songs and Lyrics</font></a>
+<br><a href="http://pgoh13.com/top12.php" rel="nofollow" title="This week's Top 10" target="_blank"><font color=black>This week's Top 12</font></a>
+<br><a href="http://pgoh13.com/oldsongs_newsingers.php" rel="nofollow" title="Old songs new singers" target="_blank"><font color=black>Oldies reinterpreted</font></a>
+<br /><A href="http://pgoh13.com/deezer/" rel="nofollow" title="Deezer playlists" target="_blank"><font color=black>Deezer playlists</font></a>
+<br /><a href="http://pgoh13.com/songs/" rel="nofollow" target="_blank" title="Evergreens and Oldies"><font color=black>Evergreens and Oldies</a>
+<br /><A href="http://pgoh13.com/chinese_songs.php" rel="nofollow" title="Chinese songs" target="_blank"><font color=black>Chinese songs</font></a>
+<br /><A href="http://pgoh13.com/malaysongs/" rel="nofollow" title="Malay songs" target="_blank"><font color=black>Malay songs</font></a>
+<br /><A href="http://pgoh13.com/spanishsongs/" rel="nofollow" title="Spanish songs" target="_blank"><font color=black>Spanish songs</font></a>
+<br /><A href="http://pgoh13.com/m.frenchsongsandlyrics.php" rel="nofollow" title="Spanish songs" target="_blank"><font color=red>Popular French songs</font></a>
+</div>
+</section>
+
+            <div class="clearfix visible-xs-block"></div>
+<div class="clearfix visible-sm-block"></div>
+
+
+ <section style="font-size:1.4em;">
+           <div class="col-sm-6 col-md-4 col-lg-3 sameheight" style="background-color:yellow;border:1px solid black"><h3><span class="label label-default" style="background-color:midnightblue">Internet</span></h3>
+<A href="http://pgoh13.com/internet_tips1.php" rel="nofollow" title="Getting the most out of Internet" target="_blank"><font color=black>Computer tips</font></a>
+<br /><A href="http://pgoh13.com/software_progs1.php" rel="nofollow" title="Free and useful software to install" target="_blank"><font color=black>Useful software</font></a>
+<br /><A href="http://pgoh13.com/using_teamviewer.php" rel="nofollow" title="Using TeamViewer" target="_blank"><font color=black>Using TeamViewer</font></a>
+<br /><A href="http://pgoh13.com/using_partitionwizard.php" rel="nofollow" title="Using Partition Wizard" target="_blank"><font color=black>Partition Wizard</font></a>
+<br /><A href="http://pgoh13.com/using_manageflitter.php" rel="nofollow" title="Using ManageFlitter for Twitter" target="_blank"><font color=black>Using ManageFlitter</font></a>
+<br /><A href="http://pgoh13.com/rssreader_installation.php" rel="nofollow" title="Using RssReader" target="_blank"><font color=black>Using RssReader</font></a>
+<br /><A href="http://pgoh13.com/using_printedit.php" rel="nofollow" title="Using Print Edit" target="_blank"><font color=black>Using Print Edit</font></a>
+<br /><A href="http://pgoh13.com/cobian_backup.php" rel="nofollow" title="Using Cobian Backup" target="_blank"><font color=black>Cobian Backup</font></a>
+<br /><A href="http://pgoh13.com/using_pixlr_masked.php" rel="nofollow" title="Using PIXLR" target="_blank"><font color=black>Using PIXLR</font></a>
+<br /><A href="http://pgoh13.com/special_characters.php" rel="nofollow" title="How to type special characters" target="_blank"><font color=black>Special characters</font></a></div>
+</section>
+
+<div class="clearfix visible-md-block"></div>
+
+<section style="font-size:1.4em;">
+            <div class="col-sm-6 col-md-4 col-lg-3 sameheight" style="background-color:beige;border:1px solid black"><h3><span class="label label-default" style="background-color:midnightblue">Information</span></h3>
+<a href="http://pgoh13.com/rss_worldnews.php" rel="nofollow" target="_blank"><font color=red>World news headlines</font></a>
+<br><a href="http://pgoh13.com/calendar2017.html" rel="nofollow" title="2017 Calendar/Events" target="_blank"><font color=black>2017 Calendar</font></a>
+<br /><a href="http://pgoh13.com/timeat_aglance.php" rel="nofollow" target="_blank"><font color=black>Get the exact time</font></a>
+<br /><a href="http://pgoh13.com/converter_xe.php" rel="nofollow" target=_blank><font color=black>Your money converter</font></a>
+<br /><a href="http://pgoh13.com/location_address.php" rel="nofollow" target=_blank><font color=black>Find address on map</font></a>
+<br><a href="http://onlineconversion.com/" rel="nofollow" target="_blank"><font color=black>Conversions (length)</font></a>
+<br><a href="https://www.timeanddate.com/worldclock/dialing.html" rel="nofollow" target="_blank"><font color=black>Int'l dialling codes</font></a>		
+	<br><a href="http://embassyinformation.com/" rel="nofollow" target="_blank"><font color=black>World Embassies</font></a>
+	<br><a href="http://www.journeymart.com/tools/world-holidays/default.aspx" rel="nofollow" target="_blank"><font color=black>World public holidays</font></a>
+<br><a href="http://countrymeters.info/en/" target=_blank><font color=black>World population</font></a></div>
+</section>
+
+            <div class="clearfix visible-sm-block"></div>
+<div class="clearfix visible-lg-block"></div>
+
+<section style="font-size:1.4em;">
+            <div class="col-sm-6 col-md-4 col-lg-3 sameheight" style="background-color:orange;border:1px solid black"><h3><span class="label label-default" style="background-color:midnightblue">Europe</span></h3>
+<A href="http://pgoh13.com/m.visiting_europe.php" rel="nofollow" title="Visiting Europe's top cities" target=_blank><font color=black>Visiting Europe</font></a>
+<br><a href="http://pgoh13.com/m.amsterdam.php" rel="nofollow" target="_blank"><font color=black>Visiting Amsterdam</font></a>
+<br><a href="http://pgoh13.com/m.berlin.php" rel="nofollow" alt="Visiting Berlin" title="Visiting Berlin"><font color=black>Visiting Berlin</font></a>
+<br><a href="http://pgoh13.com/m.krakow.php" rel="nofollow" target="_blank"><font color=black>Visiting Krakow</font></a>
+<br><a href="http://pgoh13.com/lisbon.php" rel="nofollow" target="_blank"><font color=black>Visiting Lisbon</font></a>
+<br><a href="http://pgoh13.com/ostend.html" rel="nofollow" target="_blank"><font color=black>Visiting Ostend</font></a>
+<br><a href="http://pgoh13.com/venice.php" rel="nofollow" target="_blank"><font color=black>Visiting Venice</font></a>
+<br><a href="http://pgoh13.com/paris_page1.php" rel="nofollow" target="_blank"><font color=black>Visiting Paris</font></a></div>
+</section>
+
+
+<section style="font-size:1.4em;">
+            <div class="col-sm-6 col-md-4 col-lg-3 sameheight" style="background-color:#66CC33;border:1px solid black"><h3><span class="label label-default" style="background-color:midnightblue">China</span></h3>
+<A href="http://pgoh13.com/china.php" rel="nofollow" title="Visiting China" target=_blank><font color=black>Visiting China</font></a>
+<br><a href="http://pgoh13.com/shanghai1.php" rel="nofollow" target="_blank"><font color=black>Visiting Shanghai</font></a>
+<br><a href="http://pgoh13.com/beijing_introduction.php" rel="nofollow" target="_blank"><font color=black>Visiting Beijing</font></a>
+<br><a href="http://pgoh13.com/zhouzhuang.php" rel="nofollow" target="_blank"><font color=black>Visiting Zhouzhuang</font></a>
+<br><a href="http://pgoh13.com/hangzhou.php" rel="nofollow" target="_blank"><font color=black>Visiting Hangzhou</font></a>
+<br><a href="http://pgoh13.com/xian.php" rel="nofollow" target="_blank"><font color=black>Visiting Xian</font></a></div>
+</section>
+
+
+
+
+<div class="clearfix visible-xs-block"></div>
+            <div class="clearfix visible-sm-block"></div>
+            <div class="clearfix visible-md-block"></div>
+
+<section style="font-size:1.4em;">
+            <div class="col-sm-6 col-md-4 col-lg-3 sameheight" style="background-color:lightgreen;border:1px solid black"><h3><span class="label label-default" style="background-color:midnightblue">Malaysia</span></h3>
+<A href="http://pgoh13.com/malaysia_new.php" rel="nofollow" title="Visiting Malaysia"  target=_blank><font color=black>Visiting Malaysia</font></a>
+<br><a href="http://pgoh13.com/visit_penang1.php" rel="nofollow" target="_blank"><font color=black>Visiting Penang</font></a>
+<br><a href="http://pgoh13.com/visit_kl.php" rel="nofollow" target="_blank"><font color=black>Visiting Kuala Lumpur</font></a>
+<br><a href="http://pgoh13.com/visit_melaka.php" rel="nofollow" target="_blank"><font color=black>Visiting Malacca</font></a>
+<br><a href="http://pgoh13.com/visit_perhentian.php" rel="nofollow" target="_blank"><font color=black>Visiting Perhentian Islands</font></a>
+<br><a href="http://pgoh13.com/visit_cameron.php" rel="nofollow" target="_blank"><font color=black>Visiting Cameron Highlands</font></a>
+<br><a href="http://pgoh13.com/visit_kb.php" rel="nofollow" target="_blank"><font color=black>Visiting Kota Bharu</font></a>
+</div>
+</section>
+
+<section style="font-size:1.4em;">
+            <div class="col-sm-6 col-md-4 col-lg-3 sameheight" style="background-color:yellow;border:1px solid black"><h3><span class="label label-default" style="background-color:midnightblue">Leisure</span></h3>
+<A href="http://pgoh13.com/quotations.php" rel="nofollow" title="Inspiring quotations and ideas" target="_blank"><font color=black>Inspiring quotes/ideas</font></a>
+<br /><a href="http://pgoh13.com/brainteasers.php" rel="nofollow" title="Brainteasers 1" target="_blank"><font color=black>Brainteasers</font></a>
+<br /><A href="http://pgoh13.com/justforlaughs.php" rel="nofollow" title="No kidding: this is the world's funniest joke" target="_blank"><font color=black>Just for laughs</font></a>
+<br /><a href="http://pgoh13.com/pensioners_page.php" rel="nofollow" target="_blank"><font color=black>For senior citizens</font></a>
+<br><a href="http://pgoh13.com/health_page.php" rel="nofollow" title="Health topics" target="_blank"><font color=black>Health topics</font></a>
+<br /><a href="http://pgoh13.com/recipes_page.php" rel="nofollow" title="Food recipes" target="_blank"><font color=black>Food recipes</font></a>
+<br><strong>______</strong>
+<br><a href="http://pgoh13.com/m.terms_conditions.php" rel="nofollow" target=_blank><font color=black>Privacy policy</font></a>
+<br><a href="http://www.emailmeform.com/builder/form/Vr4xzDPmb4W" rel="nofollow" target=_blank><font color=red>Contact</font></a>
+</div>
+</section>
+
+</div></div>
+<br>
+
+
+<p class="visible-sm-block visible-md-block visible-lg-block" style="max-width:980px;font-size:1.2em;">If you find this site interesting or useful, do share it with your friends!<br>
+<!-- Created using the Imagination Image Map Editor (http://www.mmaus.com/imagination.html)-->
+<map name="sharesitemap">
+<area shape="rect" coords="4,0,24,22" title="StumbleUpon" href="http://www.stumbleupon.com/refer.php?url=http://pgoh13.com/" rel="nofollow" alt="StumbleUpon" target="_blank">
+<area shape="rect" coords="25,2,48,22" title="Del.icio.us" href="http://del.icio.us/post?url=http://pgoh13.com/" rel="nofollow" alt="Del.icio.us" target="_blank">
+<area shape="rect" coords="52,1,69,19" title="Tweet it!" href="http://twitter.com/share" rel="nofollow" alt="Tweet it!" target="_blank">
+<area shape="rect" coords="73,2,94,20" title="Digg" href="http://digg.com/submit?url=http://pgoh13.com/" rel="nofollow" alt="Digg" target="_blank">
+<area shape="rect" coords="95,1,116,21" title="Reddit" href="http://www.reddit.com/submit?url=http://pgoh13.com/" rel="nofollow" alt="Reddit" target="_blank">
+<area shape="rect" coords="117,2,138,32" title="Facebook" href="http://www.facebook.com/share.php?u=http://pgoh13.com/" rel="nofollow" alt="Facebook" target="_blank">
+<area shape="rect" coords="141,0,181,19" title="Pin it!" href="http://pinterest.com/pin/create/button/?url=http://pgoh13.com/" rel="nofollow" alt="Pin it!" target="_blank">
+<area shape="rect" coords="183,0,212,22" title="Send link by email" href="mailto:?subject=The World At Your Fingertips website"&body="This is the URL of the above website:  http://pgoh13.com" rel="nofollow" alt="Send link by email" target="_blank">
+<area shape="rect" coords="214,1,235,22" title="Share on Google+" href="http://plus.google.com/share?url=http://pgoh13.com" rel="nofollow" alt="Share on Google+" target="_blank">
+<area shape="rect" coords="235,1,260,23" title="Linkedin" href="http://www.linkedin.com/shareArticle?mini=true&url=http://pgoh13.com&title=The World At Your Fingertips &summary=The World At Your Fingertips is your one-stop internet site from pgoh13. & source= The World At Your Fingertips" rel="nofollow" alt="LinkedIn" target="_blank">
+<area shape="rect" coords="263,2,283,21" title="Myspace" href="http://www.myspace.com/index.cfm?fuseaction=postto&t=The World At Your Fingertips&c=The World At Your Fingertips is your one-stop internet site from pgoh13.&u=http://pgoh13.com" rel="nofollow" alt="Myspace" target="_blank">
+</map>
+<!-- The line below displays the actual image map and can be modified. IMPORTANT: The file location below must be modified to reflect the correct location of the image it has been once uploaded to the Internet. -->
+<img style="max-width:80px;max-height:21px;" src=share_logo.jpg><img style="max-width:284px;max-height:21px;" src="share_site.gif" usemap="#sharesitemap" border="0">
+</p>
+
+<p style="width:100%;max-width:800px;">
+ <h3><span class="label label-default" style="background-color:midnightblue">About this website</span></h3>
+<p style="width:100%;max-width:800px;font-size:1.2em"><em>The World At Your Fingertips</em> is a site that strives to make your surfing life easier.  It does this by attempting to harness all internet resources together in one place for easy access. 
+<a href="#" id="example-show" class="showLink" onclick="showHide('example');return false;">Click to see more below.</a>
+</p>
+<div id="example" class="more">
+	<p style="width:100%;max-width:800px;font-size:1.2em">You will also find the Google Search box at the top of every page waiting for your search query.  This is <strong>not</strong> a customized search that earns revenue and is limited in its scope but gives exactly the same results as the official Google site (Web, Images, Map, News, etc.)   Besides, if you are not from an English-speaking country, you will get the search results in English here, not results from the local version of Google in another language which you are likely to get even if you should go to the google.com website.  This is because Google detects which country you are from and delivers the results in your country's national language (if it is not English).</em>
+<br>The following are the highlights of the site:
+<br>&nbsp;&nbsp;&nbsp;&nbsp;1.  <a href=http://pgoh13.com/rss_worldnews.php target=_blank>The "World news headlines"</a> links to the top 5 newsfeeds from the BBC, CNN, New York Times International Edition, Independent (U.K.), The Age (Australia) and Toronto Star (Canada).  At any time of the day or night you will never miss out if something big happens.
+<br>You will be able to find lots of computer tips and a list of indispensable software programs to help you get the best out of your computer.  There are also step-by-step instructions on how to use some popular software such as TeamViewer, Partition Wizard, PrintEdit, ManageFlitter, Cobian Backup, RssReader, PIXLR, Spybot, Paragon Backup & Recovery or Hola! to access blocked websites.
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;2.  Practical information of any kind that is often needed by anyone in whichever part of the world he might be can be found here.   Do you need to know the time at this hour in some foreign country?  Or its weather conditions?   Do you need to know the equivalent of some foreign currency in your own money?   Do you need to know the exact location of the hotel that you are about to book?  Or the equivalent of centimeters in inches?  Or maybe you need to translate instructions into a foreign language or understand what some foreign instructions mean?  These, and more, can be accessed from this website.
+<br />&nbsp;&nbsp;&nbsp;&nbsp;3.   There is also <a href=http://pgoh13.com/top12.php target=_blank>"This week's Top 12"</a> from U.S. Billboard's "The Hot 100".  And you are likely to find your favourite songs together with their lyrics in <a href=http://pgoh13.com/mobile/ target=_blank>Songs of Today, Songs of Yesterday</a>, which is created with smartphone users in mind.  There are over 1,100 old and recent English songs in this collection.
+
+<br />&nbsp;&nbsp;&nbsp;&nbsp;4.   Besides news, general information, computer and songs, travel has an important part in this site.  For active tourists, or simply armchair/virtual travellers, there are lots of tips and photos of top tourist destinations in Europe <em>(Bruges, Berlin, Milan, Lisbon, Dublin, Sicily, Athens, Amsterdam, Barcelona, Venice, Paris, Madrid, Rome, London, Prague, the French Riviera, Geneva, Copenhagen, Oslo, Andalucia, Budapest, Riga, Krakow etc.)</em>,  China <em>(Beijing, Shanghai, Xi'an, Hangzhou)</em>, Malaysia <em>(Penang, etc.)</em> and even Morocco <em>(Marrakesh, Casablanca, etc.)</em>.  In each city you will be shown in words and pictures the "must-see" places as well as the things you must absolutely experience even if you don't have much time to spend there.  <a href="http://pgoh13.com/tourist_destinations.php" rel="nofollow" title="Top tourist destinations" class="otherlinks">More....</a>
+
+
+
+<br />&nbsp;&nbsp;&nbsp;&nbsp;5.  There is also a full course covering all aspects of learning Pinyin (the romanized version of Mandarin).  This unorthodox course is really like no other in that a few grammatical rules which have always been a bugbear to foreign learners of Mandarin have been "bent" in order to make the study of the Chinese language easier - without sacrificing much in terms of making yourself understood.  It starts from the known to the unknown by giving equivalent English sounds for pinyin spellings such as xi,  zh ou q.  It is indeed possible to speak Chinese Mandarin without knowing a single Chinese character (I know, more than one prospective student have been put off simply at the sight of these intimidating Chinese characters!)  <a href="http://pinyin.pgoh13.com/chinese_introduction.php" rel="nofollow" title="Learning Pinyin" class="otherlinks">More....</a>
+
+
+
+<br />&nbsp;&nbsp;&nbsp;&nbsp;6.  Another of the highlights of this site is an English-Malay Dictionary.  You will find it <a href="http://dictionary.pgoh13.com/" rel="nofollow" target=_blank class="otherlinks">here.</a>
+
+
+  This dictionary is compiled with loving care by a human.  There is also a link to the automatic Google machine translator to allow instantaneous translation of this or any other website into some 50 languages.  Just copy the url of the page and paste it on the new page that opens.  But beware, machine translations are often a source of great hilarity!
+
+<br />&nbsp;&nbsp;&nbsp;&nbsp;7.  I have left the main highlight of this site to the end.  The completely-free Basic Malay Language Course comprising 64 lessons is undoubtedly the number one site for learning Bahasa Malaysia online.  One student has said it is like having a teacher next to you.  What's more, there are audio files to help the individual learner at home.  Although the Malay language is used mainly in Malaysia, Singapore and Brunei, it is very similar to the Indonesian language so by studying Malay it is like studying Indonesian at the same time!  For this reason I have pointed out the differences between the two languages, where such exist, to enable someone who is more interested in the Indonesian language to also benefit from it. <a href="http://pgoh13.com/mycourse/index.php" rel="nofollow" title="Malaysian and Indonesian languages" class="otherlinks">More....</a>
+
+
+
+<br>Oh, by the way, in case you have not heard of cookies before (and I'm not talking about the biscuits!) go <a href=http://pgoh13.com/terms_conditions.php target=_blank>here</a> to find out what you're in for when you visit this site (as well as practically all the other websites).  It is understood that you agree to accept cookies when you visit this website.  If you do not agree to accept them, you are kindly requested not to make use of this website (I'm just following the requirements of the EU legislation, not that I don't want you here!)
+<br>Thanks for reading.  - Webmaster
+<br><a href="#" id="example-hide" class="hideLink" 
+	onclick="showHide('example');return false;">Hide this content.</a></p>
+<br><br>
+</div></div>
+
+
+<!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+<!-- jQuery (necessary for Bootstrap's Javascript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!-- Include all compiled plugins (below) or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>

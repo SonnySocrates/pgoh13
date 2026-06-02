@@ -1,0 +1,49 @@
+ul#accordion-slider{
+ margin: 0;
+ padding: 0;
+ list-style: none;
+ position: relative;
+}
+ul#accordion-slider li{
+ display: block;
+ overflow: hidden;
+ padding: 0;
+ float: left;
+ width: 230px;
+ height: 300px;
+}
+
+.kwicks {  
+    list-style: none;  
+    position: relative;  
+    margin: 0;  
+    padding: 0;  
+}  
+.kwicks li{  
+    display: block;  
+    overflow: hidden;  
+    padding: 0;  
+    cursor: pointer;  
+}  
+     
+
+    .kwicks li {  
+        width: 125px;  
+        height: 100px;  
+        margin-bottom: 3px;  
+    }  
+    #kwick1 {   
+        background-color: #4D9AA8;  
+    }  
+    #kwick2 {  
+        background-color: #82A616;  
+    }  
+    #kwick3 {  
+        background-color: #F29A1F;  
+    }  
+    #kwick4 {   
+        background-color: #A66A16;  
+        margin-bottom: none;  
+    }  
+                  
+

@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+
+<head><title>Visiting Saint Paul de Vence, Gourdon, Saint-Tropez, Port Grimaud and Grasse in the French Riviera</title>
+<meta name="viewport" content="width = 980" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Visiting Saint Paul de Vence, Gourdon, Saint-Tropez, Port Grimaud and Grasse in the French Riviera.">
+<meta name="keywords" content="Saint Paul de Vence, St. Paul de Vence, Marc Chagall, Gourdon, Grasse, St-Tropez, Saint-Tropez, Port Grimaud">
+<link rel="stylesheet" href="travelbar_container.css">
+<style type="text/css">
+#whyclose {
+	padding-left:5px;
+	padding-right:5px;
+	font-family: verdana;
+	font-size: 12px;
+	font-weight: normal;
+	margin-left: 200px;
+	margin-right: 40px;
+	color: midnightblue;
+	border-style:solid;
+	border-width:2px;
+	border-color:red;
+	background-color: yellow;
+	        }
+
+#whyclose2 {
+	padding-left:5px;
+	padding-right:5px;
+	font-family: verdana;
+	font-size: 12px;
+	font-weight: bold;
+	margin-left: 200px;
+	margin-right: 50px;
+	color: white;
+	border-style:solid;
+	border-width:2px;
+	border-color:red;
+	background-color: black;
+	        }
+h1 {font-family:arial;font-size:42px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h2 {font-family:arial;font-size:36px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h3  {font-family:arial;font-size:24px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+a {text-decoration:none}
+body {background: #ccc;max-width: 980px;margin: auto;} //will center your table
+</style>
+</head>
+
+<body bgcolor=#cccccc onload='setFocusToTextBox()'>
+
+<table width="980"><tr>
+<td valign="top">
+<FONT face=tahoma color=black size=3>
+
+<div id="travelbar-container"><div id="travelbar">USEFUL LINKS:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <a href="http://www.cote.azur.fr/meteo.htm?l=en" target="_blank">Weather outlook</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.cannes.com/index.php?option=com_content&task=view&id=740&Itemid=2457333&lang=en_EN" target="_blank">Cannes tourism site</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.nicetourisme.com/GB/index.html" target="_blank">Nice tourism site</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.visitmonaco.com/us" target="_blank">Monaco tourism</a></div>
+</div>
+
+<h1><span style="background-color:midnightblue;">&nbsp;&nbsp;Visiting the French Riviera (Part IV)&nbsp;&nbsp;</span></h1>
+
+<p><table align=right width=500 height=375><tr><td valign=top><img src=vence_village500.jpg width=500></td></tr><tr><td><font size=2><b>The Saint Paul de Vence village stands high up on a hill.</b></font></td></tr></table><FONT face=tahoma color=black size=3>Apart from Cannes, Nice and Monaco there are many other places of interest in the French Riviera.
+If you still have time after visiting the three principal cities above you can head for a number of other lesser-known destinations such as Saint Paul de Vence or Gourdon, both of which are medieval villages, and Grasse, the perfume town.  Then there is the small but world-renowned port of Saint-Tropez.  Near to Saint-Tropez is Port Grimaud, a sort of water town with numerous bridges.
+<br />Here are some photos and descriptions of them.
+<br />
+<table><tr><td><h2><span style="background-color:midnightblue;">&nbsp;&nbsp;Saint Paul de Vence&nbsp;&nbsp;</span></h2></td></tr></table>
+
+Saint Paul de Vence is a quaint little medieval village in the French Riviera which is of particular interest to art lovers.  Built at the very top of a hill and surrounded by ramparts it is about 26 kms from Cannes.  It's home to quite a number of famous artists, painters and writers (the most famous among them being Marc Chagall, who was buried in St. Paul's cemetery) and its narrow alleys are lined with mostly small-scale art gallery shops.  It was also here in Saint Paul de Vence that Yves Montand and Simone Signoret met for the first time.  While here art buffs should make it a point to visit the recently renovated Maeght Foundation nearly a km away.
+<br /><br />
+
+<table width="980"><tr><td>
+
+<table><tr><th align=left>SAINT PAUL DE VENCE IN PICTURES</th></tr><tr>
+<td valign="top" width="320"><a href="vence_fountain.jpg" target="_blank"><img src="vence_fountain235.jpg" width="320" title="This fountain is a landmark in the village."  alt="This fountain is a landmark in the village."></a><br>This fountain is a landmark in the village.</a></td>
+<td valign="top" width="320"><a href="vence_alley.jpg" target="_blank"><img src="vence_alley235.jpg" width="320" title="One of its numerous narrow alleys that house small-scale art galleries."  alt="One of its numerous narrow alleys that house small-scale art galleries."></a><br>One of its numerous narrow but picturesque alleys.</a></td>
+<td valign="top" width="320"><a href="vence_ramparts.jpg" target="_blank"><img src="vence_ramparts235.jpg" width="320" title="The ramparts that surround the Saint Paul de Vence village."  alt="The ramparts that surround the Saint Paul de Vence village."></a><br>The ramparts that surround the Saint Paul de Vence village.  One of its most prominent inhabitants was Marc Chagall, considered to be "the last survivor of the first generation of European modernists."   He was buried in the Saint Paul de Vence cemetery here.</a></td>
+</tr></table>
+
+<table><tr><td><h2><span style="background-color:midnightblue;">&nbsp;&nbsp;Gourdon&nbsp;&nbsp;</span></h2></td></tr></table>
+   
+From Saint Paul de Vence you can continue on to Gourdon, another quaint and rocky hillside village, standing 760m high.  On the way you will pass by the <em>Pont-du-Loup</em> village.  Watch out for a couple of scenic cascades on the way.  Driving up there could be a vertiginous experience so be warned!  From here one can have a magnificent and unobstructed view of the French Riviera, all the way from Nice to Theoule.
+<table><tr>
+<td valign="top" width="320"><a href="gourdon_view.jpg" target="_blank"><img src="gourdon_view235.jpg" width="320" title="A breathtaking view of the surrounding vegetation and mountains."  alt="A breathtaking view of the surrounding vegetation and mountains."></a><br>A breathtaking view of the surrounding vegetation and mountains.</a></td>
+
+<td valign="top" width="320"><a href="gourdon_view2.jpg" target="_blank"><img src="gourdon_view2_235.jpg" width="320" title="Another panoramic view from Gourdon."  alt="Another panoramic view from Gourdon."></a><br>Another panoramic view from Gourdon.</a></td>
+
+<td valign="top" width="320"><a href="gourdon_art.jpg" target="_blank"><img src="gourdon_art235.jpg" width="320" title="A touch of modernity in the medieval village of Gourdon."  alt="A touch of modernity in the medieval village of Gourdon."></a><br>A touch of modernity at a street in the medieval village of Gourdon.</a></td>
+</tr></table>
+
+<a name="tropez"><table><tr><td><h2><span style="background-color:midnightblue;">&nbsp;&nbsp;Saint-Tropez&nbsp;&nbsp;</span></h2></td></tr></table></a>
+
+<table align=right width=350><tr><td valign=top><a href="tropez_main.jpg" target="_blank"><img src=tropez_main350.jpg width=350 title="Seafront view of Saint-Tropez."  alt="Seafront view of Saint-Tropez."></td></tr><tr><td><font size=2><b>Seafront view of Saint-Tropez.</b></font></a></td></tr></table>
+<br><br><FONT face=tahoma color=black size=3>Saint-Tropez (pronounced <em>tro-pay</em>) owes its world-wide reputation mainly to Brigitte Bardot, France's own Marilyn Monroe, who lived here much of her life.  Though it started out as a quiet fishing village, the port at Saint-Tropez now attracts many posh and luxurious yachts and with them, of course their opulent owners.  No wonder Saint-Tropez is reputed to be a place for jet-setters and millionaires!  On the menu of a terrace bar here I was not able to find "coffee" (or rather <em>caf&eacute;</em>) mentioned anywhere.  Instead there was <em>caf&eacute; gourmand</em> &nbsp;(which in simple terms means coffee with cake) costing 12 euros (15 USD).  To use the toilet in some of the posh places be prepared to leave a 10-euro banknote as tips.  But then this is Saint-Tropez and there is a price to pay for being able to rub shoulders with the likes of Beyonc&eacute;, Bruce Willis or Alicia Keys!  
+<br />However, despite being the playground of the wealthy (or rather because of it), Saint-Tropez keeps on attracting hordes of not-at-all-wealthy but curious visitors, especially in summer.</font>
+
+<br />
+<table><tr>
+<td valign="top" width="320"><a href="tropez_signboard.jpg" target="_blank"><img src="tropez_signboard235.jpg" width="320" title="Signboard in the port of Saint-Tropez."  alt="Signboard in the port of Saint-Tropez."></a><br>Signboard in the port of Saint-Tropez.</a></td>
+
+<td valign="top" width="320"><a href="tropez_port.jpg" target="_blank"><img src="tropez_port235.jpg" width="320" title="The busy port of Saint-Tropez."  alt="The busy port of Saint-Tropez."></a><br>The busy port of Saint-Tropez with its numerous luxurious yachts.</a></td>
+
+<td valign="top" width="320"><a href="tropez_centre.jpg" target="_blank"><img src="tropez_centre235.jpg" width="320" title="The tourist centre of Saint-Tropez."  alt="The tourist centre of Saint-Tropez."></a><br>Next to the port are numerous restaurants and souvenir shops.</a></td>
+</tr></table>
+
+<table><tr><td><h2><span style="background-color:midnightblue;">&nbsp;&nbsp;Port Grimaud, the water town&nbsp;&nbsp;</span></h2></td></tr></table>
+
+<FONT face=tahoma color=black size=3>Near to Saint-Tropez is Port Grimaud, a sort of water town with numerous bridges, a little Venice of sorts.  A barge ride along its waters offers the visitor an interesting experience.</font></font></font>
+<br><br>
+<table><tr>
+<td valign="top" width="320"><a href="grimaud_view.jpg" target="_blank"><img src="grimaud_view235.jpg" width="320" title="View of Port Grimaud."  alt="View of Port Grimaud."></a><br>View of Port Grimaud.</a></td>
+
+<td valign="top" width="320"><a href="grimaud_barge.jpg" target="_blank"><img src="grimaud_barge235.jpg" width="320" title="Barge ride in Port Grimaud."  alt="Barge ride in Port Grimaud."></a><br>Barge ride in Port Grimaud starts here.</a></td>
+
+<td valign="top" width="320"><a href="grimaud_venice.jpg" target="_blank"><img src="grimaud_venice235.jpg" width="320" title="Port Grimaud - France's own water town."  alt="Port Grimaud - France's own water town."></a><br>Port Grimaud - France's own water town.</a></td>
+</tr></table>
+
+
+<table><tr><td><h2><span style="background-color:midnightblue;">&nbsp;&nbsp;Grasse, the perfume town&nbsp;&nbsp;</span></h2></td></tr></table>
+
+<FONT face=tahoma color=black size=3>It is said that two-thirds of the entire French perfume production comes from its factories in the little town (some would consider it a village) of Grasse, making Grasse the world's capital of perfume.  In fact two of them, <a href="http://www.fragonard.com/parfums_grasse/GB/fragonard/grasse/" target=_blank>Fragonard</a> and <a href="http://www.galimard.com/index.php/en/visit-to-grasse/individuals-a-group-details.html" target=_blank>Galimard</a> have been in existence since the 18th century.  A third, <a href="http://www.molinard.com/en/" target=_blank>Molinard</a> was founded in 1849.  All of them offer guided tours to explain the whole process of perfume-making.  To go there the car will have to climb up a series of peaks leaving behind you deep ravines so those who suffer from vertigo would be advised not to drive!  </font></font></font> 
+<br><br>
+<table><tr>
+<td valign="top" width="320"><a href="perfume_bottles.jpg" target="_blank"><img src="perfume_bottles235.jpg" width="320" title="Perfume bottles on display."  alt="Perfume bottles on display."></a><br>Perfume bottles on display in showcases.</a></td>
+
+<td valign="top" width="320"><a href="perfume_laboratory.jpg" target="_blank"><img src="perfume_laboratory235.jpg" width="320" title="A perfume laboratory."  alt="A perfume laboratory."></a><br>Part of the perfume laboratory.</a></td>
+
+<td valign="top" width="320"><a href="perfume_map.jpg" target="_blank"><img src="perfume_map235.jpg" width="320" title="Map shows where the essences that go into the making of a perfume come from."  alt="Map shows where the essences that go into the making of a perfume come from."></a><br>Map shows where the essences that go into the making of a perfume come from.</a></td>
+</tr></table>
+
+</td></tr></table>
+
+
+<center><? include "all_cities.inc"; ?></center>
+
+</body></html>

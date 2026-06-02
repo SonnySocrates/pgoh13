@@ -1,0 +1,126 @@
+@charset "UTF-8";
+
+/*
+*    Mass Reset
+*/
+*{ margin: 0; padding: 0; border: 0; }
+
+/*
+*    Normal layout
+*/
+body {background-color: #cccccc;}
+
+#wrapper{background-color:"#cccccc";
+    width:100%;margin:0 auto; font-family:arial;}
+* a {text-decoration:none;}
+.hidden_indesktop {display:none;}
+ #content{ margin-left: 0; padding: 2px; position: relative; z-index: 100; }
+
+/*
+*    When screen is smaller than 500px
+*/
+@media only screen and (max-width:500px){ p {font-size:1rem;}
+	
+#wrapper #content{ margin-left: 0; }
+.hidden_inmobile {display:none;}
+/*
+*    to have a single column row each with "section" tag if small screen
+*/
+section {
+display: block;
+  float: left;
+  margin: 2%;
+  width: 90%;
+padding-left:5px;
+font-size:1.2rem;
+}
+}
+
+
+
+/*
+*    When screen is bigger than 960px 
+*/
+@media only screen and (min-width:961px){
+	#wrapper #content{ width:800px;margin-left:auto;
+	margin-right:auto;}
+/*
+*    to have a 4 column row each with section tag if big screen
+*/
+.hidden_indesktop {display:none;}
+section {
+display: block;
+  float: left;
+  margin: 1%;
+padding:1%;
+  width: 20%;
+font-size:1rem;
+}
+.hidden_indesktop {display:none;}
+p {font-family:arial, sans-serif;font-size: 1rem;padding:2px;max-width:800px; }
+img {max-width:800px;margin-left:auto;margin-right:auto;}
+}
+
+video {
+  width: 600px;
+  height: 450px;
+}
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: relative;
+	top: 0;
+	left: 0;
+	width: 600px;
+	height: 450px;
+padding-bottom: 25px;
+}
+}
+
+/*
+*    to have a 4 column row each with section tag if big screen
+*/
+section {vertical-align:top;
+display: block;
+  float: left;
+   margin: 1%;
+padding:1%;
+padding-bottom:2%;
+  width: 25%;}
+a {font-size:1rem;}
+h3 {color:black}
+}
+
+.right {display:block;float:right; margin-right:10px;}
+.left {display:block;float:left; margin-left:10px;}
+
+h1 {background-color:midnightblue;color:yellow;font-family:arial;font-size:36px;display:inline-block;padding:0 10px;margin-left: auto;
+	margin-right: auto;}
+
+h2 {background-color:midnightblue;color:yellow;font-family:arial;font-size:36px;display:inline-block;padding:0 10px;margin-left: auto;
+	margin-right: auto;}
+
+img {border:1px solid black;width:100%;}
+
+
+video {
+  width: 100%;
+  height: auto;
+}
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}

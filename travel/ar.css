@@ -1,0 +1,87 @@
+@charset "UTF-8";
+
+/*
+*    Mass Reset
+*/
+*{ margin: 0; padding: 0; border: 0; }
+
+/*
+*    Normal layout
+*/
+body{ background-color: #cccccc; font: normal 1rem Arial, sans-Serif;padding-left:5px; }
+ul {list-style-type: none;}
+#wrapper{background-color:"#cccccc";max-width:1000px;margin:0 auto; font-family:arial;}
+* a {text-decoration:none;}
+<?/* section {box-sizing:border-box;display: block;vertical-align:top;float:left;width:100%;padding-left:5px;padding-right:10px;border:1px solid black;background-color:#66CC33;} */?>
+section {display: inline-block;vertical-align:top;float:left;margin-bottom:20px;margin-left:20px;border:1px solid black;}
+ #content{ margin-left: 0; padding: 2px; position: relative; z-index: 100;max-width:1000px; }
+#wrapper #content{ margin-left: 0;}
+p {font-family:arial, sans-serif;font-size: 1rem;padding:3px;max-width:800px;}
+img {width=100%;margin-left:auto;margin-right:auto;}
+}
+.right {display:block;float:right; margin-right:0;}
+.left {display:block;float:left; margin-left:10px;}
+h1 {background-color:midnightblue;color:yellow;font-family:arial;font-size:2rem;display:inline-block;padding:0 10px;margin-left: auto;
+	margin-right: auto;}
+h2 {background-color:midnightblue;color:yellow;font-family:arial;font-size:36px;display:inline-block;padding:0 10px;margin-left: auto;
+	margin-right: auto;}
+h3 {text-align:center}
+
+table {max-width:1000px;border: 1px solid black;margin:0 auto;}
+table, tr, td {padding-left:5px;background-color:green;}
+video {width:100%;height: auto;}
+.videoWrapper {position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {position: absolute;top: 0;left: 0;width: 100%;height: 100%;}
+}
+
+<?/* or
+video {width: 800px;height: 600px;}
+.videoWrapper {position: relative;	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;height: 0;}
+.videoWrapper iframe {position: relative;top: 0;left: 0;width: 800px;height: 600px;}  */?>
+
+/*
+*    When screen is smaller than 480px, one column
+*/
+@media only screen and (max-width:480px)
+{
+.hidden_inmobile {display:none;}	
+section {width: 100%;}
+h1 {font-size:1.5rem;}
+}
+
+
+/*
+*    When screen is between 481px and 600px, 2 columns
+*/
+@media only screen and (min-width:481px) and (max-width:600px)
+{
+.hidden_inmobile {display:none;}	
+section {width: 45%;}
+}
+
+
+
+/*
+*    When screen is between 601px and 1000px, 3 columns
+*/
+@media only screen and (min-width:601px) and (max-width:1000px)
+{
+.hidden_indesktop {display:none;}	
+section {width: 30%;}
+}
+
+
+/*
+*    When screen is bigger than 1000px, 4 columns 
+*/
+@media only screen and (min-width:1001px)
+{
+.hidden_indesktop {display:none;}
+section {width: 23%;}
+}
+

@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+
+
+<html>
+<head>
+
+
+
+<title>Visiting Lisbon in Portugal</title>
+<meta name="viewport" content="width = 980" />
+<meta name=description content="Visiting Lisbon in Portugal">
+<meta name="keywords" content="Visiting Lisbon in Portugal, Lisbon tourism, tourism Lisbon">
+
+<style type="text/css">
+.td {font-style:italics;}
+</style>
+<!-- Start css3menu.com HEAD section -->
+<link rel="stylesheet" href="../travel/test_menu_files/css3menu1/style.css" type="text/css" />
+<!-- End css3menu.com HEAD section -->
+
+<style>
+h1 {font-family:arial;font-size:42px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h2 {font-family:arial;font-size:36px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h3  {font-family:arial;font-size:24px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+a {text-decoration:none}
+</style>
+</head>
+
+<body bgcolor=#cccccc onload='setFocusToTextBox()'>
+<center>
+
+<table width="980"><tr>
+<td valign=top>
+
+<strong><a href="http://www.bbc.com/weather/2267057" target=_blank>Weather in Lisbon</a> | <a href="https://www.google.co.uk/maps/@38.7103454,-9.1365129,17z" target=_blank>Map of Lisbon City</a></strong>
+<br><br>
+
+<center><h1>Visiting Lisbon in Portugal</h1></center>
+
+<FONT face=tahoma color=black size=3>Lisbon is safe, cheap and hilly!  It blends antiquity perfectly with modernity.  How else can you explain that its rickety-looking tramway line 28 is famous and popular with tourists all over the world?
+<br>
+<img src=../travel/lisbon/tram28.jpg width=980>
+In fact this outdated and almost prehistoric tramway (it was actually inaugurated in 1914!) has become somewhat of an institution in this highly touristic city and no tourist to Lisbon should leave the city without taking a ride in it.
+
+<br>
+
+<h3>BAIXA and CHIADO</h3>
+<br>Baixa and Chiado together form  the very heart of the city centre.  Within walking distance from each other, you can easily spend the entire day here visiting the Tourism Office, the Santa Justa ascensor, stop for a drink or lunch at the very-animated Rua Augusta pedestrian street nearby, at the end of which is the astounding Commerce Square (situated by the Tagus River), shop for souvenirs in Rossio Square and, to end the day, have dinner at Rua do Norte, an uphill street in the highly-animated Bairro Alto area famous for nightlife where you can easily find a restaurant that offers fado* music.
+<br>But you will need a very detailed map of this area if you don't want to get lost wandering all over the Rossio, Baixa and Chiado areas so I would suggest you try to get hold of a Cartoville guide to Lisbon.
+<br>Apart from the Bairro Alto area you can also find fado spectacles in Alfama, said to be the birthplace of fado.  Other than these two areas it would almost be impossible to find a fado show elsewhere.
+<br>
+*<em style="font-size:x-small;">Fado music is the very soul of Portugal.  Songs are often about unrequited love, souvenirs of the past and feelings of melancholy or nostalgia.</em>
+<br><br>
+<table width=980><tr>
+<td width=320 valign=top><a href=../travel/lisbon/placado_comercio.jpg target=_blank><img alt="Pla&ccedil;a do Comercio and the monument to Jos&eacute; I" title="Pla&ccedil;a do Comercio and the monument to Jos&eacute; I" src=../travel/lisbon/placado_comercio250.jpg width=320></a>
+<br><em>Pla&ccedil;a do Comercio with the monument to Jos&eacute; I on the right.</em></td>
+<td width=320 valign=top><a href=../travel/lisbon/rossio_square.jpg target=_blank><img alt="The Pedro IV Square, more popularly known as Rossio Square, in Lisbon" title="The Pedro IV Square, more popularly known as Rossio Square, in Lisbon" src=../travel/lisbon/rossio_square250.jpg width=320></a>
+<br><em>The fountain and statue of Dom Pedro IV at Rossio Square.</em></td>
+<td width=320 valign=top><a href=../travel/lisbon/lisbon_cityoftolerance.jpg target=_blank><img alt="Lisbon, City of Tolerance on wall near Rossio Square" title="Lisbon, City of Tolerance on wall near Rossio Square"  src=../travel/lisbon/lisbon_cityoftolerance250.jpg width=320></a>
+<br><em>"Lisbon, City of Tolerance" inscribed on wall.</em></td></tr></table>
+<br>
+About the most lively square in the Baixa area is the Rossio Square, also known as Pra&ccedil;a Dom Pedro IV.  It is a hive of activity both during the day and at night with bountiful restaurants and souvenir shops, especially at the Rua das Portas de Santo Antao, a pedestrian street.
+<br>When you are there you might want to ask for the ginja (short form for ginjinha), a sweet liqueur made from cherries and which is the favourite local drink.  A great place to have coffee, local pastries and freshly-cut exotic fruit here is the chic but not ostentatious <a href=http://tinyurl.com/q7buzs2 target=_blank>Caf&eacute; Gelo</a> near the Rossio train station in Rossio Square.
+<br>Hardly 5 minutes walk from Rossio Square is Rua Garrett, another popular shopping street leading from Baixa to Chiado, an equally crowded shopping area.
+<br><br>
+<table width=980><tr>
+<td width=320><a href=../travel/lisbon/cock_inpark.jpg target=_blank><img alt="Rooster sculpture by Rui Miragaia in Martim Moniz park" title="Rooster sculpture by Rui Miragaia in Martim Moniz park"  src=../travel/lisbon/cock_inpark250.jpg width=320></a>
+<br><em>Rooster sculpture by Rui Miragaia in Martim Moniz park near Rossio.  The <a href=../travel/lisbon/emblem_ofportugal.jpg target=_blank>rooster of Barcelos</a> is an emblem of Portugal.</em></td>
+<td width=320><a href=../travel/lisbon/santo_antaostreet.jpg target=_blank><img alt="Rua das Portas de Santo Antao in Lisbon" title="Rua das Portas de Santo Antao in Lisbon"  src=../travel/lisbon/santo_antaostreet250.jpg width=320></a>
+<br><em>Rua das Portas de Santo Antao early morning before it becomes swarmed with souvenir-hunting and famished tourists.</em></td>
+<td width=320><a href=../travel/lisbon/bacalhao_dish2.jpg target=_blank><img alt="Bacalhao dish in Lisbon" title="Bacalhao dish in Lisbon"  src=../travel/lisbon/bacalhao_dish2250.jpg width=320></a>
+<br><em>A dish with bacalhao, dried salted cod that is ever-present in Portuguese cuisine.  This one has potato chips as slender as noodles.</em></td></tr></table>
+
+<br>
+<table width=980><tr>
+<td width=320><a href=../travel/lisbon/houseshighuponhillside_citycentre.jpg target=_blank><img alt="Houses along hillsides are common in Lisbon" title="Houses along hillsides are common in Lisbon"  src=../travel/lisbon/houseshighuponhillside_citycentre250.jpg width=320></a>
+<br><em>Houses built on the slopes of hillsides are a common sight in Lisbon.  With 7 hills in the city there is not much choice for the city planners!</em></td>
+<td width=320><a href=../travel/lisbon/santajusta_ascensor.jpg target=_blank><img alt="Santa Justa lift in Lisbon" title="Santa Justa lift in Lisbon"  src=../travel/lisbon/santajusta_ascensor250.jpg width=320></a>
+<br><em>Many tourists take the Santa Justa lift (<em>Elevador de Santa Justa</em>) to the observation platform for a panoramic view of Lisbon city.</em></td>
+<td width=320><a href=../travel/lisbon/rua_augusta.jpg target=_blank><img alt="Rua Augusta pedestrian street in Baixa, Lisbon" title="Rua Augusta pedestrian street in Baixa, Lisbon"  src=../travel/lisbon/rua_augusta250.jpg width=320></a>
+<br><em>The very lively Rua Augusta pedestrian street in Baixa is next to the Santa Justa Elevator and leads to the Commerce Square.</em></td></tr></table>
+
+<br>
+<table width=980><tr>
+<td width=320><a href=../travel/lisbon/entrance_saojorgecastle.jpg target=_blank><img alt="Entrance to the Saint George's Castle" title="Entrance to the Saint George's Castle"  src=../travel/lisbon/entrance_saojorgecastle250.jpg width=320></a>
+<br><em>Entrance to the Saint George's Castle (Castelo Sao Jorge), from where you can have a panoramic view of the old city of Alfama and the Tagus River.</em></td>
+<td width=320><a href=../travel/lisbon/SE_cathedral.jpg target=_blank><img alt="Lisbon Cathedral is also known as the Se Cathedral" title="Lisbon Cathedral is also known as the Se Cathedral"  src=../travel/lisbon/SE_cathedral250.jpg width=320></a>
+<br><em>Those who suffer from weak legs might just prefer to enter the Lisbon Cathedral (S&eacute; Cathedral) and wait for their friends here on their way down.</em></td>
+<td width=320><a href=../travel/lisbon/rossio_railstation.jpg target=_blank><img alt="Rossio railway station near Rossio Square in Lisbon" title="Rossio railway station near Rossio Square in Lisbon"  src=../travel/lisbon/rossio_railstation250.jpg width=320></a>
+<br><em>The Rossio railway station near Rossio Square (as its name implies) has quite an imposing fa&ccedil;ade.  It's from here that you take the train for Sintra.</em></td>
+</tr></table>
+
+<br>
+
+<h3>BELEM</h3>
+
+<table width=980><tr><td width=320 valign=top>
+<a href=../travel/lisbon/monastery_8columns.jpg target=_blank><img alt="Inside the Jeronimos Monastery in Belem" title="Inside the Jeronimos Monastery in Belem"  src=../travel/lisbon/monastery_8columns250.jpg width=320></a></td><td width=500 valign=top>Belem is one of the principal attractions of Lisbon.  Its  Jeronimos Monastery (Mosteiro dos Jeronimos) is the main crowd-puller.  The Monastery roof is supported by eight huge columns, as can be seen from the picture on the left.  It was here that Vasco da Gama and his crew spent their last night in prayer before leaving for India.  His tomb is located near the entrance.
+<br>Another much-visited monument here is the Belem Tower (Torre de Belem).  Built in the 16th century it was originally used as a fortress to defend the port of Lisbon.
+<br>Though Belem is reputed for its historical monuments, it is equally famous for its <em>past&eacute;is de nata</em>, a custard tart that has spread as far as China (through its ancient colony of Macao) .  And the huge crowds that queue up in front of the Past&eacute;is de Bel&eacute;m shop attest to it.  Established in 1837, the shop now produces from 25,000 to 30,000 <em>past&eacute;is</em> a day!  You won't believe how big and crowded it is until you step inside!</td></tr></table>
+
+<table width=980><tr><td width=320>
+<a href=../travel/lisbon/entrance_monastery_jeronimos.jpg target=_blank><img alt="Entrance to the Jeronimos Monastery in Belem" title="Entrance to the Jeronimos Monastery in Belem"  src=../travel/lisbon/entrance_monastery_jeronimos250.jpg width=320></a>
+<br><em>Entrance to the Jeronimos Monastery in Belem.</em></td>
+<td width=320><a href=../travel/lisbon/towerbelem_profile.jpg target=_blank><img alt="The Belem Tower in Lisbon is surrounded by water" title="The Belem Tower in Lisbon is surrounded by water"  src=../travel/lisbon/towerbelem_profile250.jpg width=320></a>
+<br><em>The Belem Tower is surrounded by water.</em></td>
+<td width=320><a href=../travel/lisbon/pasteis_belem.jpg target=_blank><img alt="Queuing up at Pasteis de Belem for pasteis" title="Queuing up at Pasteis de Belem for pasteis"  src=../travel/lisbon/pasteis_belem250.jpg width=320></a>
+<br><em>Queuing up for <em>past&eacute;is</em>, a custard tart, at Past&eacute;is de Bel&eacute;m.</em></td></tr></table>
+
+<h3>CASCAIS</h3>
+
+<table width=980><tr><td width=560 valign=top>You can take a train for the seaside resort of Cascais from the Cais do Sodr&eacute; railway station in Lisbon.  The trip takes less than half an hour (it's the terminus) and there is a train every 20 minutes.  The fare is 2.20 euros, with a 50% discount for the elderly.  The best beach here is undoubtedly the vast Praia da Conceicao beach, which is to the left as you head for the sea upon coming out of the Cascais train station.  There are lifeguards, water points, beach chairs and bars nearby.  The beach at Estoril, though just a stone's throw from the Estoril station two stops away, is more popular with surfers for its huge waves.
+<br>It is possible for one to see both beaches by getting down at the Cascais railway station, walking down along a promenade to Estoril and taking the train back to Lisbon from there.  There is a 3km promenade joining these two towns.  In fact there is nothing more enjoyable than going for a walk along this promenade after a swim at Praia da Conceicao.  The promenade is wide and you can take in beautiful sights and fresh sea air at the same time.  Besides it is lined with seafood restaurants so you can also have your dinner by the seafront if you want to.<td width=20></td>
+<td width=400 valign=top><a href=../travel/lisbon/praiaconceicao_beach.jpg target=_blank><img alt="Signboard of the Praia da Conceicao (Conceicao Beach) at Cascais" title="Signboard of the Praia da Conceicao (Conceicao Beach) at Cascais"  src=../travel/lisbon/praiaconceicao_beach250.jpg width=270></a><br><em style="font-size:smaller;">Signboard at the Conceicao Beach</em></td></tr></table>
+
+<br>
+<table width=980><tr><td width=320>
+<a href=../travel/lisbon/cascais_square.jpg target=_blank><img alt="Wavy lines in Cascais pavement" title="Wavy lines in Cascais pavement"  src=../travel/lisbon/cascais_square250.jpg width=320></a>
+<br><em>Cascais pavement.  The wavy lines are typical of many pedestrian areas in Portugal.</em></td>
+<td width=320><a href=../travel/lisbon/praiaconceicao_beach2.jpg target=_blank><img alt="Praia da Concei&ccedil;ao beach is best for swimming in Cascais" title="Praia da Concei�ao beach is best for swimming in Cascais"  src=../travel/lisbon/praiaconceicao_beach2250.jpg width=320></a>
+<br><em>There are several beaches in Cascais.  The best for swimming is the one at Praia da Concei&ccedil;ao.</em></td>
+<td width=320><a href=../travel/lisbon/promenade_toestoril.jpg target=_blank><img alt="Nice promenade between Cascais and Estoril" title="Nice promenade between Cascais and Estoril"  src=../travel/lisbon/promenade_toestoril250.jpg width=320></a>
+<br><em>There is a nice 3km-long promenade from here in Cascais to Estoril, another sea resort.</em></td></tr></table>
+
+<h3>SINTRA</h3>
+<br><a href=http://www.sintraromantica.net/en target=_blank>Sintra</a> is about 30kms away from Lisbon City and is connected by train from the Rossio railway station (there is an underground station next to it carrying the same name).  The trip takes 35-40 minutes and there is a train every 15 minutes.  If you go by coach you are likely to be driven by an experienced driver as there are many tortuous turns and steep slopes and at times you will hear some little noises as the leafy tree tops that sprout out on the roadside brush against the roof of the coach.
+<br>Among the places to visit in Sintra are the Sintra National Palace which is right in the heart of the town, the Palace of Monserrate in the Monserrate park and the Pena Palace at 500m altitude.
+
+<br><br>
+<table width=980><tr><td width=320>
+<a href=../travel/lisbon/sintra_nationalpalace_facade.jpg target=_blank><img alt="Sintra National Palace" title="Sintra National Palace"  src=../travel/lisbon/sintra_nationalpalace_facade250.jpg width=320></a>
+<br><em>The Sintra National Palace is of historical importance in Sintra.</em></td>
+<td width=320><a href=../travel/lisbon/monserrate_palace.jpg target=_blank><img alt="Palace of Monserrate" title="Palace of Monserrate"  src=../travel/lisbon/monserrate_palace250.jpg width=320></a>
+<br><em>A walk up the Monserrate Park leads to the Palace of Monserrate.</em></td>
+<td width=320><a href=../travel/lisbon/ginja_pasteis.jpg target=_blank><img alt="Ginja and pasteis in Sintra bar" title="Ginja and pasteis in Sintra bar"  src=../travel/lisbon/ginja_pasteis250.jpg width=320></a>
+<br><em>Whether in Belem or Sintra you can always find Ginja and past&eacute;is!</em></td></tr></table>
+
+<h3>Other Interesting Sites</h3>
+
+<br>1. PARK OF NATIONS (Parque das Nacoes)
+<br>This was where Expo 1998 was held.  To go there take the metro or train to the Oriente station.  It is possible to use the teleferico to fly over the park.  The Vasco da Gama Bridge spanning the Tagus River here is the longest in Europe and was open just in time for Expo 98.  There is also a shopping mall called the Vasco da Gama Shopping Center here.
+
+<br><br><a href=http://oceanario.pt/ target=_blank>2. LISBON OCEANARIUM (Oceon&aacute;rio de Lisboa)</a>
+<br>It is also in the Nations' Park that you can visit the Ocean&aacute;rio de Lisboa, a world-class aquarium that is visited by tourists and locals alike. It is also the second largest aquarium in the world (after the one in Osaka, Japan) which makes it the biggest in europe.  It could be cold inside so bring a jacket with you.
+
+<br><br>3. GULBENKIAN FOUNDATION MUSEUM (Fundacao Museu C. Gulbenkian)
+<br>Inaugurated in 1969, the museum highlights not only Oriental and Classical but also European Art.  There are works by  Rembrandt, Rubens and Monet here as well.
+
+<br><br><a href="http://www.golisbon.com/sight-seeing/feira-da-ladra.html" target=_blank>4. FEIRA DA LADRA  (Lisbon's flea market)</a>
+<br>The market, in the old neighborhood of Alfama, is held every Tuesday and Saturday from early morning to 5pm.   Tram No. 28 does make a stop here.
+
+
+
+
+<br>
+<h3>Odds and Ends</h3>
+
+<br>
+<strong>Arrival at Airport:</strong>  The best way to get to the city upon arrival at Lisbon International Airport (Lisbon Portela Airport), which is only 7km from the city centre, is to take the Aero Bus which connects Terminal 1 and Terminal 2.  There is one every 20 minutes and it costs 3.50&euro; per adult.  You could get down at Restauradores, Rossio or Commerce Square or go right on to the terminus at Cais do Sodre (if you are going to take the train for Cascais).
+
+<strong>Souvenirs:</strong>  How about a CD of the best songs by the Queen of Fado Amalia Rodrigues (who died in 1999 but whose songs are as popular today as ever) or her successor Mariza?  How about a bottle of the typical Portuguese liqueur called Ginja?   Or perhaps you might prefer to bring home Lisbon's traditional blue and white azulejos (ceramic tiles)?
+<?/* <br>While waiting to hear fado performed live, here are my two selections for your non-stop listening from Deezer:
+<br><a href="http://www.deezer.com/playlist/987106911" target=_blank>Best of Mariza</a><br>
+<a href="http://www.deezer.com/playlist/987110491" target=_blank>The Very Best of Amalia Rodrigues</a>
+<br>Enjoy! */?>
+
+<br><br><a href="http://www.lisboacard.org/" target=_blank><strong>The Lisboa Card:</strong></a>  If you intend to make use of public transport all the way you might want to consider buying a Lisboa Card immediately upon your arrival at the airport.  At 18.50 euros for 24 hours it gives you unlimited travel on all buses, trams, funiculars and underground as well as train trips to "must-see" places out of the city such as Cascais and Sintra.  It also gives you free admission to top attractions such as the Torre de Belem, Jeronimos Monastery, Castillo Sao Jorge and the Santa Justa Elevator.  If you don't need the "extras" but just the basic transport for Lisbon then you need pay only 6 euros for a 24-hour unlimited bus/tram/metro ticket.  This will not only be cheaper in the long run but also save you a lot of headache if you should take different types of transport.
+
+<br><br><span style="float:right;margin-left:10px;"><a href="http://www.metrolisboa.pt/eng/customer-info/viva-viagem-card/" target=_blank><img src=../travel/lisbon/viva_viagem.jpg></a></span><strong>Metro:</strong>  In order to buy a metro ticket you will need to have the green "viva viagem" credit-sized card.  If you don't have one they will ask you to pay 50 centimes for it when you need to buy a metro ticket, paying 1.90 euros instead of the usual 1.40 euros.  The next time you need to buy a metro ticket you just present the card and pay 1.40 euros.  By the way although the underground in Lisbon normally runs till one in the morning don't be surprised to find some entrances closed after 21h30.  Just look around for another entrance.
+
+<br><br><strong>Fado restaurants:</strong>  The Tourism Office has a list of fado restaurants, many of them charging exorbitant prices.  But if you have a smaller budget you might find the one at 40, Travessa Poco da Cidade (it's to the left of Rua do Norte as you go up) more within your reach.  This humble but cosy restaurant called Caldo Verde can only sit about 50 people and it was almost full when I entered.  For just 12 euros I had a dish of grilled sea bream with sauteed potatoes and vegetables (excellent, by the way) with the fado thrown in for free.  There were two women and one male singer who took turns singing, accompanied by two guitarists.  For those who don't dine there is a charge of 10 euros for the fado show.
+
+<br><br><strong>Youth hostels:</strong>  The two HI youth hostels in the Lisbon region are in the Park of Nations at Rua de Moscavide 71 and the other at Rua Andrade Corvo 46.   You can make your choice from <a href="https://hihostels.com/hostels/?adventure=&country=Portugal&city=Lisbon" target=_blank>here.</a>
+
+<br><br><strong>Language:</strong>  There is not going to be a language problem in Lisbon as almost everybody that I met here, from tram drivers to policemen to shop workers, all speak some English.  But don't let this deter you from saying in Portuguese <em>Bom dia</em> and <em>Obrigado</em> (Thank you) or <em>Obrigada</em> if you are a woman saying it.  There is certainly no harm in thanking people in their own language!
+  
+</font></font></font>
+</td></tr></table>
+</td></tr></table>
+
+
+<center><? include "all_cities.inc"; ?></center>
+
+</center>
+</body>
+</html>

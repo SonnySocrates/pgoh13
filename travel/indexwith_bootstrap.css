@@ -1,0 +1,79 @@
+.navbar {
+	margin-bottom: 0;
+}
+
+
+h1,h2,h3  {display:inline-block;background-color:midnightblue;color:yellow;
+	padding:0 2px;text-align:left;margin-left: auto;margin-right: auto;
+}
+h1 {font-size:36px;} 
+p {width:100%;max-width:800px;
+	font-size: 1.2em;
+	color: black;
+}
+
+
+
+
+.jumbotron {
+	background: #cccccc;
+	color: black;
+	text-align: center;
+
+}
+.jumbotron p {
+	color: black;
+	font-size: 26px;
+}
+
+
+.btn-primary {
+	color: #fff;
+	background-color: transparent;
+	border-color: white;
+	margin-bottom: 5px;
+}
+.btn-primary:hover {
+	color: #27A967;
+	background-color: white;
+	border-color: white;
+}
+
+
+.navbar-inverse {
+	background: #2E2F31;
+	border: 0;
+}
+.navbar-inverse .navbar-nav li a {
+	color: #f7f7f7;
+	font-size: 16px;
+}
+.navbar-inverse .navbar-nav li a:hover {
+	background: #27A967;
+}
+
+
+.dropdown-menu {
+	background: #2E2F31;
+	border-radius: 0;
+	border: 0;
+}
+.dropdown-menu li a {
+	padding: 10px;
+}
+.navbar-inverse .navbar-nav .dropdown-menu li a:hover {
+	background: #2C463C;
+}
+
+table{background-color:transparent;border:1px solid black;}caption{padding-top:8px;padding-bottom:8px;color:#777;text-align:left}th{text-align:left}
+
+.table{width:100%;max-width:800px;margin-bottom:20px}.table>tbody>tr>th,.table>tbody>tr>th,.table>tfoot>tr>td,.table>tfoot>tr>th,.table>thead>tr>td,.table>thead>tr>td{width:50%;font-size:1.2rem;font-family:arial;padding:8px;line-height:1.42857143;vertical-align:top;border-top:1px solid #ddd}.table>thead>tr>th{vertical-align:bottom;border-bottom:2px solid #ddd}.table>caption+thead>tr:first-child>td,.table>caption+thead>tr:first-child>th,.table>colgroup+thead>tr:first-child>td,.table>colgroup+thead>tr:first-child>th,.table>thead:first-child>tr:first-child>td,.table>thead:first-child>tr:first-child>th{border-top:0}.table>tbody+tbody{border-top:2px solid #ddd}.table 
+.table{background-color:#fff}.table-condensed>tbody>tr>td,.table-condensed>tbody>tr>th,.table-condensed>tfoot>tr>td,.table-condensed>tfoot>tr>th,.table-condensed>thead>tr>td,.table-condensed>thead>tr>th{padding:5px}.table-bordered{border:1px solid #ddd}.table-bordered>tbody>tr>td,.table-bordered>tbody>tr>th,.table-bordered>tfoot>tr>td,.table-bordered>tfoot>tr>th,.table-bordered>thead>tr>td,.table-bordered>thead>tr>th{border:1px solid #ddd}.table-bordered>thead>tr>td,.table-bordered>thead>tr>th
+{border-bottom-width:2px}
+
+.table-striped>tbody>tr:nth-of-type(odd){background-color:yellow;color:black;font-size:150%;}
+.table-striped>tbody>tr:nth-of-type(even){background-color:lightgreen;color:black;font-size:150%;}
+
+
+
+a {color: black;}

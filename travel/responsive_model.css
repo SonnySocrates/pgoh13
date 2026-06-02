@@ -1,0 +1,100 @@
+@charset "UTF-8";
+/*
+*    RAZ for different browsers
+*/
+*{ margin: 0; padding: 0; border: 0; }
+
+/*
+*    applies to all
+*/
+body{ background-color: #cccccc; font: normal 1rem Arial, sans-Serif;padding-left:5px; }
+
+/*
+* above uses font shorthand, you need to supply at least font-size and font-family for the shorthand to work, otherwise it'll just be a syntax error and do nothing, normal not italic, then font-size and font-family
+*/
+#wrapper{background-color:"#cccccc";width:100%;margin:0 auto; font-family:arial;}
+* a {text-decoration:none;}
+#content{ margin-left: 0; padding: 2px; position: relative; z-index: 100; }
+h1 {background-color:midnightblue;color:yellow;font-family:arial;font-size:36px;display:inline-block;padding:0 10px;text-align:center;margin-left: auto;	margin-right: auto;}
+h2 {background-color:midnightblue;color:yellow;font-family:arial;font-size:30px;display:inline-block;padding:0 10px;margin-left: auto;
+	margin-right: auto;}
+h2 {background-color:midnightblue;color:yellow;font-family:arial;font-size:24px;display:inline-block;padding:0 10px;margin-left: auto;
+	margin-right: auto;}
+img {border:1px solid black;width:100%;}
+
+video {width: 100%;height: auto;}
+.videoWrapper {position: relative;padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;height: 0;}
+.videoWrapper iframe {position: absolute;top: 0;left: 0;width: 100%;max-width:800px;height: 100%;}
+
+
+
+
+
+
+
+
+
+/*
+*    When screen is smaller than 500px, single column row with section
+*/
+@media only screen and (max-width:500px)
+{
+p {font-size:1rem;}
+.hidden_inmobile {display:none;}	
+#wrapper #content{ margin-left: 0;}
+section {display: block;float: left;margin: 1%;width:80%;height:90%;padding-left:5px;font-size:1rem;}
+}
+
+
+
+
+
+
+/*
+*    When screen is between 501px and 730px, 2 column rows with section
+*/
+@media only screen and (min-width:501px) and (max-width:730px)
+{
+p {font-size:1rem;}
+.hidden_inmobile {display:none;}	
+#wrapper #content { margin-left: 0; }
+section {display: inline-block;vertical-align:top;float: left;margin: 1%;width: 45%;height:70%;
+padding-left:5px;font-size:1.2rem;}
+}
+
+
+
+
+
+
+/*
+*    When screen is between 731px and 980px, 3 column rows with section
+*/
+@media only screen and (min-width:731px) and (max-width:980px)
+{
+p {font-size:1rem;}
+.hidden_indesktop {display:none;}	
+#wrapper #content { margin-left: 0;margin-right:auto;max-width:980px; }
+section {display: inline-block;vertical-align:top;float: left;margin: 1%;width: 27%;
+    height:44%;padding-left:5px;font-size:1.2rem;}
+}
+
+
+
+
+
+
+
+
+/*
+*    When screen is bigger than 980px, 4 column rows  with section
+*/
+@media only screen and (min-width:981px)
+{
+.hidden_indesktop {display:none;}
+#wrapper #content { width:980px;margin-left:auto;margin-right:auto;}
+section {vertical-align:top;display: block;float: left;margin: 1%;padding:1%;width: 20%;height:40%;font-size:1rem;}
+p {font-family:arial, sans-serif;font-size: 1rem;padding:3px;max-width:980px; }
+img {width:100%;max-width:980px;margin-left:auto;margin-right:auto;}
+}

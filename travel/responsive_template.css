@@ -1,0 +1,60 @@
+<?/* 
+font-size:100% or 16px or 1rem
+*/?>
+
+
+body {background-color:#cccccc;}
+.hidden_indesktop {display:none;}
+
+
+
+
+
+
+
+
+@media screen and (max-width:960px)
+{
+body {background-color:blue;}
+}
+header {}
+nav {}
+aside {}  //aside means sidebar
+footer {}
+.hidden_indesktop {display:none;}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:768px)
+{
+body {background-color:orange;}
+.hidden_indesktop {display:none;}
+}
+
+
+
+
+
+
+@media screen and (max-width:550px)
+{
+body {background-color:yellow;}
+.hidden_inmobile {display:none;}
+}
+
+
+
+
+@media screen and (max-width:320px)
+{
+body {background-color:green;}
+.hidden_inmobile {display:none;}
+}

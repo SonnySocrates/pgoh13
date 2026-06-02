@@ -1,0 +1,107 @@
+@charset "UTF-8";
+
+/*
+*    Mass Reset
+*/
+*{ margin: 0; padding: 0; border: 0; }
+
+/*
+*    Normal layout
+*/
+body{ background-color: #cccccc; font: normal 1rem Arial, sans-Serif;padding-left:5px; }
+ul {list-style-type: none;}
+#wrapper{background-color:"#cccccc";width:100%;max-width:980px;margin:0 auto; font-family:arial;}
+* a {text-decoration:none;}
+section {display: block;vertical-align:top;float:left;margin-bottom:20px;margin-left:20px;border:1px solid black;}
+ #content{ margin-left: 0; padding: 2px; position: relative; z-index: 100; }
+#wrapper #content{ margin-left: 0;}
+p {font-family:arial, sans-serif;font-size: 1rem;padding:3px;max-width:800px;}
+img {width=100%;margin-left:auto;margin-right:auto;}
+}
+.right {display:block;float:right; margin-right:0;}
+.left {display:block;float:left; margin-left:10px;}
+h1 {background-color:midnightblue;color:yellow;font-family:arial;font-size:2rem;display:block;padding:0 10px;margin-left: 0;
+	margin-right: auto;}
+h2 {background-color:midnightblue;color:yellow;font-family:arial;font-size:36px;display:inline-block;padding:0 10px;margin-left: auto;
+	margin-right: auto;}
+h3 {text-align:center}
+
+table {
+  width: 100%; 
+  border-collapse: collapse; 
+}
+/* Zebra striping */
+tr:nth-of-type(odd) { 
+  background: #eee; 
+}
+th { 
+  background: #333; 
+  color: white; 
+  font-weight: bold; 
+}
+td, th { 
+  padding: 6px; 
+  border: 1px solid #ccc; 
+  text-align: left; 
+}
+
+video {width:100%;height: auto;}
+.videoWrapper {position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {position: absolute;top: 0;left: 0;width: 100%;height: 100%;}
+}
+
+<?/* or
+video {width: 800px;height: 600px;}
+.videoWrapper {position: relative;	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;height: 0;}
+.videoWrapper iframe {position: relative;top: 0;left: 0;width: 800px;height: 600px;}  */?>
+
+
+
+
+/*  from https://css-tricks.com/responsive-data-tables/
+Max width before this PARTICULAR table gets nasty
+This query will take effect for any screen smaller than 760px
+and also iPads specifically.
+*/
+@media 
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+
+	/* Force table to not be like tables anymore */
+	table, thead, tbody, th, td, tr { 
+		display: block; 
+	}
+	
+	/* Hide table headers (but not display: none;, for accessibility) */
+	thead tr { 
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+	
+	tr { border: 1px solid #ccc; }
+	
+	td { 
+		/* Behave  like a "row" */
+		border: none;
+		border-bottom: 1px solid #eee; 
+		position: relative;
+		padding-left: 50%; 
+	}
+	
+	td:before { 
+		/* Now like a table header */
+		position: absolute;
+		/* Top/left values mimic padding */
+		top: 6px;
+		left: 6px;
+		width: 45%; 
+		padding-right: 10px; 
+		white-space: nowrap;
+	}
+	

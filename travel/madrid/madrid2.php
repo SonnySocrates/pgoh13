@@ -1,0 +1,208 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Where to go, what to see in Madrid.  A page for those who are visiting Madrid or who plan to visit Madrid.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta name=description content="Where to go, what to do in Madrid.  Hints and tips for those visiting Madrid or who plan to visit Madrid.">
+<meta name="keywords" content="Madrid, visit Madrid, visiting Madrid, Madrid holiday, Madrid vacation, Madrid tourism">
+
+<style type="text/css">
+H1{font-size:36pt;font-family:helvetica;color:darkblue}
+H2{font-size:18pt;font-family:helvetica;color:darkblue}
+<!--
+A{text-decoration:none}
+-->
+</style>
+
+<style type="text/css"> 
+table.madrid {border-collapse:collapse;width:"400px";}
+table.madrid td, th
+{
+border:1px solid black;
+width:50%;font-family:tahoma,verdana,arial;color:darkblue;}
+ 
+ 
+div.cadre {color:darkblue;position:absolute;
+  border:solid black 2px;
+  }
+</style> 
+
+
+<style type="text/css">
+table.pleasenote2 {
+border-color: darkblue; border-width:0; border-style:solid;
+margin: 0px}
+table.pleasenote2 td {
+font: normal 22pt verdana, arial, sans-serif;
+color:yellow; background-color:black} 
+table.heading td {
+font: bold 32pt verdana, arial, sans-serif;
+color:red; background-color:yellow}
+table.pleasenote3 td {
+font: normal 10pt verdana, arial, sans-serif;
+color:yellow; background-color:black} 
+table.heading td {
+font: bold 18pt verdana, arial, sans-serif;
+color:red; background-color:yellow}
+</style>
+
+<script language="JavaScript1.1">
+<!--
+var slideshow=new Array()
+function slideshowpix(){
+  for (i=0;i<slideshowpix.arguments.length;i++){
+  slideshow[i]=new Image()
+  slideshow[i].src=slideshowpix.arguments[i]
+  }
+}
+
+//-->
+</script>
+<style type="text/css">
+div.externallinks { 
+  border:2px solid;
+border-color:red;
+  padding:10px;
+  background: beige;
+  width:300px;
+margin-left: 10px;
+//float:left;
+//use float to take it to the left side
+}
+div.boxtest { 
+  border:2px solid;
+border-color:red;
+  padding:10px;
+  background: beige;
+  width:400px;
+margin-right: 0px;
+
+}
+</style>
+</head>
+<!-- google_ad_section_start(weight=ignore) -->
+
+<body bgcolor="#cccccc">
+
+<? include "dropdown_menu.inc"; ?>
+<br>
+
+<table width=990><tr><td width=180 valign=top>
+<? include "leftmenu.inc"; ?>
+</td>
+<td width=810 valign=top>
+
+<b><a href="http://www.urbanrail.net/eu/es/mad/madrid.htm" target="_blank">Subway map of Madrid</a> | <a href="http://www.weather-forecast.com/locations/Madrid/forecasts/latest" target="_blank">Weather outlook</a> | <a href="http://maps.google.co.uk/maps?saddr=puerta+del+sol%2C+madrid+spain" target="_blank">Madrid City map</a></b>
+
+<table width=750><tr><td>
+
+<h1><span style="background-color:midnightblue;">&nbsp;&nbsp;Visiting Madrid City (Part 2)&nbsp;&nbsp;</span></h1>
+
+<? include "banner_ad.inc"; ?>
+
+<p><FONT face=tahoma color=black size=3>You have heard of <em>El Corte Ingles,</em> the famous department store in Madrid where you can find almost anything under the sun.  Most tourists do their shopping there.  But if you have a young adolescent with you, you might want to do your shopping (or rather hers!) inside the Mercado de Fuencarral or along the Calle de Fuencarral.  In this pedestrians-only street, you will find a big choice of clothing and other fashionable objects for the young.  But to get a feel of the local colour and come into contact with the Madrile&#241;os you will have to go to the "El Rastro" flea market.  It runs along the whole of Calle de la Ribera de Curtidores and the metro station that takes you right to its doorstep is the one at Tirso de Molina (Line 1).  It's open only on Sundays from 9h00-14h00 so it's important that you reserve your Sunday morning for this trip.  You can end your flea market experience by going to one of the tapas bars that abound in the area before going to the Retiro Park to rest your tired feet!</font></font></font> 
+</td></tr>
+<tr><td>
+
+<table width=750><tr><th colspan=3 align=left>El Rastro - Madrid's flea market.</th></tr><tr>
+<td valign=top width=250 height=187><a href=rastro_stand1.jpg target=_blank><img title="El Rastro stall selling fans" alt="El Rastro stall selling fans" src=rastro_stand1250.jpg width=250 height=187></a><br>A stall selling fans which are very much a part of the se&#241;oritas make-up.  Think of <em>Carmen</em> and flamenco dances where fans are often used as a prop.</td>
+<td valign=top width=250 height=187><a href=rastro.jpg target=_blank><img title="El Rastro - Madrid's flea market" alt="El Rastro - Madrid's flea market" src=rastro250.jpg width=250 height=187></a><br>Madrid's flea market is second to none.  A leisurely stroll along this leafy street on a Sunday morning is as much a ritual as going to Mass for many Spaniards.
+</td>
+<td valign=top width=250 height=187><a href=rastro_stand3.jpg target=_blank><img title="Colourful clothing stall in El Rastro" alt="Colourful clothing stall in El Rastro" src=rastro_stand3250.jpg width=250 height=187></a><br>This stall takes great pains to decorate one side of its "wall" with a strikingly colourful piece of tissue in order to attract attention in this highly-animated street.</td></tr></table>
+</font></font></font>
+<br />
+
+<FONT face=tahoma color=black size=3>The Royal Palace (El Palacio Real), though used by the King of Spain for official state ceremonies, is not where the royal family reside.  Their actual residence is at the Zarzuela Palace on the outskirts of Madrid.  The Royal Palace, however, remains one of the top tourist attractions in Madrid mainly for its collection of armoury and paintings.  Apart from the Throne Room, one of the most impressive rooms is the banquet hall with its extremely long table seating some 100 guests.  The decoration of all the rooms is lavish and sumptuous, to say the least, with works by some of the greatest painters in Spain on display.  If you want to see the vast collection of medieval armour, turn to your left as you face the Palace fa&ccedil;ade as the Royal Armoury is not inside the Palace proper.  However your visit of the armoury will be in very dim lighting (I was told by the guardian that this was necessary in order not to cause damage to the armoury).</font></font></font>
+<br /><br />
+<table><tr><th colspan=3 align=left>The Royal Palace (El Palacio Real)</th></tr><tr>
+<td valign=top width=250 height=187><a href=catedralalmudena.jpg target=_blank><img title="Almudena Cathedral in Madrid" alt="Almudena Cathedral in Madrid" src=catedralalmudena250.jpg width=250 height=187></a><br />You will pass by this imposing cathedral called Catedral de la Almudena on your way to the Royal Palace.</td>
+<td valign=top width=250 height=187><a href=policeonhorseback.jpg target=_blank><img title="Policeman on horseback guarding the Royal Palace in Madrid" alt="Policeman on horseback guarding the Royal Palace in Madrid" src=policeonhorseback250.jpg width=250 height=187></a><br />A policeman on horseback keeps an eye on the crowds queueing up to visit the Palacio Real.
+</td>
+<td valign=top width=250 height=187><a href=royalpalace.jpg target=_blank><img title="Entrance to the Royal Palace" alt="Entrance to the Royal Palace" src=royalpalace250.jpg width=250 height=187></a><br />The fa&ccedil;ade of the Royal Palace.  Before entering the Palace walk over to the left side to see the Royal Armoury.</td></tr></table>
+<br />
+<? include "banner_ad.inc"; ?>
+<br />
+<FONT face=tahoma color=black size=3>Madrid is indeed a beautiful city to visit.  There are fountains and trees everywhere along the main roads of the city.  The Spaniards know how to enjoy life - eating, drinking and making merry till the early hours of the morning.  They are never in a hurry and you as a visitor are soon taken up with their easy-going lifestyle.  
+</font></font></font>
+<br /><br />
+<table><tr><th colspan=3 align=left>Fountains everywhere</th></tr><tr>
+<td valign=top width=250 height=187><a href=fountain_atnight.jpg target=_blank><img title="One of Madrid's fountains lighted up at night" alt="One of Madrid's fountains lighted up at night" src=fountain_atnight250.jpg width=250 height=187></a><br>One of the many fountains lighted up at night.  This picture was taken from the Madrid Vision open-top bus which stops at all the touristic places and allows you to hop on and off as you wish.</td>
+<td valign=top width=250 height=187><a href=neptunes_fountain.jpg target=_blank><img title="Fuente de Neptuno (Neptune's Fountain) at Plaza de Canovas del Castillo, Madrid" alt="Fuente de Neptuno (Neptune's Fountain) at Plaza de Canovas del Castillo, Madrid" src=neptunes_fountain250.jpg width=250 height=187></a><br>Fuente de Neptuno (Neptune's Fountain) at Plaza de Canovas del Castillo in front of the Prado Museum.  In the statue Neptune is seen holding a trident in one hand, and a coiled snake in the other.</td>
+<td valign=top width=250 height=187><a href=plazaespana.jpg target=_blank><img title="The Plaza Espana in Madrid" alt="The Plaza Espana in Madrid" src=plazaespana250.jpg width=250 height=187></a><br>The Plaza Espana with its fountain and monument to Cervantes.  Nearby, for just a month, are makeshift stalls selling decorative objects and materials by Latinos living in Madrid.</td>
+</tr></table>
+
+<br /><FONT face=tahoma color=black size=3>If you still have time left after seeing all that you wanted to see in Madrid it would be a pity not to make a side trip to Toledo, as it is just half an hour away by train from the Atocha railway station.  <a href=toledo.php target=_blank>Go here for more on visiting Toledo.</a>  Others though, might prefer to go to Segovia, which is a bit farther away.</font></font></font>
+<br /><br />
+<table><tr><th colspan=3 align=left>More sights in Madrid</th></tr><tr>
+<td valign=top width=250 height=187><a href=garden_atocha.jpg target=_blank><img title="Garden in Atocha railway station in Madrid" alt="Garden in Atocha railway station in Madrid" src=garden_atocha250.jpg width=250 height=187></a><br>A gigantic tropical garden right in the middle of the Atocha railway station.  It is from the Atocha railway station that you take your train for Toledo.  The other railway station for long-distance travel is at Chamartin.</td>
+<td valign=top width=250 height=187><a href=real_madrid.jpg target=_blank><img title="Entrance to the world of Real Madrid at the Santiago Bernabeu Stadium" alt="Entrance to the world of Real Madrid at the Santiago Bernabeu Stadium" src=real_madrid250.jpg width=250 height=187></a><br>The entrance to the world of Real Madrid at the Santiago Bernabeu Stadium.  Do you know that the Presidential Balcony is not the best spot to see a match but is the safest as it is on the street level and allows for a quick exit in case of trouble?</td>
+<td valign=top width=250 height=187><a href=ham_everywhere.jpg target=_blank><img title="Ham, ham everywhere" alt="Ham, ham everywhere" src=ham_everywhere250.jpg width=250 height=187></a><br>There is no Spaniard worthy of his name who is not a connoisseur of ham as displayed here in a bar.  A top-quality ham goes by the name of <em>jamon de bellota</em>, as the pigs are reared on acorns.  Price: Nearly 100 euros per kg.</td>
+</tr></table>
+<br>
+  <strong><a href=index.php target=_blank>Visiting Madrid (1)</a> &nbsp;| &nbsp;<a href=toledo.php target=_blank>Visiting Toledo.</a></strong>
+<br /><br />
+<table width="400" class="madrid">
+<tr><th colspan="2">
+SOME USEFUL LINKS FOR MADRID</th></tr><tr>
+<td align="left" bgcolor="#99CCFF">
+<a href="http://www.esmadrid.com/en/portal.do" target="_blank">Tourism Office of Madrid</a>
+<br><a href="http://www.spain.info/en/conoce/monumentos/madrid/palacio_real.html" target="_blank">Madrid's Royal Palace</a>
+<br><a href="http://www.museodelprado.es/en/" target="_blank">Official site of the Prado National Museum</a>
+<br><a href="http://www.newmadrid-tours.com/daily-tours/free-tour.html" target="_blank">Free daily tours of Madrid</a>
+<br><a href="http://www.museoreinasofia.es/index_en.html" target="_blank">The Reina Sofia National Art Centre</a>
+<br><a href="http://www.museothyssen.org/en/thyssen/home" target="_blank">The Thyssen-Bornemisza Museum</a>
+<br><a href="http://www.realmadrid.com/cs/Satellite/en/1193040472497/GenericoContenedor/1193040472497.htm" target="_blank">The Santiago Bernabeu Stadium of Real Madrid</a>
+<br><a href="http://www.spain.info/en/ven/grandes-ciudades/madrid/como_moverse_madrid.html" target="_blank">The Madrid Card, Madrid Vision card and the Tourist Pass</a>
+</td></tr><tr><td colspan="2" align="left">
+
+<div class="boxtest">
+SURVIVAL VOCABULARY:
+<br />Yes = Si
+<br />Hello = Hola
+<br />Good morning = Buenos dias
+<br />Thanks = Gracias
+<br />I don't understand = No entiendo
+<br />Excuse me = Perdoname
+<br />money = dinero
+<br />Do you speak English? = Habla ingles? 
+<br />Please = Por favor
+<br />today = hoy
+<br />tomorrow = manana
+<br />yesterday = ayer
+<br />now = ahora
+<br />OK = De acuerdo
+<br />How much? = Cuanto cuesta?
+<br />Where? = Donde?
+<br />When? = Cuando?
+<br />Goodbye = Adios
+</div>
+
+</td></tr></table>
+
+
+</body></html>

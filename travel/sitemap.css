@@ -1,0 +1,191 @@
+
+/*
+*    Mass Reset
+*/
+*{ margin: 0; padding: 0; border: 0; }
+
+/*
+*    Normal layout
+*/
+body{ background-color: #cccccc; font: normal 1rem Arial, sans-Serif;padding-left:5px; }
+
+#wrapper{background-color:"#cccccc";
+    width:100%;margin:0 auto; font-family:arial;}
+* a {text-decoration:none;}
+
+ #content{ margin-left: 0; padding: 2px; position: relative; z-index: 100; }
+
+/*
+*    When screen is smaller than 440px
+*/
+@media only screen and (max-width:440px){
+p {font-size:1rem;}
+.hidden_inmobile {
+        display:none;
+    }	
+#wrapper #content{ margin-left: 0; }
+
+/*
+*    to have a single column row each with "section" tag if small screen
+*/
+section {
+display: block;
+  float: left;
+  margin: 2%;
+  width: 90%;
+height:100%;
+overflow:hidden;
+padding-left:5px;
+font-size:1.2rem;
+}
+}
+
+
+
+
+
+
+/*
+*    When screen is between 441px and 730px
+*/
+@media only screen and (min-width:441px) and (max-width:730px){
+p {font-size:1rem;}
+.hidden_inmobile {
+        display:none;
+    }	
+#wrapper #content{ margin-left: 0; }
+
+/*
+*    to have a 2 column row
+*/
+section {
+box-sizing:border-box;
+display: inline-block;
+vertical-align:top;
+  float: left;
+  margin: 2%;
+  width: 46%;
+height:70%;
+padding-left:5px;
+font-size:1.2rem;
+overflow:hidden;
+}
+}
+
+
+
+
+
+
+/*
+*    When screen is between 731px and 1080px
+*/
+@media only screen and (min-width:731px) and (max-width:1080px){
+p {font-size:1rem;}
+.hidden_indesktop {
+        display:none;
+    }	
+#wrapper #content{ margin-left: 0;margin-right:auto;}
+
+/*
+*    to have a 3 column row
+*/
+section {
+box-sizing:border-box;
+display: inline;
+vertical-align:top;
+  float: left;
+  margin: 2%;
+
+  width: 29%;
+overflow:hidden;
+height:44%;
+padding-left:5px;
+font-size:1.2rem;
+}
+}
+
+
+
+
+
+
+
+
+/*
+*    When screen is bigger than 1080px 
+*/
+@media only screen and (min-width:1081px){
+.hidden_indesktop {
+        display:none;
+    }
+	#wrapper #content{ width:1200px;margin-left:auto;
+	margin-right:auto;}
+/*
+*    to have a 4 column row each with section tag if big screen
+*/
+section {
+display:block;
+  float: left;
+   margin: 1%;
+padding:1%;
+padding-bottom:2%;
+  width: 17%;
+height:40%
+overflow:hidden;
+font-size:1.2rem;}
+a {font-size:1.2rem;}
+h3 {color:black}
+}
+p {font-family:arial, sans-serif;font-size: 1rem;padding:3px;max-width:800px; }
+img {max-width:800px;margin-left:auto;margin-right:auto;}
+}
+
+video {
+  width: 800px;
+  height: 600px;
+}
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: relative;
+	top: 0;
+	left: 0;
+	width: 800px;
+	height: 600px;
+}
+}
+
+
+.right {display:block;float:right; margin-right:0;}
+.left {display:block;float:left; margin-left:10px;}
+
+h1 {background-color:midnightblue;color:yellow;font-family:arial;font-size:36px;display:inline-block;padding:0 10px;text-align:center;margin-left: auto;
+	margin-right: auto;}
+h2 {background-color:midnightblue;color:yellow;font-family:arial;font-size:36px;display:inline-block;padding:0 10px;margin-left: auto;
+	margin-right: auto;}
+
+img {border:1px solid black;width:100%;}
+
+
+video {
+  width: 100%;
+  height: auto;
+}
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}

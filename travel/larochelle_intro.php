@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<TITLE>What's new in La Rochelle  in France.  A page for intending visitors to La Rochelle.</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1" >
+<META name=description content="What's new in La Rochelle  in France.  A page for intending visitors to La Rochelle.">
+<meta name="keywords" content="La Rochelle, Bunker Museum, facade of La Rochelle youth hostel, fa&ccedil;e de l'auberge de jeunesse à La Rochelle, marina at the Minimes port of La Rochelle, Minimes beach, baudet at Parc Animalier in Parc Charruyer">
+
+<style>
+h1 {font-family:arial;font-size:42px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h2 {font-family:arial;font-size:36px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h3  {font-family:arial;font-size:24px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+</style>
+<style type="text/css">
+table.iledere {
+	border-width: 1px;
+	border-spacing: 1px;
+	border-style: normal;
+	border-color: red;
+	border-collapse: collapse;
+	background-color: red;
+margin: 2px;
+	}
+
+table.iledere th {
+     font-family: Verdana;  
+     font-size:30px;
+     background-color:yellow;
+     color:midnightblue;
+     border-style:solid;
+     border-width:1px;
+     text-align:center;
+  }
+
+table.iledere td {
+vertical-align: top;
+padding-left: 10px;
+padding-right: 10px;
+font-family:arial; 
+     font-size:18px;
+     background-color:beige;
+     color:darkblue;
+     border-style:solid;
+     border-width:1px;
+     text-align:left;
+  }
+
+</style>
+</head>
+<body bgcolor=#cccccc onload='setFocusToTextBox()'>
+<table width=980><tr><td colspan=2>
+<img src=minimes_panoramic.jpg width=980 alt="Panoramic view of the marina at Port des Minimes, La Rochelle" title="Panoramic view of the marina at Port des Minimes, La Rochelle"><br><em>Panoramic view of the marina at Port des Minimes in La Rochelle.</em>
+<br>
+</td></tr><tr>
+<td width="800" valign="top">
+<FONT face=tahoma color=black size=3>
+
+<h1><span style="background-color:midnightblue;text-align:center;">&nbsp;&nbsp;What's New in La Rochelle&nbsp;&nbsp;</span></h1>
+
+<table width=700><tr><td width=300><img src=bunker_vertical.jpg width=300></td><td width=10></td>
+<td width=400 valign=top>
+<FONT face=tahoma color=black size=3>The Bunker Museum in La Rochelle, which was open on 20 May 2013, will give you a first-person experience of what life was like in La Rochelle during the Second World War.  While mainly of interest to history buffs it will also give the general public an insight into what life was like then.  In fact the bunker - which was constructed secretly for German U-Boat commanders in 1941 - managed to stay intact, with its murals and even a bar for the officers' entertainment (despite the cramped and squalid living conditions elsewhere in the bunker).  It was hidden from the public eye for 70 years.  But the Bunker Museum goes further than that and represents the period 1940-45 with actual photographs as well as documentary videos and objects that have been preserved in their original condition.   There is also a reconstitution of a German submarine.  A walk through its narrow corridors will take you through the war years from the arrival of the Germans at La Rochelle to its liberation in 1945.  The bunker is located at 8, rue des Dames and very near to the main market in the city centre.  Entrance costs 7 euros.
+</td></tr></table>
+<br>
+<table width=700><tr><td>
+<img src=rochelleyh_facade.jpg width=700><br>
+The only youth hostel in La Rochelle at Port des Minimes underwent a facelift in the middle of 2013.  This is what the fa&ccedil;ade now looks like - brighter than what it was before.  It is also one of the most sophisticated youth hostels in Europe, with electronic cards replacing keys and the lights turning on and off automatically as you pass or leave the corridors on the way to your room.</td>
+</td></tr></table>
+
+<table width=700><tr><td align=right>
+<a href="larochelle.php"> <b>Visiting La Rochelle (1)</b></a>
+</td></tr></table>
+
+</td></tr></table>
+</td></tr></table>
+
+<br>
+<center><? include "all_cities.inc"; ?></center>
+
+</body></html>

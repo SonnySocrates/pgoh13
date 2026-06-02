@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head><title>Visiting Kuala Lumpur. Part 1 of Visiting Malaysia.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Visiting Kuala Lumpur. Part 1 of Visiting Malaysia.">
+<meta name="keywords" content="visit Malaysia, tourism Malaysia, visiting KL, visit Kuala Lumpur">
+<style>
+h1 {font-family:arial;font-size:42px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h2 {font-family:arial;font-size:36px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h3  {font-family:arial;font-size:24px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+a {text-decoration:none}
+</style>
+</head>
+<body bgcolor=#cccccc onload='setFocusToTextBox()'>
+<center>
+
+<table width="980"><tr>
+<td valign="top">
+
+<b><a href=kl.php target=_blank>Kuala Lumpur</a> | <a href=penang1.php target=_blank>Penang</a> | <a href=melaka.php target=_blank>Malacca</a> | <a href=kota_baru.php target=_blank>Kota Bharu</a> | <a href=cameron.php target=_blank>Cameron Highlands</a> | <a href=perhentian.php>Perhentian Islands</a></b>
+
+<center><h1><span style="background-color:midnightblue;">&nbsp;&nbsp;Visiting Kuala Lumpur&nbsp;&nbsp;</span></h1></center>
+
+<p><table align=right width=500 height=375><tr><td colspan=2 valign=top><a href=msiapix_new/centralmarket_kasturi_walk.jpg><img src=msiapix_new/centralmarket_kasturi_walk500.jpg width=500></a></td></tr>
+<tr><td valign=top><a href=msiapix_new/KL_batu_caves.jpg><img src=msiapix_new/KL_batu_caves250.jpg width=250></a>
+</td><td valign=top><a href=msiapix_new/bukit_jalil_stadium.jpg><img src=msiapix_new/bukit_jalil_stadium250.jpg width=250></a><br /><em><font size=2>Stalls being set up outside the Bukit Jalil national stadium (above) and Batu Caves (left) with its towering Murugan statue.</font></em>
+</td></tr></table><FONT face=tahoma color=black size=3>The latest attraction for visitors to Kuala Lumpur (might as well use KL from now on as this is how Malaysians refer to it) is the Kasturi Walk, a row of stalls selling street food, snacks, fruit juices and local handicraft items and is just outside the well-established Central Market (light blue building on left of photo).  It was officially launched on 19 February, 2011 and is open from 11.00 a.m. to 11.00 p.m. with a cultural performance at 9.00 p.m. being held there daily.  Its proximity to Jalan Petaling's Chinatown makes it a good spot to spend an afternoon before adjourning to Chinatown for dinner at night.
+
+
+
+
+
+<br />Another must-see place for any tourist in KL is the Batu Caves.  Although not in KL itself (it's 13kms away), the Batu Caves has always been a tourists' attraction for visitors to Malaysia.  It is now possible to go to Batu Caves directly from KL Sentral by the KTM Komuter train for only 2 ringgit (price in July 2011).  <br />Better have a good rest in the train as there are some 272 steps to climb upon arrival at Batu Caves in order to reach the top of the caves.  On the way you will be greeted by a colony of monkeys, some of which are quite cheeky and will not hesitate to snatch your paperbags if they think there are bananas or nuts in them.  So watch out for the monkey pickpockets!  At the foot of Batu Caves you will not help noticing the gigantic Murugan statue, standing 42.7m high.  It was unveiled on 29 January 2006 and a plaque there claims it to be the world's tallest Murugan statue.
+<br />In fact Batu Caves is the culminating point of the Thaipusam festival in January or February every year.  If you are in KL during that time of the year don't miss it!
+<br />Apart from monuments, KL also boasts of a number of mega shopping malls, two of the biggest being the Berjaya Times Square in Bukit Bintang and the Suria KLCC (KL City Centre) mall next to the Petronas Twin Towers.  Believe it or not, the latter has two whole floors devoted to foodstalls!  Here you can find food from each of the different states in Malaysia.
+<br />Nightlife in KL is more or less concentrated on two areas - in Bukit Bintang, especially around Jalan Alor and the Bukit Bintang Walk and Chinatown in Jalan Petaling and its surrounding streets.  So if you have only two nights in KL make sure you spend them in those two places.  Of course if you would rather shop in air-con comfort then you can spend your nights at any of the big shopping malls in KL, most of which remain open till 22h00.
+<br />Upon arrival in KL you might want to consider joining the "KL Hop-On Hop-Off City Tour" at RM38 for 24 hours or RM65 for 48 hours.
+<br />The photos below illustrate some of the places of interest in KL.
+<br /><br />
+<b><font face="arial" size="2"><u>Note:</u> Click on any photo below to reproduce its original size and press the F11 button on your keyboard to fill  the whole screen (press F11 again to go back to where you were).   All photos were taken in July 2011.</b>
+
+<br />
+<table width="980"><tr>
+<td align="left" width="320" valign="top">
+		<a href=msiapix_new/berjaya_times_square.jpg><img src="msiapix_new/berjaya_times_square250.jpg" align="right" width="320" title="The Berjaya Times Square shopping mall in Bukit Bintang" alt="The Berjaya Times Square shopping mall in Bukit Bintang"></a><br /><em><font size=2>The Berjaya Times Square shopping mall in Bukit Bintang is so huge that it can accommodate a theme park.</em>
+</td>
+<td align="left" width="320">
+	<a href=msiapix_new/jalan_alor.jpg><img src="msiapix_new/jalan_alor250.jpg" align="right" width="320" title="The Jalan Alor food court in Bukit Bintang" alt="The Jalan Alor food court in Bukit Bintang"></a><br /><em><font size=2>The world-famous Jalan Alor food court in Bukit Bintang has resisted a change in its name to Jalan Kejora.</font></em>
+</td>
+<td align="left" width="320" valign="top">
+	<a href=msiapix_new/bustling_chinatown.jpg><img src="msiapix_new/bustling_chinatown250.jpg" align="right" width="320" title="Kuala Lumpur's Chinatown in Petaling Street" alt="Kuala Lumpur's Chinatown in Petaling Street"></a><br /><em><font size=2>Kuala Lumpur's Chinatown in Petaling Street is a hive of activity both day and night.</font></em>
+</td></tr>
+
+<tr><td height=10 bgcolor=#cccccc></td></tr>
+
+<tr>
+
+<td align="left" width="320" rowspan="3" valign="top">
+	<a href=msiapix_new/petronas_twin_towers.jpg><img src="msiapix_new/petronas_twin_towers250.jpg" align="right" width="320" title="Petronas Twin Towers are as popular as ever" alt="Petronas Twin Towers are as popular as ever"></a><br /><em><font size=2>The <a href="http://www.petronastwintowers.com.my/" target="_blank">Petronas Twin Towers (official website)</a> are as popular as ever and is the main monument to visit in KL.  Even though it is no longer free to go up to the top now like it used to be when it first opened, crowds of sightseers still queue up from 7 every morning to visit the Skybridge connecting the two towers on the 41st floor and go up to the Skybridge Observation Deck on level 86.  The towers, built in 1998, were designed by the Argentine-born American architect Cesar Pelli.</font></em>
+</td>
+
+<td align="left" width="320" valign="top">
+	<a href=msiapix_new/petronas_tower_tickets.jpg><img src="msiapix_new/petronas_tower_tickets250.jpg" align="right" width="320" title="Queues at the Petronas Twin Towers every morning" alt="Queues at the Petronas Twin Towers every morning"></a><br /><em><font size=2>The crowd of sightseers who queue up every morning for a ticket.  Some are already there at 7.00 a.m. to be sure of getting a ticket!</font></em>
+</td>
+<td align="left" width="320" valign="top">
+		<a href=msiapix_new/petronas_tower_sorry.jpg><img src="msiapix_new/petronas_tower_sorry250.jpg" align="right" width="320" title="Come at 7.00 a.m. to be sure of getting a pass" alt="Come at 7.00 a.m. to be sure of getting a pass"></a><br /><em><font size=2>This is what you'll see if you arrive at 9.00 a.m.  It's open from Tuesday to Sunday from 09h00-19h00 (but closed for Friday prayers from 13h00-14h30)</font></em>
+</td></tr><tr>
+<td align="left" width="320" valign="top">
+	<a href=msiapix_new/viewfrom_KLmenara_tower.jpg><img src="msiapix_new/viewfrom_KLmenara_tower250.jpg" align="right" width="320" title="The KL Menara in Bukit Nanas is a good substitute for the Petronas Twin Towers" alt="The KL Menara in Bukit Nanas is a good substitute for the Petronas Twin Towers"></a><br /><em><font size=2>If you want to avoid queuing up at the Petronas Twin Towers, you can go to the KL Menara tower in Bukit Nanas, where you can also get a panoramic view of KL (including that of the Petronas Towers).</font></em></td>
+
+<td align="left" width="320" valign="top">
+	<a href=msiapix_new/5kg_durian.jpg><img src="msiapix_new/5kg_durian250.jpg" align="right" width="320" title="Malaysia's king of fruits." alt="Malaysia's king of fruits."></a><br /><em><font size=2>The king of fruits.  Whether you are in KL, Penang or Kota Bharu you cannot help noticing this fruit when it's in season.  The durian in the foreground weighs as much as 5 kilograms!</font></em></td>
+</tr></table>
+
+</td></tr></table>
+
+<center><? include "all_cities.inc"; ?></center>
+
+</body></html>
+

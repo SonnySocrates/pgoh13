@@ -1,0 +1,76 @@
+add text to your pictures: http://addtext.com/
+
+create a beautiful website: https://school.scotch.io/create-a-beautiful-htmlcss-website/
+
+Protofluid - great site to see how your page looks like in different devices:
+http://protofluid.com/
+
+http://fontawesome.io/examples/ for funny emoticones
+
+enlarge photo:  http://reshade.com/
+http://www.coffeecup.com/
+better page in dropbox?
+http://jpeg-optimizer.com/
+
+easy e-website for beginners: https://www.jimdo.com/templates/#ref=a341930 (article in https://www.websitetooltester.com/en/reviews/jimdo-review/)
+
+tutorials http://www.codingforums.com/showpost.php?p=1117630&postcount=2
+
+takes the hassle out of creating an online store: http://www.ecwid.com/
+
+to sell your objects with Paypal:  checkthis.com
+
+online audio converter:  http://media.io/
+
+online video converter (avi to mp4 or ogg):  http://video.online-convert.com/
+video converter to install (mp4 to webm):  http://download.cnet.com/Free-WebM-Encoder/3000-2194_4-75207070.html?part=dl-6271686&subj=dl&tag=button
+
+xenu to check links (article here: http://foliovision.com/seo-tools/seo/xenu-link-sleuth/ )
+notepad++ for multiple files
+include files
+
+from start use php even if don't know language because for header, footer, navigational menu and even adsense ads (with include banner_ad.inc)
+
+if somebody tries to put your page inside his own frames add this:
+
+<SCRIPT LANGUAGE="JavaScript">
+
+   if (top.frames.length > 1) {
+        top.location="http://yoursite.com/pagename.html";
+}
+// 
+</SCRIPT>
+
+To trace other people's IP address (if you know it):
+http://www.ip-adress.com/ip_tracer/  or
+http://www.ipchecking.com/
+to find out your computer's IP address:  http://www.checkip.org/
+just as you put the tag <em> for italics use <mark> to highlight a word
+to create a banner for your site for free:  http://creaban.com/ like this one 
+<br /><img src=site_banner.png>
+<p>
+For those funny characters: use "entity name" column here:
+http://www.w3schools.com/tags/ref_entities.asp
+
+to check owner of any website:
+http://whois.domaintools.com/url_of_website_eg_pgoh13.com
+
+FOR PHOTOS LIBRARY: http://www.panoramio.com/
+
+For spam-free contact/feedback:  http://www.emailmeform.com/
+EmailMeForm launched in 2006. It has since grown to service many customers in around the world. With a strong commitment to our loyal user base, we look forward to developing EmailMeForm into a simple tool that any business, educational institution, non-profit and governmental agency can use. Our goal is to create a service that allows anyone to easily create online forms, from contact forms to surveys.
+
+to check PR of your website:  http://www.prchecker.info/check_page_rank.php
+to check PR of everyone of your pages:  http://www.intenseblog.com/tutorials/check-pagerank-of-all-pages-within-site.html  Ok you know what your PR is for your main domain.  But you might want to check on individual pages' PR.  Instead of laboriously going through one after the other
+
+FREE WEBSITE templates:
+http://www.webeden.co.uk/
+wix.com
+http://www.webacappella.com/
+http://www.homestead.com/
+
+those funny characters:  http://www.mountaindragon.com/html/iso.htm
+
+from beginning don't use files ending with .html but rather .php
+worth it just for "include" function.
+read this: http://www.learnphponline.com/php-basics/php-include-tutorial

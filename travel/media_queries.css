@@ -1,0 +1,115 @@
+#container {margin-bottom: 0px;
+	width: 100%;
+	margin: 0px;
+padding:0px;
+border:0px;
+}
+ 
+#myContent {margin-bottom: 0px;
+	-moz-column-count: 6;
+	-moz-column-gap: 0px;
+	-webkit-column-count: 6;
+	-webkit-column-gap: 0px;
+	column-count: 6;
+	column-gap: 0px;
+	width: 100%;
+margin:0px;
+padding:0px;
+border:0px;
+}
+ 
+#myContent img{
+	display: inline-block;
+	margin-bottom: 0px;
+	width: 100%;
+}
+@media only screen and (max-width : 1199px),
+only screen and (max-device-width : 1199px){
+	#myContent {
+		-moz-column-count: 5;
+		-moz-column-gap: 0px;
+		-webkit-column-count: 5;
+		-webkit-column-gap: 0px;
+		column-count: 5;
+		column-gap: 0px;
+		width: 100%;
+	}
+	
+	#container {
+		width: 100%;
+	}
+}
+ 
+ 
+@media only screen and (max-width : 999px),
+only screen and (max-device-width : 999px){
+	#myContent {
+		-moz-column-count: 4;
+		-moz-column-gap: 0px;
+		-webkit-column-count: 4;
+		-webkit-column-gap: 0px;
+		column-count: 4;
+		column-gap: 0px;
+		width: 100%;
+	}
+	
+	#container {
+		width: 100%;
+	}
+}
+ 
+@media only screen and (max-width : 799px),
+only screen and (max-device-width : 799px){
+	#myContent {
+		-moz-column-count: 3;
+		-moz-column-gap: 0px;
+		-webkit-column-count: 3;
+		-webkit-column-gap: 0px;
+		column-count: 3;
+		column-gap: 0px;
+		width: 100%;
+	}
+	
+	#container {
+		width: 100%;
+	}
+}
+ 
+@media only screen and (max-width : 599px),
+only screen and (max-device-width : 599px){
+	#myContent {
+		-moz-column-count: 2;
+		-moz-column-gap: 0px;
+		-webkit-column-count: 2;
+		-webkit-column-gap: 0px;
+		column-count: 2;
+		column-gap: 0px;
+		width: 100%;
+	}
+	
+	#container {
+		width: 100%;
+	}
+}
+ 
+@media only screen and (max-width : 359px),
+only screen and (max-device-width : 359px){
+	#myContent {
+		-moz-column-count: 1;
+		-moz-column-gap: 0px;
+		-webkit-column-count: 1;
+		-webkit-column-gap: 0px;
+		column-count: 1;
+		column-gap: 0px;
+		width: 100%;
+	}
+	
+	#container {
+		width: 100%;
+	}
+}
+ 
+
+}
+div {line-height: 0px;}
+* {margin:0;padding:0;border:0;vertical-align: top;line-height: 0px;}

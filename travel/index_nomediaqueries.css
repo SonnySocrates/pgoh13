@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+/*
+*    Mass Reset
+*/
+*{ margin: 0; padding: 0; border: 0; }
+
+/*
+*    Normal layout
+*/
+body{ background-color: #cccccc; font: normal 1rem Arial, sans-Serif;padding-left:5px; }
+
+#wrapper{background-color:"#cccccc";width:100%;margin:0 auto; font-family:arial;font-size:200%}
+* a {text-decoration:none;}
+#content{ margin-left: 0; padding: 2px; position: relative; z-index: 100; }
+h1 {background-color:midnightblue;color:yellow;font-family:arial;font-size:36px;display:inline-block;padding:0 10px;text-align:center;margin-left: auto;	margin-right: auto;}
+h2 {background-color:midnightblue;color:yellow;font-family:arial;font-size:30px;display:inline-block;padding:0 10px;margin-left: auto;
+	margin-right: auto;}
+h3 {background-color:midnightblue;color:yellow;font-family:arial;font-size:24px;display:inline-block;padding:0 10px;margin-left: auto;
+	margin-right: auto;}
+img {border:1px solid black;width:100%;}
+
+video {width: 100%;height: auto;}
+.videoWrapper {position: relative;padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;height: 0;}
+.videoWrapper iframe {position: absolute;top: 0;left: 0;width: 100%;max-width:800px;height: 100%;}
+
+
+
+
+

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+
+<html>
+
+<head><title>3rd part of Visiting Venice  (Part 3) the Rialto Bridge</title>
+<meta name="viewport" content="width = 980" />
+<meta http-equiv="Content-Style-Type" content="text/css; charset=utf-8" />
+<META name=description content="3rd part of Visiting Venice  (Part 3) the Rialto Bridge">
+<meta name="keywords" content="Giudecca, Lido, Santa Lucia railway station, Scalzi Bridge, Grand Canal, Rialto Bridge, Ostello di Venezia, Venice youth hostel, Hotel Danieli, Calatrava Bridge, Bridge of the Constitution, traghetto, Hotel des Bains, Ghetto in Venice, visit Venice, visiting Venice, Venice holiday, Venice vacation, Venice tourism">
+
+<link rel="shortcut icon" href="favicon.ico"> 
+
+<!-- decides colors of links on vertical menu -->
+<style>
+.red {color:red}
+.white {color:white}
+.yellow1 {color:#FFFC17}
+.black {color:black}
+.midnightblue {color:midnightblue}
+.malayword {font-family: "century gothic"; color: "#0000FF"; font-size:18px}
+.inmalay {font-family: "century gothic"; color: "#0000FF"; font-size:18px}
+.yellow {font-family: "century gothic"; color: red; font-size:18px}
+.yellow2 {color:yellow}
+
+</style>
+
+<!-- decides format for vertical menu -->
+<STYLE TYPE="text/css">
+<!--
+ .al { text-align : justify; font-family : verdana,arial,times}
+ A:hover {background:yellow; color : blue}
+A {text-decoration:none }
+-->
+</STYLE>
+
+<!-- for email to work -->
+<script type="text/javascript">
+function mailto(domain,user) 
+{ 
+document.location.href = "mailto:" + user + "@" + domain;
+}
+</script>
+
+<!-- decides your h1 heading format -->
+<style>
+h1 {font-family:arial;font-size:42px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h2 {font-family:arial;font-size:36px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h3  {font-family:arial;font-size:24px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+body {background: #ccc;width: 980px;margin:0 auto;} //or without zero just auto will center your table
+a {text-decoration:none}
+</style>
+
+
+<!-- try for all your intro paragraphs -->
+<style type="text/css">
+.intro {font-family:tahoma;
+font-size: 16px;
+font-weight:bold;}
+</style>
+
+</head>
+<body bgcolor=#cccccc onload='setFocusToTextBox()'>
+<center>
+
+<table width="980"><tr>
+<td valign=top>
+
+<h1>Visiting Venice (Part 3)</h1>
+<br>
+<h3>Rialto Bridge and Market</h3>
+<br />
+<FONT face=tahoma color=black size=3>The Rialto Bridge and its fish and fruit markets are yet another of the must-see places on the tourists' itinerary in Venice.  The bridge, which was the first to be built across the Grand Canal, is unusual in that there are souvenir and other stalls on both sides of it.  As for its world-famous <em>erberia</em> (fruit and vegetable market) and <em>pescaria</em> (fish market) it is said that the biggest restaurant owners and chefs come here very early in the morning to personally select the fish for the table later in the day.  The <em>pescaria</em> has been here for a thousand years so you will be as close as you can be to typical Venetian lifestyle here. But make sure you do not come here on a Sunday or Monday as it is closed on both days (the <em>erberia</em> is only partially open on Monday mornings).  You can easily find the markets once you are at the Rialto Bridge but if you should come by vaporetto the nearest stop for the market is called Rialto Mercato.  After your visit to the Rialto market you might want to cross over to the Ca' d'Oro on the opposite side of the Grand Canal on a traghetto which stops just outside the market and is the shortest, fastest and cheapest (!) way to get there but are you up to it, I mean will you be able to maintain your balance on the rocking boat without falling over?  Be warned that the boat is quite narrow and there is more often than not just standing space as the locals do make frequent use of it.  The upside of course is that you will be able to have a gondola experience for just 50 euro cents!
+<br><br>
+<table width=980><tr><td width=320><a href="venice_pix/rialto_bridge.jpg" target=_blank><img alt="View of the Rialto Bridge from the ground level." title = "View of the Rialto Bridge from the ground level." src="venice_pix/rialto_bridge.jpg"width=320></a><br /><font size=2><em>View of the Rialto Bridge as seen from the ground level.</em></font></td>
+<td width=320><a href="venice_pix/viewfrom_rialtobridge.jpg" target=_blank><img alt="Panoramic view of the Grand Canal from the top of the Rialto Bridge" title = "Panoramic view of the Grand Canal from the top of the Rialto Bridge" src="venice_pix/viewfrom_rialtobridge.jpg"width=320></a><br /><font size=2><em>Panoramic view of the Grand Canal from the top of the Rialto Bridge</em></font></td>
+<td width=320><a href="venice_pix/erberia_market.jpg" target=_blank><img alt="Venice's famous erberia market near the Rialto Bridge" title = "Venice's famous erberia market near the Rialto Bridge" src="venice_pix/erberia_market.jpg"width=320></a><br /><font size=2><em>One of the stalls in Rialto's erberia (fruit and vegetable market).</em></font></td></tr></table>
+
+<h3><span style="background-color:midnightblue;float:left;"> &nbsp;The World's First Ghetto&nbsp;</span></h3>
+<br />
+<FONT face=tahoma color=black size=3>Most tourists to Venice also make a point of visiting the Ghetto, which was the first in the world.
+In fact for three centuries this Jewish ghetto was isolated from the rest of Venice as the whole area had walls around it and the entrance was controlled to prevent the Jews from mixing with the local population.  It was only in 1797 that Napoleon put an end to this segregation and today the area is inhabited not only by Jews but also by the local population.
+If you want to make sure you'll not miss it among the maze of canals and alleys in the Cannaregio area take a vaporetto boat and get off at the Guglie stop.  If you see a long narrow lane nearby at the quay don't be afraid to enter it as it will lead you to the Ghetto (I don't know if they are there all the time but there were 3 guards in uniform chatting at the alley when I passed by).  Once you get to a square you will see the Info Point where a friendly woman will be only too happy to give you a briefing of the whole Ghetto area and how the camp originated.
+<br><br>
+<table width=980><tr>
+<td width=320><a href="venice_pix/jewish_ghetto1.jpg" target=_blank><img alt="The Jewish Ghetto in Cannaregio." title = "The Jewish Ghetto in Cannaregio." src="venice_pix/jewish_ghetto1.jpg"width=320></a><br /><font size=2><em>The world's first Ghetto is no longer restricted to the Jewish community today.</em></font></td>
+<td width=320><a href="venice_pix/jewish_ghetto2.jpg" target=_blank><img alt="The square in the Ghetto" title = "The square in the Ghetto" src="venice_pix/jewish_ghetto2.jpg"width=320></a><br /><font size=2><em>The square in the Ghetto as seen from the "Rio di San Girolamo" end.</em></font></td>
+<td width=320><a href="venice_pix/ghetto_info.jpg" target=_blank><img alt="The Info Point at Ghetto Venezia" title = "The Info Point at Ghetto Venezia" src="venice_pix/ghetto_info.jpg"width=320></a><br /><font size=2><em>Don't hesitate to enter this humble office to learn all about the history of the Ghetto.</em></font></td></tr></table>
+
+<h3><span style="background-color:midnightblue;float:left;"> &nbsp;Some Famous Buildings&nbsp; </span></h3>
+<br />
+Three of the most impressive buildings in Venice most visited by tourists also have the most impressive fa&ccedil;ade.  These are 
+the <em>Basilica di San Marco</em> (St. Mark's Basilica) and the <em>Palazzo Ducale</em> (Doge's Palace), both of which are in St. Mark's Square and the <em>Ca' d'Oro</em> (meaning House of Gold), the fabulous Gothic palace along the Grand Canal in Cannaregio which has now been turned into a small art museum.  In fact its official name is the  <em>Palazzo Santa Sofia</em>.
+<br><br>
+<table width=980 align=right><tr>
+<td width=320><a href="venice_pix/basilicadi_sanmarco.jpg" target=_blank><img alt="St Mark's Basilica in Venice." title = "St Mark's Basilica in Venice." src="venice_pix/basilicadi_sanmarco.jpg"width=320></a><br /><font size=2><em>A close-up of St Mark's Basilica which dominates St. Mark's Square</em></font></td>
+<td width=320><a href="venice_pix/doges_palace.jpg" target=_blank><img alt="The fa&ccedilade;ade of Doge's Palace." title = "The fa&ccedil;ade of Doge's Palace." src="venice_pix/doges_palace.jpg"width=320></a><br /><font size=2><em>The fa&ccedil;ade of Doge's Palace, also in St. Mark's Square.</em></font></td>
+<td width=320><a href="venice_pix/ca'_d'oro.jpg" target=_blank><img alt="The fa&ccedil;ade of Ca' d'Oro." title = "The fa&ccedil;ade of Ca' d'Oro." src="venice_pix/ca'_d'oro.jpg"width=320></a><br /><font size=2><em>The magnificent fa&ccedil;ade of Ca' d'Oro as seen from the other side of the Grand Canal.</em></font></td></tr></table>
+<br /><br />
+
+<h3><span style="background-color:midnightblue;float:left;"> &nbsp;Lido and the Venice Film Festival&nbsp; </span></h3>
+<br />
+<FONT face=tahoma color=black size=3>Lido, home to the Venice Film Festival, is the terminus of the vaporetto Line 1 and boasts of a sandy beach which is very popular in summer.  Much of the 12km beach though has been privatized and lined with hundreds of private cabins for changing facilities.   The beach was the setting for Thomas Mann's "Death in Venice" though the famous Hotel des Bains has been closed recently for repair.  Hotel Excelsior is where all the cinema people stay nowadays during the Venice Film Festival, the next event being scheduled from 27 August to 06 September, 2014.  It takes hardly 15 minutes by the vaporetto boat from San Marco and another 10 minutes leisurely walk from the boat stop to the public section of the beach (as you alight from the boat cross the street ahead and just walk along the Gran Viale S.M. Elisabetta right to the end).  &nbsp;If you want a taste of Italian ice-cream look out for a highly recommendable ice-cream shop along the Gran Viale hardly 50m down from the vaporetto terminus (it's to your left).  I was happily surprised that the famous Italian ice-cream was still available in winter.  There were many different varieties to choose from there and at 2 euros for two big scoops, it was well worth it. 
+<br><br>
+<table width=980><tr>
+<td width=320><a href="venice_pix/approaching_lido.jpg" target=_blank><img alt="The vaporetto terminus at Lido" title = "The vaporetto terminus at Lido" src="venice_pix/approaching_lido.jpg"width=320></a><br /><font size=2><em>First glimpse of Lido as the vaporetto approaches its terminus.</em></font></td>
+<td width=320><a href="venice_pix/lido_beach.jpg" target=_blank><img alt="Lido beach in Venice." title = "Lido beach in Venice." src="venice_pix/lido_beach.jpg"width=320></a><br /><font size=2><em>The stretch of the 12km Lido beach that has still not been privatized.</em></font></td>
+<td width=320><a href="venice_pix/hotel_desbains.jpg" target=_blank><img alt="Hotel des Bains made famous in the film Death in Venice" title = "Hotel des Bains made famous in the film Death in Venice" src="venice_pix/hotel_desbains.jpg"width=320></a><br /><font size=2><em>Hotel des Bains made famous in the film "Death in Venice" is under repair.</em></font></td>
+</tr></table>
+
+<h3><span style="background-color:midnightblue;float:left;"> &nbsp;Giudecca - the Other Face of Venice&nbsp; </span></h3>
+<br />
+A very important festival, the <em>Festa della Redentore</em> is held at the Redentore Church on Giudecca island on the third Sunday of July every year to commemorate the end of the plague of 1577.  The night before that there is a huge fireworks display on the Giudecca Canal.
+<br />Though it's essentially a residential area today there is still a long-established shipyard there, a vestige of its industrial past.  Although Giudecca is not on the popular tourists' circuit yet the Redentore or Palanca boat stops there will take you to St. Mark's Square in hardly 10 minutes.
+<br />It is also in Giudecca that the only youth hostel in Venice <em>(Ostello Venezia)</em> is situated, just a stone's throw from the Vitelle vaporetto stop.  Next to it is a really good pizza shop.  For 3 euros you can have a big piece of pizza margherita that is enough to take care of your lunch.  Not only cheap but also yummy.
+<br />And if you should walk further down towards the Redentore boat stop and then on to the Palanca boat stop (and exploring the quiet streets behind them) you will never miss a small bar/caf&eacute; filled with locals only (remember this is not a touristy area). And no wonder, because it sells one of the best sandwiches I have ever tasted and at only 1.40 euro each.  The bread is really out of this world.  There are different types of fillings and I tried one with thon and another with spinach.  They were more than just titbits and I didn't need to have lunch after that.
+ &nbsp;Who says Venice is only for the rich?
+<br><br>
+<table width=980 align=right><tr>
+<td width=320><a href="venice_pix/redentore_church.jpg" target=_blank><img alt="The Redentore Church on Giudecca island." title = "The Redentore Church on Giudecca island." src="venice_pix/redentore_church.jpg"width=320></a><br /><font size=2><em>The Redentore Church on Giudecca island.<br><br></em></font></td> 
+<td width=320><a href="venice_pix/shipyard_giudecca.jpg" target=_blank><img alt="A shipyard behind the Redentore vaporetto stop" title = "A shipyard behind the Redentore vaporetto stop" src="venice_pix/shipyard_giudecca.jpg"width=320></a><br /><font size=2><em>A shipyard behind the Redentore stop.<br><br></em></font></td>
+<td width=320><img alt="The Venise youth hostel is located in Giudecca" title = "The Venise youth hostel is located in Giudecca" src="venice_pix/ostello_venice.jpg"width=320><br /><font size=2><em>The Venise youth hostel in Giudecca.<br><br></em></font></td></tr></table>
+<br>
+<img title="There is something magical about Venice at night" alt="There is something magical about Venice at night" src="venice_pix/night_magical.jpg" width=980><font size=2><em>There is something magical about Venice at night.</em></font>
+
+</center>
+
+<br>
+<center><? include "all_cities.inc"; ?></center>
+
+</body>
+</html>

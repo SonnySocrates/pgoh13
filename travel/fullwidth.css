@@ -1,0 +1,176 @@
+@charset "UTF-8";
+
+/*
+*    Mass Reset
+*/
+*{ margin: 0; padding: 0; border: 0; }
+
+/*
+*    Normal layout
+*/
+body{ background-color: #cccccc; font: normal 1rem Arial, sans-Serif;padding-left:5px;overflow-x: hidden; }
+<!-- added overflow to belgium.css for fullwidth  -->
+
+#wrapper{background-color:"#cccccc";
+    width:100%;max-width:1200px;margin:0 auto; font-family:arial;}
+* a {text-decoration:none;font-size:1rem;}
+a:hover {background-color: red;}
+ #content{ margin-left: 0; padding: 2px; position: relative; z-index: 100; }
+.right {display:block;float:right; margin-right:0;}
+.left {display:block;float:left; margin-left:10px;}
+p {max-width:960px;margin:auto;}
+.extendfull {padding-left: 3000px;margin-left: -3000px;padding-right: 3000px;margin-right: -3000px;}
+<!-- to have fullwidth  -->
+
+<?/* ssurfers */?>
+.clear {clear:both;height:20px;}
+body .31pc_LC {width:31%;float:left;padding-right:2%;}
+body .65pc_RC {width:65%;float:right;}
+.small_left_col{width:31.2%;float:left;padding-right:2%;}
+.two_col.small_left {29.8% top repeat-y;}body .two_col.small_left .small_left_col{width:31.2%;float:left;padding-right:2%;}body .two_col.small_left .large_right_col{width:65.5%;float:right;}
+.large_right_col .post_title{display:block;margin:40px 0px;color:#333333;font-size:23px;font-family:"HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;font-weight:600;}body .large_right_col img{margin-top:10px;display:block;}
+
+
+
+
+h1 {background-color:midnightblue;color:yellow;font-family:arial;display:inline-block;padding:0 10px;text-align:center;margin-bottom:10px;margin-left:auto;margin-right:auto;}
+h2 {background-color:midnightblue;color:yellow;font-family:arial;display:inline-block;padding:0 10px;margin-left: auto;margin-right:auto;}
+h3 {background-color:midnightblue;color:yellow;font-family:arial;display:inline-block;padding:0 10px;margin-left: auto;margin-right:auto;}
+img {border:1px solid black;width:100%;}
+
+video {
+  width: 100%;
+  height: auto;
+}
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+/*
+*    When screen is smaller than 500px, one column
+*/
+@media only screen and (max-width:500px){
+p {font-size:1rem;}
+.hidden_inmobile {
+        display:none;
+    }	
+#wrapper #content{ margin-left: 0; }
+h1 {font-size:1.2rem;}
+h2 {font-size:1rem;}
+section {vertical-align:top;
+display: inline-block;
+  
+  margin: 1%;
+  width: 95%;
+height:100%;
+padding-left:5px;
+font-size:1rem;
+}
+nav {font-size:0.8rem;}
+}
+
+
+
+
+
+
+/*
+*    When screen is between 501px and 730px, 2 columns
+*/
+@media only screen and (min-width:501px) and (max-width:730px){
+p {font-size:1rem;}
+.hidden_inmobile {
+        display:none;
+    }	
+#wrapper #content{ margin-left: 0; }
+h1 {font-size:1.5rem;}
+section {
+box-sizing:border-box;
+display: inline-block;
+vertical-align:top;
+ 
+  margin: 1%;
+  width: 45%;
+height:70%;
+padding-left:5px;
+font-size:1rem;
+}
+}
+
+
+
+
+
+
+/*
+*    When screen is between 731px and 960px, 3 columns
+*/
+@media only screen and (min-width:731px) and (max-width:960px){
+p {font-size:1rem;}
+.hidden_indesktop {
+        display:none;
+    }	
+#wrapper #content{ margin-left: 0;margin-right:auto;max-width:800px; }
+h1 {font-size:2rem;}
+
+section {
+
+display: inline-block;
+vertical-align:top;
+
+  margin: 1%;
+
+  width: 30.2%;
+
+height:44%;
+padding-left:5px;
+font-size:1rem;
+}
+}
+
+
+
+
+
+
+
+
+/*
+*    When screen is bigger than 960px, 4 columns
+*/
+@media only screen and (min-width:961px){
+.hidden_indesktop {
+        display:none;
+    }
+	#wrapper #content{max-width:1200px;margin-left:auto;
+	margin-right:auto;}
+h1 {font-size:2.2rem;}
+h2 {font-size:1.2rem;}
+section {vertical-align:top;
+display: inline-block;
+ 
+   margin: 1%;
+padding:1%;
+padding-bottom:5px;
+  width: 20%;
+}
+}

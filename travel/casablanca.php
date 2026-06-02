@@ -1,0 +1,96 @@
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head><title>Visiting Casablanca (in pictures)</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+#whyclose {float:right;
+	padding-left:5px;
+	padding-right:5px;
+	font-family: verdana;
+	font-size: 12px;
+	font-weight: normal;
+	margin-left: 200px;
+	margin-right: 50px;
+	color: midnightblue;
+	border-style:solid;
+	border-width:2px;
+	border-color:red;
+	background-color: yellow;
+	        }
+
+#whyclose2 {
+	padding-left:5px;
+	padding-right:5px;
+	font-family: verdana;
+	font-size: 12px;
+	font-weight: bold;
+	margin-left: 200px;
+	margin-right: 50px;
+	color: white;
+	border-style:solid;
+	border-width:2px;
+	border-color:red;
+	background-color: black;
+	        }
+body {background: #ccc;max-width: 980px;margin: auto;} //will center your table
+h1 {font-family:arial;font-size:42px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h2 {font-family:arial;font-size:36px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h3  {font-family:arial;font-size:24px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+a {text-decoration:none}
+</style>
+
+</head>
+<body onload='setFocusToTextBox()'>
+
+<table width="980"><tr>
+<td valign="top">
+
+
+
+<b><a href="http://www.weather-forecast.com/locations/Casablanca/forecasts/latest" target="_blank">&nbsp;&nbsp;Casablanca weather outlook</a>  | <a href="http://www.sacred-destinations.com/morocco/casablanca-map" target="_blank">City map</a></b>
+<br>
+<h1 style="font-family:arial;font-size:42px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px">Visiting Casablanca (in pictures)</h1>
+
+<FONT face=tahoma color=black size=3>
+<p>Casablanca (or simply Casa to the locals) has benefited greatly from the film by the same name, giving the city a mythical stature which it undoubtedly deserves.
+<br />The Hassan II Mosque here is the biggest attraction as its minaret is the highest in the world.  The mosque itself though is the third biggest mosque in the world  (after the ones in Mekkah and
+Medina).  
+<br />
+<table><tr><td>
+
+<table width="980"><tr>
+<td valign=top width="320"><a href=maroc_pix/corniche_frommosque.jpg target=_blank><img src=maroc_pix/corniche_frommosque300.jpg width="320" title="View of La Corniche from the grounds of La Grande Mosquee." alt="The Hassan II Mosque"></a><br>View of La Corniche from the grounds of La Grande Mosquee (Hassan II Mosque).</td>
+<td valign=top width="320"><a href=maroc_pix/casa_esplanade.jpg target=_blank><img src=maroc_pix/casa_esplanade300.jpg width="320" title="Majestic view from a cafe of Casablanca's Ain-Diab beach at La Corniche." alt="Casablanca's Ain-Diab beach at La Corniche"></a><br>Majestic view from a cafe of the Ain-Diab beach at La Corniche.</td>
+<td valign=top width="320"><a href=maroc_pix/casa_cmarket.jpg target=_blank><img src=maroc_pix/casa_cmarket300.jpg width="320" title="Fish displayed at a stall in Casablanca's central market." alt="Casablanca's central market"></a><br>Fish displayed at a stall in Casablanca's central market.</td>
+</tr></table>
+<br>
+
+<table><tr>
+
+<td valign=top width="320"><a href=maroc_pix/casa_royalpalace.jpg target=_blank><img src=maroc_pix/casa_royalpalace300.jpg width="320" title="The Royal Palace near the Habbous district in Casablanca." alt="The Royal Palace at Habbous, Casablanca"></a><br>The Royal Palace near the Habbous district in Casablanca.</td>
+<td valign=top width="320"><a href=maroc_pix/habbous_casa.jpg target=_blank><img src=maroc_pix/habbous_casa300.jpg width="320" title="Main entrance to the Habbous (new medina) district." alt="Habbous (new medina) district"></a><br>Main entrance to the Habbous (new medina) district.</td>
+<td valign=top width="320"><a href=maroc_pix/sunset_casa.jpg target=_blank><img src=maroc_pix/sunset_casa300.jpg width="320" title="Sunset at Casablanca as seen from the Esplanade at Boulevard de l'Ocean-Atlantique." alt="Sunset at Casablanca"></a><br>Sunset at Casa as seen from the Esplanade at Bld de l'Ocean-Atlantique.</td>
+</tr></table>
+<br>
+
+<table><tr>
+<td valign=top width="320"><a href=maroc_pix/casa_marabout.jpg target=_blank><img src=maroc_pix/casa_marabout300.jpg width="320" title="The dome of Marabout Sidi Bou Smara." alt="The dome of Marabout Sidi Bou Smara."></a><br>The dome of Marabout Sidi Bou Smara.  It is said that when the marabout passed through the city he was pelted with stones when he asked for water.  He then hit the ground with his pilgrim's stick upon which water gushed out.</td>
+<td valign=top width="320"><a href=maroc_pix/ricks_cafe.jpg target=_blank><img src=maroc_pix/ricks_cafe300.jpg width="320" title="The Rick's Cafe in Casablanca was constructed with the setting of the film in mind." alt="Rick's Cafe, Casablanca"></a><br>Those who like the film "Casablanca" starring Humphrey Bogart and Ingrid Bergman (one of those films that are immortal) will be familiar with Rick's Cafe.  The Rick's Cafe here was constructed with the setting of the film in mind.</td>
+<td valign=top width="320"><a href=maroc_pix/casa_pigeons_fountain.jpg target=_blank><img src=maroc_pix/casa_pigeons_fountain300.jpg width="320" title="Pigeons at fountain near Mohamed V Square in Casablanca" alt="Pigeons at fountain near Mohamed V Square in Casablanca"></a><br>Near to the Mohamed V Square is a fountain which is home to hundreds of pigeons in the daytime but comes to life only at certain hours in the evening when there is a magnificent display of lights and colours.</td>
+</tr></table>
+<br>
+
+<table><tr>
+<td valign=top width="320"><a href=maroc_pix/casa_Hassanmosque.jpg target=_blank><img src=maroc_pix/casa_Hassanmosque300.jpg width="320" title="La Grande Mosquee Hassan II in Casablanca" alt="La Grande Mosquee Hassan II in Casablanca"></a><br>La Grande Mosquee Hassan II was built on the edge of the ocean.</td>
+<td valign=top width="320"><a href=maroc_pix/Casa_clock_mohdV.jpg target=_blank><img src=maroc_pix/Casa_clock_mohdV300.jpg width="320" title="Illuminated clock at Place Mohamed V, Casablanca" alt="Illuminated clock at Place Mohamed V, Casablanca"></a><br>Illuminated clock at Place Mohamed V with its red and green needles.</td>
+<td valign=top width="320"><a href=maroc_pix/mosque_habbous.jpg target=_blank><img src=maroc_pix/mosque_habbous300.jpg width="320" title="The Moulay Youssef Mosque in the Habbous (new medina) district." alt="The Moulay Youssef Mosque in Habbous, Casablanca"></a><br>The Moulay Youssef Mosque in the Habbous (new medina) district.</td>
+</tr></table>
+
+</td></tr></table>
+
+<center><? include "all_cities.inc"; ?></center>
+
+</body></html>

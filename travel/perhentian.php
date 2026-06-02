@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head><title>Visiting Perhentian islands (Pulau Perhentian).  Part 6 of Visiting Malaysia.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Visiting Perhentian islands (Pulau Perhentian).  Part 6 of Visiting Malaysia.">
+<meta name="keywords" content="visit Malaysia, tourism Malaysia, Visiting Perhentian islands, Visiting Pulau Perhentian">
+<style>
+h1 {font-family:arial;font-size:42px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h2 {font-family:arial;font-size:36px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h3  {font-family:arial;font-size:24px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+a {text-decoration:none}
+</style>
+</head>
+
+<body bgcolor=#cccccc onload='setFocusToTextBox()'>
+<center>
+
+<table width="980"><tr>
+<td width="780" valign="top">
+
+<b><a href=kl.php target=_blank>Kuala Lumpur</a> | <a href=penang1.php target=_blank>Penang</a> | <a href=melaka.php target=_blank>Malacca</a> | <a href=kota_baru.php target=_blank>Kota Bharu</a> | <a href=cameron.php target=_blank>Cameron Highlands</a> | <a href=perhentian.php>Perhentian Islands</a></b>
+
+<center><h1><span style="background-color:midnightblue;">Perhentian Islands (Pulau Perhentian)</span></h1></center>
+
+<h3>The Perhentian islands (Pulau Perhentian)</h3>
+<p><FONT face=tahoma color=black size=3>After the invigorating mountain air at Cameron Highlands how about some bracing sea air?  From Cameron Highlands it is possible to go to the Perhentian islands, called <em>Pulau Perhentian</em> by the local folks (<em>pulau</em> meaning "island" in Malay) by mini bus with one of the local tourist agencies (see bus time-table below).  You might want to consider this option if you want to bypass Kota Bharu which is how most visitors go to the Perhentian islands and avoid the hassle of having to arrange for a boat by yourself when you arrive at the take-off jetty at Kuala Besut.
+
+<table width="980"><tr>
+<td align="left" width="320" valign="top">
+		<a href=msiapix_new/approaching_perhentian.jpg><img src="msiapix_new/approaching_perhentian250.jpg" align="right" width="320" title="Approaching Pulau Perhentian Besar by motorboat." alt="Approaching Pulau Perhentian Besar by motorboat."></a><br /><em><font size=2>Approaching Pulau Perhentian by boat.</font></em>
+</td>
+<td align="left" width="320" valign="top">
+	<a href=msiapix_new/perhentian_besar5.jpg><img src="msiapix_new/perhentian_besar5250.jpg" align="right" width="320" title="Idyllic evening in Pulau Perhentian." alt="Idyllic evening in Pulau Perhentian."></a><br /><em><font size=2>An idyllic evening in Pulau Perhentian...</font></em>
+</td>
+<td align="left" width="320" valign="top">
+	<a href=msiapix_new/perhentian_kecil.jpg><img src="msiapix_new/perhentian_kecil250.jpg" align="right" width="320" title="Fine sand and crystal-clear water." alt="Fine sand and crystal-clear water."></a><br /><em><font size=2>..with fine sand and crystal-clear water.</font></em>
+</td></tr></table>
+
+
+<br />People heading for the Perhentian islands usually spend a night in Kota Bharu, then take a taxi to the Kuala Besut jetty next morning (the taxi ride takes about 1 hour and 15 minutes), from where they can take a boat to one of the two islands, famous for their crystal-clear waters and fine sand.  The motor boats go at a terrific speed so be prepared for a bumpy ride if the waters get a bit rough.  The sea there abounds with corals, making snorkelling, even for absolute beginners, an interesting occupation as there is so much to see beneath the sea waters.  If you should join one of the snorkelling trips, you will first be shown how to breathe through your mouth with the snorkel and then you will be taken to specific spots by motor-boat where, from your floating face-downward position in the sea, you will be able to see sea turtles and even sharks - but don't worry, the sharks you see here are not dangerous.
+(By the way, you don't need to be a great swimmer to take part in the snorkelling trips).
+
+
+<br /><br /><table align=left width=300><tr><td valign=top><a href=msiapix_new/cameron_highlands_buses.jpg target=_blank><img src=msiapix_new/cameron_highlands_buses250.jpg width=300></a></td></tr><tr><td><font size=2><em>Buses run to all parts of Malaysia from Cameron Highlands - to Kuala Lumpur and Penang of course, but also to Taman Negara for the national wildlife park, to Kuala Besut, or all the way to Pulau Perhentian (with the boat trip included), to Gua Musang and to Kota Bharu.  (Click to enlarge.)</em></font></td></tr></table>
+
+<table width=660><tr><td valign=top><a href=msiapix_new/perhentian_besar.jpg target=_blank><img src=msiapix_new/perhentian_besar500.jpg width=660></a></td></tr><tr><td><font size=2><em>The jetty at the bigger of the two Perhentian islands.  The sea on this part of the island is really ideal for swimming as the water here is crystal-clear and clean and the beach is covered with fine, white sand.</em></font></td></tr></table>
+
+<br />
+<table width=980><tr><td valign=top width=480><a href=msiapix_new/perhentian_beach.jpg><img src="msiapix_new/perhentian_beach375.jpg" width=480></a></td><td valign=top width=490><a href=msiapix_new/perhentian_trees.jpg><img src="msiapix_new/perhentian_trees375.jpg" width=480></a></td></tr>
+<tr><td colspan=2><font size=2><em>Two more views of the stretch of fine, sandy beach near the principal jetty at Pulau Perhentian Besar.</em></font>
+</td></tr></table>
+
+</td></tr></table>
+</td></tr></table>
+
+<center><? include "all_cities.inc"; ?></center>
+
+</center>
+</body></html>

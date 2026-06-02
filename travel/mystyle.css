@@ -1,0 +1,74 @@
+@charset "UTF-8";
+/*
+*    Mass Reset
+*/
+* { margin: 0; padding: 0; border: 0; }
+/*
+*    Normal layout below, common to all
+*/
+body {background-color: #cccccc;}
+img {max-width:800px;margin-left:auto;margin-right:auto;border:1px solid black;}
+h1 {display: inline-block;padding:0 20px;background-color:midnightblue;color:yellow;font-family:arial;font-size:2.5rem;margin:auto}
+h2 {display: inline-block;padding:0 20px;background-color:midnightblue;color:yellow;font-family:arial;font-size:2rem;}
+h3 {display: inline-block;color:midnightblue;font-family:arial;font-size:1.5rem;}
+* a {text-decoration:none;font-size:1.1rem;font-family:arial;} /* bigger size for links?  */
+p {font-size:1rem;font-family:tahoma;width:100%;max-width:980px;}
+section {display: inline-block;float:left;margin: 1%;padding-left:5px;font-size:1rem;vertical-align:top;} /* try inline-block to see diffe */
+video {width: 800px;height: 600px;} /* if not try width: 100%;height: auto;  */
+.videoWrapper {position: relative;padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;height: 0;}
+.videoWrapper iframe
+{position: relative;top: 0;left: 0;width: 800px;height: 600px;} /* try position:absolute;width:100%;height: 100%;  */
+.hidden_inmobile {display:none;}
+.hidden_indesktop {display:none;}
+#wrapper{width:100%;margin:0 auto;}
+#content{ margin-left: 0; padding: 2px; position: relative; z-index: 100; }
+
+/*  Below for when screen is smaller than 440px, row with one single column  */
+@media only screen and (max-width:440px)
+{	
+section {margin: 2%;width: 90%;height:100%;}
+h1 {font-size:1.5rem;}
+}
+
+
+/*  Below for when screen is between 441px and 730px, row with 2 columns  */
+@media only screen and (min-width:441px) and (max-width:730px)
+{
+section {width: 46%;height:70%;}
+}
+
+
+/*  Below for when screen is between 731px and 1080px, row with 3 columns  */
+@media only screen and (min-width:731px) and (max-width:1080px)
+{
+section {width: 29%;height:44%;}
+}
+
+<?/*
+/*  Below for when screen is bigger than 1080px, row with 4 columns  */
+@media only screen and (min-width:1081px)
+{
+#wrapper #content{width: 17%;height:40%}
+section {display: inline-block;float:left;margin: 2%;padding-left:5px;font-size:1rem;vertical-align:top;}
+}  */?>
+
+@media only screen and (min-width:961px){
+.hidden_indesktop {
+        display:none;
+    }
+	#wrapper #content{max-width:1200px;margin-left:auto;
+	margin-right:auto;}
+h1 {font-size:2.5rem;}
+h2 {font-size:1.2rem;}
+section {vertical-align:top;
+display: inline-block;
+ 
+   margin: 1%;
+padding:1%;
+padding-bottom:5px;
+  width: 20%;
+}
+}
+
+

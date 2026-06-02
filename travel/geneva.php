@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<TITLE>Visiting Geneva (1). Useful information for those who are visiting Geneva or who plan to visit Geneva.</TITLE>
+<meta name="viewport" content="width = 980" />
+<META name=description content="GENEVA IN PHOTOS.  A page of interest to those who are visiting Geneva or who plan to visit Geneva.">
+<meta name="keywords" content="Geneva, visit Geneva, visiting Geneva, Palais des Nations, 3-legged chair, visit geneva, photos of geneva, tourism geneva, Jet d'Eau, water-jet fountain, Parc des Bastions, Lac L�man, Caf� du Bourg de Four, Reformation Wall, Place du Bourg de Four, r�sti, Jardin Anglais, English Garden, les bains des paquis, Ariana Park, Place Cornavin, Mahatma Gandhi statue">
+
+<style type="text/css">
+body {background: #ccc;max-width: 980px;margin: auto;} //will center your table
+h1 {font-family:arial;font-size:42px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h2 {font-family:arial;font-size:36px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h3  {font-family:arial;font-size:24px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+<!--
+A{text-decoration:none}
+-->
+</style>
+
+</head>
+
+<body bgcolor=#cccccc onload='setFocusToTextBox()'>
+<center>
+
+<table width="980"><tr>
+<td valign=top>
+
+<table width=980><tr><td>
+
+<b>
+<a href="https://www.lachainemeteo.com/meteo-suisse/ville-709/previsions-meteo-geneve-aujourdhui" target=_blank>Weather forecast for Geneva</a> | <a href=http://www.tpg.ch/fr/horaires-et-reseau/horaires/par-ligne/index.php target=_blank>Bus/tramway lines and time-tables</a> | <a href=https://www.geneve.com/en target=_blank>Geneva Tourism Office</a> | <a href=https://www.myswitzerland.com/en/destinations/geneva/ target=_blank>Destination Geneva</a></b></td></tr></table>
+
+<!-- <MARQUEE style="padding:5px; color:yellow; background:navy; font-weight:bold;">This year's Geneva Festival is from 
+21st July to 14th August 2011.</MARQUEE> -->
+
+<center><h1 style="font-family:arial;font-size:42px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px">Visiting Geneva (1)</h1></center>
+
+<br />
+
+<table><tr><td>
+
+<table><tr>
+<td valign=top width=320><a href=../travel/geneva/geneva_3leggedchair.jpg target=_blank><img src=../travel/geneva/geneva_3leggedchair.jpg width=320></a><br>The 3-legged chair in Geneva looms opposite the "Palais des Nations".  Standing 12 metres high, <em>The Broken Chair</em> is a reminder of the tragedy caused to human lives and limbs by land mines.</td>
+<td valign=top width=320><a href=../travel/geneva/geneva_jetdeau.jpg target=_blank><img src=../travel/geneva/geneva_jetdeau.jpg width=320></a><br>The "Jet d'Eau" (water sprout) has always dominated the Geneva skyline.  An awe-inspiring sight to see lake water pumped to a height of 140 metres, especially when there is a strong wind blowing.</td>
+<td valign=top width=320><a href=../travel/geneva/geneva_swimmingatLacLeman.jpg target=_blank><img src=../travel/geneva/geneva_swimmingatLacLeman.jpg width=320></a><br><em>Lac L&eacute;man</em>, also called <em>Lac de Gen&eacute;ve</em> (hence its English name Lake Geneva), is a good place to go swimming on sunny days.  It is also a favourite picnic spot for families as children can play on the lake water in complete safety.</td>
+</tr></table>
+<br>
+
+<table><tr>
+<td valign=top width=320><a href=../travel/geneva/geneva_entranceParcDesBastions.jpg target=_blank><img src=../travel/geneva/geneva_entranceParcDesBastions.jpg width=320></a><br>The entrance to the "Parc des Bastions" which, besides being a popular park where public functions are held, is also home to the University of Geneva.</td>
+<td valign=top width=320><a href=../travel/geneva/geneva_reformationwall.jpg target=_blank><img src=../travel/geneva/geneva_reformationwall.jpg width=320></a><br>The Reformation Wall in the park.  Work on this monument, which is 100 metres long, started in 1909 and lasted 8 years.  It was built in honour of John Calvin and other Protestant reformers.</td>
+<td valign=top width=320><a href=../travel/geneva/geneva_oldtown.jpg target=_blank><img src=../travel/geneva/geneva_oldtown.jpg width=320></a><br>After the promenade along the "Parc des Bastions" it's only a short walk up a hilly slope nearby to explore the old town of the city.</td>
+</tr></table>
+<br>
+
+<table><tr>
+<td valign=top width=320><a href=../travel/geneva/geneva_cafedubourgdefour.jpg target=_blank><img src=../travel/geneva/geneva_cafedubourgdefour.jpg width=320></a><br>The Caf&eacute; du Bourg de Four, famous for its r&ouml;sti,  a potato dish considered by many Swiss as their national dish, is at the Place du Bourg de Four in the old town.</td>
+<td valign=top width=320><a href=../travel/geneva/geneva_mountain.jpg target=_blank><img src=../travel/geneva/geneva_mountain.jpg width=320></a><br>Although Geneva is not the capital of Switzerland it has gained international renown as it is home to the United Nations European office as well as the International Red Cross and the WHO.
+</td>
+<td valign=top width=320><a href=../travel/geneva/geneva_giantfootball.jpg target=_blank><img src=../travel/geneva/geneva_giantfootball.jpg width=320></a><br>The water fountain seen in all its splendour from the grounds of the Jardin Anglais (English Garden), another popular park in Geneva.  The football was in conjunction with Euro 2008.</td>
+</tr></table>
+<br>
+
+<table><tr>
+<td valign=top width=320><a href=../travel/geneva/geneva_LesBainsDesPaquis.jpg target=_blank><img src=../travel/geneva/geneva_LesBainsDesPaquis.jpg width=320></a><br>Entrance to  "les Bains des Paquis".  On a sunny day this is the place to go for sunbathing or a swim in Lac L&eacute;man (Lake Geneva).</td>
+<td valign=top width=320><a href=../travel/geneva/geneva_LacLeman.jpg target=_blank><img src=../travel/geneva/geneva_LacLeman.jpg width=320></a><br>Here one can also eat and drink picnic-style as it is a place where one comes to spend a whole afternoon with friends or in families.</td>
+<td valign=top width=320><a href=../travel/geneva/geneva_baskingatLacLeman.jpg target=_blank><img src=../travel/geneva/geneva_baskingatLacLeman.jpg width=320></a><br>Another section of "les Bains des Paquis".  Just lazing and sunbathing - what a great way to chill out after the weekly grind!</td>
+</tr></table>
+<br>
+
+<table><tr>
+<td valign=top width=320><a href=../travel/geneva/geneva_UNgrounds.jpg target=_blank><img src=../travel/geneva/geneva_UNgrounds.jpg width=320></a><br>The new wing of the Palais des Nations, which houses the Geneva UN Office, centre stage of the Human Rights Council where human rights is often the subject of heated debates.</td>
+<td valign=top width=320><a href=../travel/geneva/geneva_UNhall.jpg target=_blank><img src=../travel/geneva/geneva_UNhall.jpg width=320></a><br>The long hall is lined on both sides with gifts from member countries of the UN, as can be seen from the photo.  The  Palais des Nations is certainly well worth a visit.</td>
+<td valign=top width=320><a href=../travel/geneva/geneva_UNconferenceroom_decoration.jpg target=_blank><img src=../travel/geneva/geneva_UNconferenceroom_decoration.jpg width=320></a><br>Gigantic paintings covering the wall and ceiling of one of the numerous U.N. conference rooms at the Palais des Nations.</td>
+</tr></table>
+<br>
+
+<table><tr>
+<td valign=top width=320><a href=../travel/geneva/geneva_magiccarpet.jpg target=_blank><img src=../travel/geneva/geneva_magiccarpet.jpg width=320></a><br>China's gift of a "magic" carpet to the Palais des Nations, the U.N. Office in Geneva.  Try to look at it from different angles and you'll see why it is "magic".</td>
+<td valign=top width=320><a href=../travel/geneva/geneva_railwaystation.jpg target=_blank><img src=../travel/geneva/geneva_railwaystation.jpg width=320></a><br>The railway station at Place Cornavin, on the Right Bank, is  hardly a three-and-a-half-hour train ride from the Gare de Lyon station in Paris.</td>
+<td valign=top width=320><a href=../travel/geneva/geneva_tram.jpg target=_blank><img src=../travel/geneva/geneva_tram.jpg width=320></a><br>This is not a train but one of the omnipresent tramways (there are six tramway lines) that link Geneva city to its neighbouring districts.<br /></td>
+</tr></table>
+
+<br>
+<img src=../travel/geneva/manor_shoppingmall.jpg width=900>
+
+<br><br>
+<table><tr>
+<td valign=top width=320><a href=../travel/geneva/geneva_euro2008.jpg target=_blank><img src=../travel/geneva/geneva_euro2008.jpg width=320></a><br>This giant football appeared above the water spout throughout Euro 2008 which took place in Switzerland and Austria in June that year.  The rainbow adds a nice touch of colour to the water jet.</td>
+<td valign=top width=320><a href=../travel/geneva/geneva_gandhi.jpg target=_blank><img src=../travel/geneva/geneva_gandhi.jpg width=320></a><br>This statue of Mahatma Gandhi is a gift from the Indian government to the city of Geneva.  It was unveiled on the 14th of November 2007 at Ariana Park near the Palais des Nations. (Photo by G. Goh)</td>
+<td valign=top width=320><a href=../travel/geneva/geneva_cityhall.jpg target=_blank><img src=../travel/geneva/geneva_cityhall.jpg width=320></a><br>Flags and buntings decorate the City Hall, which is in the old town and is not far from the oldest square in Geneva called "Place du Bourg de Four".<br /><br />
+<a href=geneva_page2.php target=_blank>More photos of Geneva.</a></td>
+</tr></table>
+
+</td></tr></table>
+</td></tr></table>
+
+<center><? include "all_cities.inc"; ?></center>
+
+</center>
+</body></html>

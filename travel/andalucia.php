@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head><title>Visiting Andalucia in Spain: Malaga, Ronda, Seville, Granada and Cordoba.  Planning your holiday in advance.</title>
+<meta name="viewport" content="width = 980" />
+<meta http-equiv="Content-Style-Type" content="text/css; charset=ISO-8859-1" />
+<meta name="description" content="Visiting Andalucia in Spain: Malaga, Ronda, Seville, Granada and Cordoba.">
+<meta name="keywords" content="Visiting Andalucia, visit Andalucia, tourism Andalucia, Andalucia, Malaga, Ronda, Sevilla, Seville, Granada, Cordoba, Setenil de las Bodegas, El Palo beach, Costa del Sol, Malagueta beach, Paseo Maritimo de Pablo Ruiz Picasso, espeto de sardinas, Feria de Malaga, El Tajo gorge, Puente Nuevo, Real Alcazar Sevilla, Royal Alcazar Sevilla, Plaza de Espa�a Sevilla, Maria Luisa park Sevilla, Jewish quarter of Sevilla, Santa Cruz Sevilla, La Giralda, Catedral de Sevilla, Alhambra Granada, Alcazaba, Generalife gardens, Santa Iglesia Catedral Cordoba, Mezquita de Cordoba, Alcazar de los Reyes Cristianos Cordoba">
+
+<style>
+.white{color:white}
+.red{color:red}
+.darkblue{color:darkblue}
+</style>
+
+<style type="text/css">
+#whyclose {
+	padding-left:5px;
+	padding-right:5px;
+	font-family: verdana;
+	font-size: 14px;
+	font-weight: bold;
+	margin-left: 180px;
+	margin-right: 180px;
+	color: midnightblue;
+	border-style:solid;
+	border-width:3px;
+	border-color:red;
+	background-color: beige;
+	        }
+</style>
+
+<style type="text/css">
+h1 {font-family:arial;font-size:42px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h2 {font-family:arial;font-size:36px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+h3  {font-family:arial;font-size:24px;background-color:midnightblue;color:yellow;display:inline-block;padding:0 15px}
+a {text-decoration:none}
+</style>
+<style type="text/css">
+
+p  {padding-left:20px;padding-right:20px;}
+<!--
+body {background-color: #cccccc; font-family:Arial, Helvetica, sans-serif; font-size:12px;font-weight:solid; color:black;}
+
+body {border:0; margin:0; padding:0;}
+
+#travelbar-container {background:yellow;color:midnightblue;font-weight:bold;font-size:10px;border:1px solid black;padding-left:5px;margin:5px;}
+
+#travelbar {
+margin-left:5px;
+}
+
+#travelbar {
+height:34px;
+line-height:16px;
+}
+
+#travelbar a:link {color:blue;}
+#travelbar a:visited {color:blue;}
+#travelbar a:hover{background:yellow;color:red;font-weight:bold;margin-right:10px;
+text-decoration:none;
+}
+
+-->
+</style>
+
+
+</head>
+<body bgcolor=#cccccc onload='setFocusToTextBox()'>
+<center>
+
+<table width="980"><tr>
+<td valign=top>
+<b><a href="http://www.andalucia.org/en/discover-us/" target="_blank">Link to official website of the Andalucia Tourism Office.</a> | <a href="https://www.spain.info/en/destination/malaga/" target="_blank">Malaga tourism: What to visit</a></b>
+<br>
+<h1><span style="background-color:midnightblue;">&nbsp;&nbsp;Visiting Andalucia in Spain&nbsp;&nbsp;</span></h1>
+<br>
+<h2>Malaga</h2>
+<table width="285" align="right" span style="margin-left:10px;border-left:10px;padding-left:10px;"><tr><td valign="top"><br />
+<img alt="EasyJet prices" title="EasyJet prices" src=../travel/andalucia/easyjet_prices.gif></td></tr></table>
+<br>
+<font face=tahoma color=black size=3>Malaga, gateway to the Andalucia region of southern Spain, is slightly less than two-and-a-half-hours by plane from Paris.  It also takes just two-and-a-half-hours with <a href="http://www.renfe.com/EN/viajeros/index.html" target="_blank">Spain's AVE bullet train</a> from Madrid to either Malaga or Seville (the Madrid-Cordoba train takes hardly 1 hour 50 minutes).  So you can consider visiting Andalucia if you are in Madrid and see with your own eyes the extent of Arab influence in all its architectural marvels that are still intact today.
+<br />But flying with low-cost airlines can sometimes be cheaper than going by train.  I booked my air ticket a few months ahead with EasyJet (Paris-Malaga-Paris) for only 64 euros (cheaper than the one-way train fare).  You find it hard to believe?  See screenshot on right then.  In fact there are a few other low-cost airlines in Europe that are just as competitive.
+<br />For many tourists though, Malaga rhymes with the 160km-long Costa del Sol, and its world-famous Marbella seaside resort, playground of the wealthy.
+<br />However, once in Malaga, you don't have to go too far or spend too much money to enjoy the beach.  Near to the city centre are sandy beaches, the nearest one being the <em>Playa de la Malagueta</em> along the promenade called <em>Paseo Maritimo de Pablo Ruiz Picasso</em>.  If you use the <a href="http://www.city-sightseeing.com/tours/spain/malaga.htm#tourlandingposition" target="_blank">Hop On-Hop Off bus</a>, you can get down at the Malagueta beach as it does make a stop there.  Much further down is the El Palo beach, which is a favourite spot for families, as the water is knee-deep at all times of the day and so is ideal for young children while swimmers can go a hundred meters further out in the area confined for swimming (there are yellow floaters to indicate the safe swimming zone).
+<br />While there, try the local dish of grilled sardines called <em>espeto de sardinas</em> costing 3.50 euros a plate at one of the <em>chiringuitos</em> (refreshment stalls) along the beach.  Free shower points are available on the beach itself but the sunbeds with a parasol above them are rented out at 4 euros for the whole day (prices are as on 24 June, 2012).
+</font></font>
+<br><br>
+<table width=980><tr><td width=480 valign=top><img alt="The El Palo beach near Malaga" title="The El Palo beach near Malaga"  src=../travel/andalucia/elpalo_beach.jpg width=480px><br /><em>The El Palo beach near Malaga -  ideal for young children and families as the water is always knee-deep whether it's high tide or low.</em></td>
+<td width=480 valign=top><img alt="Preparation of "espeto de sardinas" (grilled sardines)" title="Preparation of "espeto de sardinas" (grilled sardines)" src=../travel/andalucia/espeto_desardinas.jpg width=480px><br /><em>"Espeto de sardinas" (grilled sardines) at the beach.  The sardines are skewered in a row before charcoal fire that is constantly fanned.</em></td></tr></table><br />
+
+<br /><font face=tahoma color=black size=3>As there are so many things to see and do in Andalucia and most tourists do not have enough time to take in all of the sights, you have to be really selective in drawing up your programme.  Thus although <em>La Alcazaba</em> (Arabic fortress) and the <em>Castillo de Gibralfaro</em> (Gibralfaro castle) are Malaga's top attractions, you might want to skip them in favour of the Alhambra in Granada or the Alcazar in Seville (or the one at Cordoba) if your time is limited.  You will thereby allow yourself time for the magnificent beaches in Malaga, especially if you have young children with you.  It all boils down to a question of priorities and interests.  Whatever it is, the difficult part of the planning is to decide what to leave out.   (Picasso fans will find it hard to skip the Picasso Museum, Malaga being his birthplace).
+<br />A good time to come to Malaga though is in the second or third week of August as it is then that is held the gigantic <em>Feria de Agosto</em>, also called the <em>Feria de Malaga</em>, a period of feasting that the Spaniards are famous for.  I was told that during that period (spread over some ten days or so), there are bullfights daily, fireworks, concerts and street parties with flamenco music and dancing everywhere and of course non-stop eating of tapas, drinking and merry-making throughout the day and night.  The day celebrations, called <em>feria de dia</em>, are held in the city centre from noon to about 19h00 while the  <em>feria de la noche</em> are held at Cortijo de Torres, a huge fairground 4 km from the city centre from around 9 pm until dawn.  There are shuttle buses to go there from the city centre.
+<br />The Andalucia region covers not only Malaga, Seville, Granada and Cordoba but also lesser towns/cities such as Antequera, Cadiz, Algeciras, Jerez, Almeria, Jaen and Huelva.  To help you plan your trips from Malaga to the other cities of Andalucia by bus you can go to the official site of the <a href="https://www.alsa.com/en" target="_blank">ALSA bus company</a>, which has a good network of buses throughout Spain.
+
+</font></font>
+
+<br>
+<h2>Ronda</h2>
+<br>
+<font face=tahoma color=black size=3>
+If you wish to go to Ronda from Malaga by bus it is possible to do so <a href="https://rondatoday.com/ronda-bus-timetables/" target="_blank"> at omio.com</a>.  There are several trips a day and it takes one and three-quarter hours to arrive at Ronda.
+<br />There is also a RENFE railway station in Ronda quite near to the El Tajo gorge and the <em>Puente Nuevo</em> (new bridge) connecting the old and new quarters of the city.  Unfortunately I was not able to go inside the railway station to inquire if there is a direct train from Malaga.
+<br />But if you can afford it, better spend some 40 euros or so to join a day trip such as the <a href="http://www.viator.com/tours/Malaga-/Ronda-and-El-Tajo-Gorge-Day-Trip-with-Wine-Tasting-from-Malaga/d956-2140MLGRONDATAJO?SSAID=312173&aid=132440" target="_blank">one here.</a>  I am sure there are others but I'm putting this here in case you can't find another.  You will be shown where the El Tajo gorge, which splits the city into two, is situated as well as the <em>Puente Nuevo</em> (New Bridge) that spans the vertiginous gorge and took a total of 42 years to build!
+<br />While in Ronda, which is typical of Andalucia's "white" villages, you might also want to enter the <em>plaza de toros </em> &nbsp;(bullring) that is open to visitors.  When in the arena, close your eyes for a minute and with some imagination, you should be able to hear the shouts of <em>Ol&eacute;</em> by aficionados resonated all around you as the toreador taunts or avoids the bull in turn.
+</font></font>
+<br><br>
+<table width=980>
+<tr><td width=480 valign=top><img alt="The deep El Tajo gorge that divides Ronda into two halves" title="The deep El Tajo gorge that divides Ronda into two halves" src=../travel/andalucia/eltajo_gorge.jpg width=480px><br /><em>The deep El Tajo gorge that divides Ronda into two halves.</em></td>
+<td width=480 valign=top><img alt="Bridge connecting the new and old quarters in Ronda" title="Bridge connecting the new and old quarters in Ronda" src=../travel/andalucia/eltajo_gorge2.jpg width=480px><br /><em>Bridge connecting the new and old quarters in Ronda.</em></td></tr></table>
+
+
+
+
+<h2>Setenil de las Bodegas</h2>
+<table width=980><tr><td>
+<font face=tahoma color=black size=3>After Ronda you might, if you are driving, want to go on to Setenil de las Bodegas in Cadix, some 20 kms to the north of Ronda, to see its unique "rock" houses (can you imagine having a giant rock for a roof?)
+<br />Photo below of a typical "rock" house in Setenil de las Bodegas is by Miguel Roa.
+<br><br>
+<img src=setenil_bodegas.jpg>
+</td></tr></table>
+
+<a name=seville></a>
+<br><br>
+<h2>Seville</h2>
+<br>
+<FONT face=tahoma color=black size=3>Seville (or Sevilla, its Spanish spelling) has a new landmark called "Metropol Parasol", a gigantic structure in the form of mushrooms <em>(setas)</em>.  In fact the locals refer to it as <em>Las Setas de la Encarnaci&ograve;n (La Encarnaci&ograve;n</em> being the name of the square where it is located).  Designed by J&uuml;rgen Mayer-Hermann, a German architect  it was completed in April 2011 after nearly six years of construction work.  You can read all about it in its official website <a href=http://www.setasdesevilla.com/?lang=en target=_blank>here.</a>  The two photos below show different aspects of Metropol Parasol.
+<br><br>
+<table width=980>
+<tr><td width=480 valign=top><img alt="Metropol Parasol or Las Setas de la Encarnacion in Seville" title="Metropol Parasol or Las Setas de la Encarnacion in Seville" src=../travel/andalucia/metropol_parasol.jpg width=480></td>
+<td width=480 valign=top><img alt="Metropol Parasol or Las Setas de la Encarnacion in Seville" title="Metropol Parasol or Las Setas de la Encarnacion in Seville" src=../travel/andalucia/metropol_parasol2.jpg width=480></td></tr></table>
+
+<br>The principal monument to visit in Seville is the <em>Real Alcazar</em> (Royal Alcazar).  Built during the eleventh century on the archaeological remains of an Islamic quarter, it embodies all the various artistic styles of Europe with Arab influences everywhere.  Ever since its creation it has been the official residence of the Spanish Heads of State.  It opens daily at 09h30 but is closed on the 1st and 6th January as well as the 25th of December.  Entrance costs 8.50 euros while pensioners and students up to 25 years old pay only 2 euros.  <a href=http://patronato-alcazarsevilla.es/index.php target=_blank>Full details in their official site here.</a>
+<br />Another tourist attraction in Seville is the <em>Plaza de Espa&ntilde;a</em> in the Maria Luisa park.  I know you can find a <em>Plaza de Espa&ntilde;a</em> in almost every big city in Spain but this one is particularly impressive and worth a visit as it was built specially for the Ibero-American Exposition of 1929.
+<br />You might also want to take a stroll down the old Jewish quarter of Santa Cruz with its narrow winding alleys and then visit the neighbouring Murillo Gardens.
+<br />From there you can continue your walk to <em>La Giralda</em>, formerly a minaret but now converted to a bell tower for the <a href="http://www.catedraldesevilla.es/" target="_blank"><em>Catedral de Sevilla</em></a>, another "must visit" place in Seville.  It is 104.5 m high and was built on the lines of the famous Koutoubia Mosque in Marrakesh, Morocco.
+
+</font></font>
+
+<br><br>
+<table width=980>
+<tr><td width=480 valign=top><img alt="The dome at Royal Alcazar in Seville" title="The dome at Royal Alcazar in Seville" src=../travel/andalucia/dome_alcazar.jpg width=480><br /><em>The dome at Royal Alcazar in Seville.</em></td>
+<td width=480 valign=top><img alt="The Plaza de Espa&ntilde;a in Seville" title="The Plaza de Espa&ntilde;a in Seville" src=../travel/andalucia/plaza_espana.jpg width=480><br /><em>The Plaza de Espa&ntilde;a in Seville.</em></td></tr></table>
+
+<a name=granada></a>
+<br><br>
+<h2>Granada</h2>
+<br>
+<FONT face=tahoma color=black size=3>The Alhambra, Granada's biggest attraction, is a palace-cum-fortress high up on a hill that was built in the middle of the 14th century by the Arab rulers.  Besides allowing you to roam around the palace and towers, an entrance ticket includes a visit to the Alcazaba and the Generalife gardens.  You will certainly be filled with awe at all the sights before you and it is not at all surprising that they are protected under Unesco's World Heritage sites programme.   <a href="https://www.alhambradegranada.org/en/" target="_blank">Go here for full information on Alhambra.</a>
+</font></font>
+<br><br>
+<table width=980>
+<tr><td width=480 valign=top><img alt="The court of the lions in Alhambra, Granada" title="The court of the lions in Alhambra, Granada" src=../travel/andalucia/alhambra_granada.jpg width=480><br /><em>The court of the lions in Alhambra, Granada</em></td>
+<td width=480 valign=top><img alt="The Generalife gardens in Granada" title="The Generalife gardens in Granada" src=../travel/andalucia/generalife_granada.jpg width=480px><br /><em>The Generalife gardens in Granada</em></td></tr></table>
+
+<a name=cordoba></a>
+<h2>Cordoba</h2>
+<br>
+<FONT face=tahoma color=black size=3>During my short stay in Andalucia I had to make a choice - either I visit Cordoba and miss the beach at Malaga or spend a day at the beach and forgo Cordoba.  It was a difficult choice, but as with everything else in life one couldn't have one's cake and eat it and I decided on the beach.  In the evening my fellow travellers all made me feel guilty for skipping Cordoba in favour of the beach at Malaga.  Their eyes sparkled as they talked about the <em>Santa Iglesia Catedral de Cordoba</em> (also known under its ancient name <em>Mezquita de Cordoba</em>) which is unique in that it is a cathedral within a mosque, a fusion of the two great religions in the history of Cordoba.
+<br />Then there is Cordoba's <em>Alcazar de los Reyes Cristianos</em> &nbsp;with its magnificent gardens and towers.
+<br />Finally here is Cordoba tourism department's official website <a href="https://www.turismodecordoba.org/" target="_blank">Welcome to Cordoba</a> where you can find all the information you need on where to go and what to do in Cordoba.
+</font></font>
+<br><br>
+<table width=980>
+<tr><td width=480 valign=top><img alt="The Santa Iglesia Cathedral of Cordoba" title="The Santa Iglesia Cathedral of Cordoba" src=../travel/andalucia/mezquita_cordoba.jpg width=480><br /><em>The Santa Iglesia Cathedral of Cordoba</em><br />(Photo credit: http://natureculture.org/wiki/index.php)</td>
+<td width=480 valign=top><img alt="The Alcazar Gardens in Cordoba" title="The Alcazar Gardens in Cordoba" src=../travel/andalucia/alcazar_cordoba.jpg width=480><br /><em>The Alcazar Gardens in Cordoba</em><br />(Photo credit: http://www.andalucia-photo.com/displayimage.php)</td></tr></table>
+
+</td></tr></table>
+<center><? include "all_cities.inc"; ?></center>
+
+</center>
+</body></html>
