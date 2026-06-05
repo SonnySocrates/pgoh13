@@ -1,0 +1,102 @@
+
+<style>
+@charset "UTF-8";
+
+/*
+*    Mass Reset
+*/
+*{ margin: 0; padding: 0; border: 0; }
+
+/*
+*    Normal layout
+*/
+body{ background-color: #cccccc; font: normal 1rem Arial, sans-Serif;padding-left:2px; }
+
+#wrapper{background-color:"#cccccc";width:100%;margin:0 auto; font-family:arial;}
+* a {text-decoration:none;}
+#content{ margin-left: 0; padding: 2px; position: relative; z-index: 100; }
+h1 {background-color:midnightblue;color:yellow;font-family:arial;font-size:36px;display:inline-block;padding:0 10px;text-align:center;margin-left: auto;margin-right: auto;}
+h2 {background-color:midnightblue;color:yellow;font-family:arial;font-size:30px;display:inline-block;padding:0 10px;margin-left: auto;
+	margin-right: auto;}
+h3 {background-color:midnightblue;color:yellow;font-family:arial;font-size:18px;display:inline-block;padding:0 5px;margin-left: auto;
+	margin-right: auto;}
+p {font-family:arial;font-size:1rem;}
+
+table{background-color:transparent;border:1px solid black;}caption{padding-top:8px;padding-bottom:8px;color:#777;text-align:left}th{text-align:left}.table{width:100%;max-width:100%;margin-bottom:20px}.table>tbody>tr>td,.table>tbody>tr>th,.table>tfoot>tr>td,.table>tfoot>tr>th,.table>thead>tr>td,.table>thead>tr>th{width:50%;font-size:1.2rem;font-family:arial;padding:8px;line-height:1.42857143;vertical-align:top;border-top:1px solid #ddd}.table>thead>tr>th{vertical-align:bottom;border-bottom:2px solid #ddd}.table>caption+thead>tr:first-child>td,.table>caption+thead>tr:first-child>th,.table>colgroup+thead>tr:first-child>td,.table>colgroup+thead>tr:first-child>th,.table>thead:first-child>tr:first-child>td,.table>thead:first-child>tr:first-child>th{border-top:0}.table>tbody+tbody{border-top:2px solid #ddd}.table .table{background-color:#fff}.table-condensed>tbody>tr>td,.table-condensed>tbody>tr>th,.table-condensed>tfoot>tr>td,.table-condensed>tfoot>tr>th,.table-condensed>thead>tr>td,.table-condensed>thead>tr>th{padding:5px}.table-bordered{border:1px solid #ddd}.table-bordered>tbody>tr>td,.table-bordered>tbody>tr>th,.table-bordered>tfoot>tr>td,.table-bordered>tfoot>tr>th,.table-bordered>thead>tr>td,.table-bordered>thead>tr>th{border:1px solid #ddd}.table-bordered>thead>tr>td,.table-bordered>thead>tr>th
+
+{border-bottom-width:2px}.table-striped>tbody>tr:nth-of-type(odd){background-color:yellow}
+
+.table-striped>tbody>tr:nth-of-type(even){background-color:lightgreen}
+
+
+
+
+
+/*
+*    When screen is smaller than 500px, single column row with section
+*/
+@media only screen and (max-width:500px)
+{
+h1 {font-size:30px;padding:0;}
+p {font-size:1rem;}
+img {max-width:500px;}
+.hidden_inmobile {display:none;}	
+#wrapper #content{ margin-left: 0;}
+section {display: block;float: left;margin: 2%;width:90%;height:100%;padding-left:5px;padding-right:5px;font-size:1rem;}
+}
+.indon_table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    width:100%;
+}
+
+
+
+
+
+/*
+*    When screen is between 501px and 730px, 2 column rows with section
+*/
+@media only screen and (min-width:501px) and (max-width:730px)
+{
+p {font-size:1rem;}
+.hidden_inmobile {display:none;}	
+#wrapper #content { margin-left: 0; }
+section {box-sizing:border-box;display: inline-block;vertical-align:top;float: left;margin: 2%;width: 45%;height:70%;
+padding-left:5px;font-size:1.2rem;}
+}
+
+
+
+
+
+
+/*
+*    When screen is between 731px and 980px, 3 column rows with section
+*/
+@media only screen and (min-width:731px) and (max-width:980px)
+{
+p {font-size:1rem;}
+.hidden_indesktop {display:none;width:100%;max-width:800px;}	
+#wrapper #content { margin-left: 0;margin-right:auto;max-width:800px; }
+section {box-sizing:border-box;display: inline-block;vertical-align:top;float: left;margin: 2%;width: 27%;
+    height:44%;padding-left:5px;font-size:1.2rem;}
+}
+
+
+
+
+
+
+
+
+/*
+*    When screen is bigger than 980px, 4 column rows  with section
+*/
+@media only screen and (min-width:981px)
+{
+.hidden_indesktop {display:none;}
+#wrapper #content { width:800px;margin-left:auto;margin-right:auto;}
+section {vertical-align:top;display: block;float: left;margin: 5px;padding:10px;width: 21%;height:40%;font-size:1rem;}
+p {font-family:arial, sans-serif;font-size: 1rem;padding:3px;max-width:800px; }
+}
+</style>

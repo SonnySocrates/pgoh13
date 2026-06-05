@@ -1,0 +1,28 @@
+H1 {color: midnightblue; font-family: arial; font-size: 26pt; font-weight: bold}
+H2 {color: midnightblue; font-family: arial; font-size: 20pt; font-weight: bold}
+
+BODY {background: #cccccc; color: darkblue; font-family: arial; font-size: 12pt} 
+.black {
+	color:black;
+	font-weight: bold;
+	}
+.yellow {
+	color:yellow;
+	font-weight: bold;
+	}
+.blue {
+	color:blue;
+	font-weight: bold;
+	}
+.marron {
+	color:marron;
+	font-weight: bold;
+	}
+.red {
+	color:red;
+	font-weight: bold;
+	}
+.white {
+	color:white;
+	font-weight: bold;
+	}

@@ -1,0 +1,97 @@
+<? include "core1m.inc"; ?>
+
+<head>
+<title>Lesson 55 of A Basic Malay Language Course by pgoh13</title>
+<meta name="description" content="Lesson 55 of A basic course in Bahasa Malaysia (also known as Bahasa Melayu or the Malay language)" />
+</head>
+
+
+<H1>&nbsp;&nbsp;Lesson 55  Dia kata...  (He said that...)</H1>
+
+<br><img src="l55kata.gif" class="img-responsive">
+<p>
+<br>
+<span class="glyphicon glyphicon-headphones glyphicon-large" aria-hidden="true"></span>
+<a href="l55kata.wav" target=_blank>Click to listen to the Malay sentences.</a><br>
+<br>
+<span class="glyphicon glyphicon-headphones glyphicon-large" aria-hidden="true"></span>
+<a href="ismat_lesson55.wma">A second reading</a> (by Michelle Nor Ismat, a native speaker)<br><br>
+
+<table class="table table-striped">
+<tr>
+<td style="border-right:1px solid black;border-top:1px solid black;">Your wife phoned just now.</td>
+<td style="border-right:1px solid black;border-top:1px solid black;">Isteri anda telefon tadi.</td>
+</tr><tr>
+<td style="border-right:1px solid black;">What did she say?</td>
+<td style="border-right:1px solid black;">Apa kata dia?</td>
+</tr><tr>
+<td style="border-right:1px solid black;">She said she will not be back for dinner.</td>
+<td style="border-right:1px solid black;">Dia kata dia tidak akan balik untuk makan malam.</td>
+</tr><tr>
+<td style="border-right:1px solid black;">I met Ali just now.</td>
+<td style="border-right:1px solid black;">Saya jumpa Ali tadi.</td>  
+</tr><tr>
+<td style="border-right:1px solid black;">What did he say?</td>
+<td style="border-right:1px solid black;">Apa kata dia?</td>
+</tr><tr>
+<td style="border-right:1px solid black;">He said he will be getting married next month.</td>
+<td style="border-right:1px solid black;">Dia kata dia akan kahwin bulan depan.</td>
+</tr>
+</table>
+
+<p>Passing on messages is such an important aspect of life that I am devoting a whole lesson to it.  Just remember that if you have a message to deliver in Malay (after mentioning the name of the person who came eg. <font color=red>Peter datang tadi.</font> or who phoned eg. <font color=red>Mary telefon tadi.</font>) you always start with <font color=red>Dia kata ...</font> (He said ...)
+
+
+<br>
+More illustrative sentences:
+<table class="table" bgcolor=white border=1><tr><td style="padding-left:10px" bgcolor=yellow width=40%>
+<span class="red">
+Dia kata dia akan telefon anda esok. <br>
+Dia kata dia sakit perut dan akan jumpa doktor.<br>
+Dia kata dia tidak dapat datang malam ini. <br>
+Dia kata dia akan beli ubat sebelum balik. <br>
+Dia kata dia sudah pergi ke rumah bapanya.<br>
+Dia kata dia akan datang lagi.<br>
+Dia tidak kata apa-apa. 
+</font>
+</td><td style="padding-left:10px" bgcolor=lightgreen width=45%>
+
+He said he will give you a call tomorrow.<br>
+He said he has a stomach-ache and will be seeing a doctor.<br>
+He said he will not be able to come tonight. <br>
+He said he will be buying the medicine on the way back.<br>
+He said he has been to his father's house.<br>
+He said that he will come again.<br>
+He didn't say anything.
+
+</td>
+</tr></table>
+
+<p style="max-width:800px;font-family:tahoma;font-size:16px;">By now you would know that only the context will show if <font color=red> dia </font> refers to "he" or "she" though for practical purposes "he" is used in all the above sentences.
+</p><br>
+<img class="img-responsive" src=forthose_knowmore.jpg>
+<br><p style="max-width:800px;font-family:tahoma;font-size:16px;">1. In colloquial Malay <font color=red>bilang</font> is often used for <font color=red>kata</font>.  You will often hear people saying <font color=red>Bilang sama dia...</font> which means "Tell him..."  (The correct form would be <font color=red>Beritahu dia...</font>)<br>
+2.  Meaning of <font color=red>balik kampung</font>:
+<br><font color=red>Balik</font> means "to return" and when  you ask someone where he is going for his holidays or for Hari Raya and he says <font color=red>Saya akan balik kampung</font> he means to say "I am going to my hometown" (where probably his parents/relatives are still staying).
+<br>By the way one of the most pleasant words in Malay (or in any language for that matter) is <font color=red>cuti</font> (pronounced choo-ti).  &nbsp;  It means "holiday" or "leave".  Don't confuse it with <font color=red>curi</font> (pronounced choo-ri) which means "to steal".  In any office you will often hear workers asking each other <font color=red>Bila nak cuti?</font> (When are you going on leave?) or <font color=red>Cuti pergi mana?</font>&nbsp; (Where are you going for your holidays?  Literally it is "Holiday go where?")
+<br>Actually the verb for "to go on a holiday" is <font color=red>bercuti</font> though it is often used without the prefix in conversations.
+<br>Since this is quite a short lesson I'm taking advantage of it to introduce two words which could come in handy in a conversation.  These two words are <font color=red>bakal</font> and <font color=red>bekas</font>.  You can consider them as opposites as <font color=red>bakal</font> means "going to be" or "future" and <font color=red>bekas</font> means "ex" or "former".  Both words are used with nouns only.  These illustrative sentences will show you how they are used:
+<br><font color=red>Peter akan berkahwin bulan hadapan.  Bakal isterinya adalah seorang jururawat.</font>  (Peter is getting married next month.  His wife-to-be is a nurse.)
+<br><font color=red>Jiran saya adalah bekas guru saya.</font>  (My neighbour is my former teacher.)
+
+</p><br>
+<p><a class="btn btn-primary btn-lg" style="background-color:black;" href="lesson54.php" role="button"><span class="glyphicon glyphicon-home glyphicon-chevron-left" aria-hidden="true"></span>&nbsp;Previous lesson</a>&nbsp;&nbsp;&nbsp;
+<a class="btn btn-primary btn-lg" style="background-color:black;" href="table_contents.htm" role="button"><span class="glyphicon glyphicon-home glyphicon-list-alt" aria-hidden="true"></span>&nbsp;Table of Contents</a>&nbsp;&nbsp;&nbsp;
+<a class="btn btn-primary btn-lg" style="background-color:black;" href="lesson56.php" role="button">Next lesson&nbsp;<span class="glyphicon glyphicon-home glyphicon-chevron-right" aria-hidden="true"></span></a></p>
+
+
+<? include "core2m.inc"; ?>
+
+</div></div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+
+  </body>
+</html>

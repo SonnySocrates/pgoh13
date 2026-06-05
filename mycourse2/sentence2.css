@@ -1,0 +1,30 @@
+@media (max-width: 600px) {
+    body {
+        font-size: 16px; /* Smaller font size for smaller screens */
+    }
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px; /* Base font size */
+    line-height: 1.6; /* Ensures consistent line spacing */
+}
+
+p {
+    font-size: 1em; /* 1em equals the base font size */
+    margin: 10px 0; /* Optional: Adds space above and below paragraphs */
+}
+
+table {
+    font-size: 2em; /* Ensure table text matches the base font size */
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    font-size: 1em; /* Ensure table cells inherit the correct font size */
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+vertical-align:top;
+}

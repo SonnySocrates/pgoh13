@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form for pgoh13 website</title>
+<meta name="robots" content="noindex">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .language-toggle {
+            text-align: right;
+            margin-bottom: 20px;
+        }
+        .form-container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        input, select, textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+            font-family: inherit;
+        }
+        textarea {
+            height: 150px;
+            resize: vertical;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="language-toggle">
+        <button onclick="toggleLanguage()">
+            <span id="toggle-text">Français</span>
+        </button>
+    </div>
+
+    <div class="form-container">
+        <!-- English Form -->
+        <form id="english-form" action="https://formspree.io/f/xrbpdyez" method="POST">
+            <h2>Contact Me</h2>
+            
+            <div class="form-group">
+                <label for="name-en">Name:</label>
+                <input type="text" id="name-en" name="name" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="email-en">Email Address:</label>
+                <input type="email" id="email-en" name="email" required>
+            </div>
+            
+       <!--     <div class="form-group">
+                <label for="nationality-en">Nationality:</label>
+                <input type="text" id="nationality-en" name="nationality">
+            </div>
+      -->      
+            <div class="form-group">
+                <label for="subject-en">Subject:</label>
+                <input type="text" id="subject-en" name="subject" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="comments-en">Comments:</label>
+                <textarea id="comments-en" name="comments" required></textarea>
+            </div>
+            
+            <button type="submit">Submit</button>
+        </form>
+        
+        <!-- French Form -->
+        <form id="french-form" class="hidden" action="https://formspree.io/f/xrbpdyez" method="POST">
+            <h2>Contactez-moi</h2>
+            
+            <div class="form-group">
+                <label for="name-fr">Nom:</label>
+                <input type="text" id="name-fr" name="nom" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="email-fr">Adresse e-mail:</label>
+                <input type="email" id="email-fr" name="email" required>
+            </div>
+            
+          <!--              <div class="form-group">
+                <label for="nationality-fr">Nationalité:</label>
+                <input type="text" id="nationality-fr" name="nationalite">
+            </div>
+             -->  
+            <div class="form-group">
+                <label for="subject-fr">Sujet:</label>
+                <input type="text" id="subject-fr" name="sujet" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="comments-fr">Commentaires:</label>
+                <textarea id="comments-fr" name="commentaires" required></textarea>
+            </div>
+            
+            <button type="submit">Envoyer</button>
+        </form>
+    </div>
+
+    <script>
+        function toggleLanguage() {
+            const englishForm = document.getElementById('english-form');
+            const frenchForm = document.getElementById('french-form');
+            const toggleText = document.getElementById('toggle-text');
+            
+            if (englishForm.classList.contains('hidden')) {
+                englishForm.classList.remove('hidden');
+                frenchForm.classList.add('hidden');
+                toggleText.textContent = 'Français';
+            } else {
+                englishForm.classList.add('hidden');
+                frenchForm.classList.remove('hidden');
+                toggleText.textContent = 'English';
+            }
+        }
+    </script>
+</body>
+</html>

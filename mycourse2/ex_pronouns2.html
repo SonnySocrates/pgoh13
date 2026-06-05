@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>
+2nd round of exercises on Malay pronouns
+</title>
+</head>
+<body bgcolor="peachpuff">
+<h1>Exercise on pronouns (2) </h1>
+<script>
+function check_answer()	{
+	if (document.forms[0].pronoun[2].checked)   {
+	alert ("Correct!");
+	} else {
+	alert ("Wrong.  Try again.");
+	}
+	}
+</script>
+
+<form name="myform" id="myform">
+<p><b><font color=darkblue>What does "awak" mean?</p>
+<input type="radio" name="pronoun" value="they" />they<br />
+<input type="radio" name="pronoun" value="we" />we<br />
+<input type="radio" name="pronoun" value="you" />you<br /><p>
+<input type="submit" value="GO" onclick="check_answer();" />
+</form>
+<a href="ex_pronouns3.html"><img src=forward.gif></a> 
+</body>
+</html>

@@ -1,0 +1,10 @@
+english
+/* in red color and provide spacing between the elements */
+{color:red; background-color:yellow; margin:5px;font-size: 15pt;}
+malay
+/* in blue color */
+{
+color: darkblue; background-color:white;
+font-size: 15pt;
+}
+

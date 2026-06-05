@@ -1,0 +1,65 @@
+
+<style>
+p {font-family:arial;font-size:1rem;}
+h1 {background-color:midnightblue;color:yellow;font-family:arial;font-size:36px;display:inline-block;padding:0 10px;text-align:center;margin-left: auto;	margin-right: auto;}
+h2 {background-color:midnightblue;color:yellow;font-family:arial;font-size:30px;display:inline-block;padding:0 10px;margin-left: auto;
+	margin-right: auto;}
+h3 {background-color:midnightblue;color:yellow;font-family:arial;font-size:24px;display:inline-block;padding:0 10px;margin-left: auto;
+	margin-right: auto;}
+
+.indon_table {
+    border-collapse: collapse;
+}
+
+.indon_table, .indon_table td, .indon_table th {
+    border: 1px solid black;
+}
+
+.indon_table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    width: 800px;
+}
+
+.indon_table td, .indon_table th {width:33%;
+    font-size: 1.2em;
+    border: 1px solid black;
+    padding: 3px 7px 2px 7px;
+}
+
+.indon_table th {
+    font-size: 1.2em;
+    text-align: center;
+    padding-top: 5px;
+padding-left: 15px;
+    padding-bottom: 4px;
+    background-color: #A7C942;
+    color: #ffffff;
+}
+
+
+
+
+.indon_table tr td {
+ font-size: 1.2em;
+    color: #000000;
+    background-color: #87CEFA;
+text-align:left;
+}
+
+
+
+
+
+.indon_table tr.alt td {
+ font-size: 1.2em;
+    color: #000000;
+    background-color: #EAF2D3;
+}
+
+.indon_table tr.imp td {
+ font-size: 1.2em;
+    color: yellow;
+    background-color: black;
+}
+
+</style>

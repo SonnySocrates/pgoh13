@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta name="viewport" content="width = 980" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf8">
+   <meta name="description"
+ content="Lesson 52 of A basic course in Bahasa Malaysia (also known as Bahasa Melayu or the Malay language)">
+   <meta name="keywords" 
+content="bahasa, Malay language, Malaysian language, langue Malaisienne, bahasa Melayu, bahasa Malaysia, national language of Malaysia, lessons, course, tutorial, cours en malais"> 
+<TITLE>Lesson 52 of A basic course in Bahasa Malaysia (also known as Bahasa Melayu or the Malay language) </TITLE>
+<style>
+.blue {color:blue}
+.red {color:red}
+.black {color:black}
+.yellow {color:yellow}
+.green {color:green}
+.white {color:white}
+</style>
+<script type="text/javascript">
+function mailto(domain,user) 
+{ 
+document.location.href = "mailto:" + user + "@" + domain;
+}
+</script>
+<?  include "indon_table.css";  ?>
+</head>
+<style type="text/css">
+body:after {font-style:italic;border:0;content:"This course is copyrighted and is not to be reproduced under any circumstances.";}
+h1 {font-size:36pt;font-family:helvetica;}
+h2 {font-size:30pt;font-family:helvetica;color:darkgreen}
+</style>
+
+<body bgcolor=#cccccc onload='setFocusToTextBox()'>
+<center>
+
+<table width="980"><tr>
+
+<td width=800 valign=top>
+
+
+<?
+include "copyright.inc" 
+?>
+
+<H1><span style="background-color:midnightblue;">&nbsp;&nbsp;Lesson 52  <font color=red>Masih</font>   (Still)&nbsp;&nbsp;</span></H1>
+<FONT face=tahoma color=black size=3>
+<center><img src=l52masih.gif width=400 height=50></center><br>
+
+<a href="l52masih.wav">Click to listen&nbsp;&nbsp;<img src="audio.gif"></a><br />
+
+<br /><a href="ismat_lesson52.wma">A second reading</a> (by Muhammad Nor Ismat, a native speaker)</a><br />
+<br>
+<table style="border:1px solid black" width=800 bgcolor=white><tr><td style="padding-left:10px" bgcolor=yellow width=50%>
+<span class="blue">Dia masih sibuk.<br>
+Dia tidak dapat jumpa tuan.  Dia masih sakit.<br>
+Tunggulah sekejap.  Dia masih makan. <br>
+Dia belum siap lagi.  Dia masih tidur.<br>
+</span>
+</td><td style="padding-left:10px;border-left:1px solid black" bgcolor=lightgreen width=50%>
+<span class="black">He is still busy. <br>  
+He is not able to meet you.  He is still sick.<br>
+Please wait a while.  He is still eating.<br>
+He is not ready yet.  He is still sleeping.<br>
+</span>
+</td>
+</tr></table>
+<br>This is a very useful and common word so a whole lesson to it is not unjustified. Note the pronunciation of <font color=red>masih</font>.  It hasn't got the ee sound at all.  In fact its earlier spelling ("maseh") is a better representation of its pronunciation, which is <em>ma-say</em>. By the way <font color=red>kasih</font> (as in <font color=red>terima kasih</font> for "thank you", remember?) is pronounced the same way, that is, <em>ka-say</em>. Other words that have this spelling and pronounced similarly are <font color=red>putih</font> (pu-tay meaning white), <font color=red>pulih</font> (pu-lay meaning to get better, recover), <font color=red>sedih</font> (sir-day meaning sad) and <font color=red>pilih</font> (pee-lay meaning to choose).
+<br><br>
+<img src=forthose_knowmore.jpg>
+<br><br>
+The best way to learn to use the word <font color=red>masih</font> correctly is through studying illustrative sentences.  Thus:
+<br><font color=red>Bapa saya masih hidup.</font>
+<br>= My father is still alive.
+<br><font color=red>Saya sudah minta dia makan tetapi dia masih bermain.</font>
+<br>= I have already asked him to eat but he is still playing.
+<br> <font color=red>Dia sudah berumur 40 tahun tetapi masih bujang.</font>
+<br>= He is already 40 but is still a bachelor.
+<br> <font color=red>Abang saya sudah berumur 50 tahun tetapi belum berkahwin lagi.</font>
+<br>= My elder brother is already 50 but is still unmarried (literally "has not married yet").
+<br>I might as well introduce the other words that describe one's marital  status.
+<br>The Malay word for a young spinster is <font color=red>anak dara</font> (the word <font color=red>dara</font> alone means "virgin").
+<br>Since the word <font color=red>tua</font> means "old" the Malay equivalent for a not-so-young unmarried woman (or "old maid" to put it bluntly) is <font color=red>anak dara tua</font> (shortened to <font color=red>andartu</font> from the first syllables of each of the three words).
+<br>If you wish to  say that a person is married you say <font color=red>Dia sudah berkahwin</font>.  Similarly to say that a person is divorced you say <font color=red>Dia sudah bercerai</font>.
+<br>Next we have the word <font color=red>janda</font> which usually means a divorcée though it can also mean widow (the more common word for widow being <font color=red>balu</font>)
+<br>In the case of a man the same word <font color=red>duda</font> is used for a widower as well as a divorc&eacute;.
+<br>Yes, I do admit it is confusing as there is a world of difference between someone who has lost his other half through an accident or disease or after a bitterly fought-out battle in court!
+<br>To summarize: <font color=red>duda</font> can mean a man who has been divorced from his wife as well as a man whose wife has died while <font color=red>janda</font> can mean a woman who has been divorced from her husband as well as a woman whose husband has died.  If you really want to know which of the two situations they are in you will just have to ask them directly or find out from a third party!
+<p>At this stage of the course you should be able to tackle even longer sentences.  So here goes:
+<br> <font color=red>Walaupun sudah 20 tahun kami tidak berjumpa,  dia masih kenal saya juga.</font>
+<br>= Although we have not met for 20 years, he could still recognise me.
+<br>Note that <font color=red>kami</font> is used here and not <font color=red>kita</font> because I am talking to you and not to my friend of 20 years' standing so I am using the "we exclusive" (that is, you are not included when I say "we").
+<br>Here <font color=red>juga</font> is used to "reinforce" the sentence but it could very well be left out.  The usual sense of <font color=red>juga</font> is "also".  Example:<br>
+<img src=senyum.gif width="64"> <font color=red>Dia senyum.</font> (He is smiling)
+<br><img src=senyum2.jpg width="56"> <font color=red>Monyet senyum juga.</font> (The monkey is also smiling)
+<br><br> <font color=red>Saya ingat dia sudah keluar tetapi dia masih ada di rumah.</font>
+<br>I thought he had left but he is still in the house.
+<br>Please note that the usual meaning of <font color=red>ingat</font> is "to remember" as in <font color=red>Ingat tak?</font> (Do you remember?) to which the answer could be <font color=red>Ya, saya ingat</font> (Yes, I do remember) or <font color=red>Tidak, saya sudah lupa</font> (No, I've forgotten).
+<br>However, as in my illustrative sentence above <font color=red>ingat</font> is often used to mean "I think that" or "I believe that" eg. <font color=red>Saya ingat akan hujan sekejap lagi</font> (I think it will rain soon).  The usual word for "think" though (meaning "to ponder") is <font color=red>fikir</font>.
+<br>At times you might want to start a sentence with "I feel that..."  In Malay you would say  <font color=red>Saya rasa...</font> or, equally,  <font color=red>Saya ingat...</font>
+<br>In this case it would be the equivalent of saying <font color=red>Saya fikir...</font>
+<br> <font color=blue><u>Note:</u></font> <font color=red>Ada</font> means to have, as in ( <font color=red>Saya ada 2 orang anak.</font> = I have two children) but it is often used to indicate that someone is at a certain place eg. <font color=red> Dia ada di sana</font> (He is there.) instead of saying <font color=red>Dia di sana. </font>  
+<br>To say that someone is at the office at this moment we would say  <font color=red>Dia ada di pejabat pada masa ini.</font>
+<br>Although <font color=red>Saya hendak pergi juga</font> is translated as "I wish to go too" don't think for a moment that you can use <font color=red>juga</font> in a sentence such as "He is too shy".  In such a sentence "too" has to be translated as <font color=red>terlalu</font>.  Thus <font color=red>Dia terlalu malu</font> is how you would say "He's too shy" in Malay.
+<hr>
+<a href=lesson51bukan.php><img src=back.gif></a> <a href=lesson53pernah.php><img src=forward.gif></a> 
+<br><br>
+<table class="indon_table">
+  <tr>
+    <th>ENGLISH</th>
+    <th>INDONESIAN</th>
+    <th>MALAY</th>
+  </tr>
+ 
+  <tr>
+    <td>a bachelor</td>
+    <td>bujangan</td>
+    <td>bujang</td>
+  </tr>
+ 
+  <tr class="alt">
+    <td>He is already 40 but is still a bachelor. </td>
+    <td>Dia sudah berumur 40 tahun tetapi masih bujangan.</td>
+    <td>Dia sudah berumur 40 tahun tetapi masih bujang.</td>
+  </tr>
+ <tr>
+    <td>My elder brother is already 50 but is still unmarried.</td>
+    <td>Kakak lelaki saya sudah berumur 50 tahun tetapi belum menikah lagi.</td>
+    <td>Abang saya sudah berumur 50 tahun tetapi belum berkahwin lagi.</td>
+  </tr>
+ 
+  <tr class="alt">
+   <td>(elderly) spinster</td>
+    <td>perawan tua</td>
+    <td>anak dara tua (andartu)</td>
+  </tr>
+ <tr>
+   <td>He is married.</td>
+    <td>Dia sudah menikah.</td>
+    <td>Dia sudah berkahwin.</td>
+  </tr>
+ 
+  <tr class="alt">
+    <td>I thought he had left but he is still in the house.</td>
+    <td>Saya pikir dia sudah keluar tetapi dia masih ada di rumah.</td>
+    <td>Saya ingat dia sudah keluar tetapi dia masih ada di rumah.</td>
+  </tr></table>
+<br>
+<?
+include "streaming.inc" 
+?>
+<!--  <hr>
+<embed src="l52masih.wav" height=60 width=144 controller=true controls=console hidden=false  autostart=true loop=0>  -->
+
+
+</center>
+</body>
+</HTML>

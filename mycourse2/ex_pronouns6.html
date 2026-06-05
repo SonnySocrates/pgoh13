@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>
+Final test exercise on Malay pronouns
+</title>
+</head>
+<body bgcolor="peachpuff">
+<h1>Exercise on pronouns (6) </h1>
+<script>
+function check_answer()	{
+	if (document.forms[0].pronoun[0].checked)   {
+	alert ("Correct!");
+	} else {
+	alert ("Wrong.  Try again.");
+	}
+	}
+</script>
+
+<form name="myform" id="myform">
+<p><b><font color=darkblue>What does "aku" mean?</p>
+<input type="radio" name="pronoun" value="I" />I<br />
+<input type="radio" name="pronoun" value="you" />you<br />
+<input type="radio" name="pronoun" value="we" />we<br /><p>
+<input type="submit" value="GO" onclick="check_answer();" />
+</form>
+ <p><a href=lesson2bahasa.php><img src=forward.gif></a> 
+</body>
+</html>

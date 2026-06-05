@@ -1,0 +1,127 @@
+To redirect a php file to  another webpage or even website:
+<?php
+// This will just redirect you to another webpage or another website
+header("Location: http://pgoh13.free.fr");  
+?>  //it must be the very first line, even before <!DOCTYPE>
+
+Put in .htaccess file the line: DirectoryIndex index.htm index.html index.php page-down.php
+
+eCommerce template: https://zyro.com/new-template/e-commerce
+
+To use Skype on TV Smart TV from telecommande, then Skype, then WPS
+
+On smartphone install PC to Mobile Transfer app, on PC install FTP MAnager Lite
+
+Uninstalled TeamViewer and Belarc
+
+For Android ftp you use FtpCafe FTP Client by Droidware UK
+
+To superimpose your face on another photo online: https://faceswaponline.com/
+
+To compress your huge photos: https://compressjpeg.com/
+
+11 october 2020 started your free.fr website's new landing page from here:
+https://mdbootstrap.com/education/bootstrap/landing-page-lesson-1/
+
+To convert number of jpg images into one pdf file without any hassle:
+https://smallpdf.com/blog/merge-jpg
+
+To take screenshot of a very long web page use chrome with this extension and just click on Camera icon:
+<a href=https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl target=_blank>Link to add chrome extension to take screenshot of long web page.</a>
+Article here: https://www.ampercent.com/how-to-take-a-screenshot-of-a-long-web-page/19513/
+
+(above better) Vous voudrez sauvegarder une page web que vous trouvez intéressante.  Comment faire? Il suffit de copier url de la page puis le coller sur ce site:
+https://webpagetopdf.com/
+A la fin il suffit de télécharger le fichier .pdf dans votre disque dur.
+
+Bulk resize eg. from your camera to 1000x750 online:
+https://bulkresizephotos.com/fr
+
+To use WhatsApp from your PC go to website web.whatsapp.com with any web browser. Open WhatsApp on your smartphone then the 3 dots then click on WhatsAppWeb.  You will see a QR code.  Once you scan it with your smartphone you will see all your WhatsApp contacts there.
+
+https://tineye.com/ is a website that searches for images that you supplied that have appeared in internet. You can also go to images.google.com then click on the camera logo before dragging your photo to it.  If the picture appears in its internet image collection it will show where it appeared.
+
+To download YouTube videos to a Windows PC, download 4K Video Downloader from https://www.4kdownload.com/.
+Find the video you want to download from YouTube and copy its URL from the address bar. Then click the green 'Paste Link' button at the top left.  Best save as .mp4 as will play on basically every device.
+
+To create a professional-looking website: https://unbounce.com/
+
+(up to here in google drive's file.  to add above to drive as open by google docs)
+To make a table responsive before table put:
+<div style="overflow-x:auto;"> but don't give width length and to align photo in table cell put <td style="vertical-align:top"> eg. in 404.html file
+
+To get peripheriques (to update driver) Windows logo + R then type devmgmt.msc
+
+If want to download files bigger than 4gb as for concert file have to format USB with NTFS and not the default FAT32 which limits files to 4go only eg. could not copy concert file. But in this case cannot open in Android. Only USB formatted with FAT can
+be read by Android.
+
+To download TV programs from Replay install Captvty.  All the TV channels will appear and you only have to click on the program you want.
+
+To disable automatic updates in Windows 7: https://ccm.net/faq/15286-how-to-disable-updates-in-windows-7
+
+To create point of restauration in windows 7 type in Recherche "Créer un point de restauration" then click on "Creer un point de restauration" and Creer.
+
+To save long webpage eg. emeraude.htm for offline reading in android use app Offline Browser
+
+Cute PDF to delete some pages from pdf document (if too big to send)
+Install Cute PDF for this:
+https://www.commentcamarche.net/faq/49332-comment-supprimer-une-page-dans-un-pdf
+Explanation here:
+http://www.cutepdf-editor.com/support/writer.asp
+Used it successfully to delete pages 4 to 7 of ACS acceptance letter
+as whole letter was too big (over 1 mb) to send.  The first 3 pages
+was only 419 kb
+
+
+To transfer files between PC and smartphone on smartphone install app "PC to Mobile Transfer" and on PC install FTP Manager Lite from deskshare.com. When you open the app you will get ID and p/w to type on PC's FTP Manager Lite. Then you will see PC files on left and smartphone directories on right.  But this is only possible if both use the same WiFi network (in your case ok as pjg is wifi for both).
+
+
+french subtitles for english films from https://www.sous-titres.eu
+
+convert .avi to .mp4 online:
+https://video.online-convert.com/convert-to-mp4
+
+Use MightyText pour envoyer les longues texto à partir de PC
+
+SMS Backup+ will automatically save your sms to SMS folder in your gmail. Clean up your textos before transferring then delete
+
+veracrypt
+First VC logo for O: then click Fichier, go to D drive for Data\50giga then Monter then 2vksoveryTinTinRestaurant and click on O: for all files
+
+
+make your own greetings card: canva.com (login with FB account)
+
+anyone can have website from templates here: https://html5up.net/
+
+to check broken links: drlinkcheck.com
+
+to add modified dateline on web page automatically
+https://code.adonline.id.au/last-modified-date-php/
+
+to make sure french accentuated characters appear as typed put in:
+<meta charset="UTF-8">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+
+to center page on big monitor:
+<style type="text/css">
+body {max-width:1200px;margin:auto}
+</style>
+
+to have box with heading:
+eg. <h1 style="display:inline-block;padding:5px;background-color:midnightblue;color:yellow;font-family:arial;font-size:36px;">
+If you put display:block it will fill the whole width i.e. 100%
+
+html comments <!-- and -->
+php comments <?/* and */?>
+
+to override eg. color:red !important; then }
+
+3 t.o. pictures
+
+
+
+
+
+
+https://burnermail.io/ will prevent you from spams when signing up for anything but then conceal your real email address which might be needed
+

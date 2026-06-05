@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>bootstrap in practice</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="bootstrap in practice" />
+<link href="css/bootstrap.min.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link href="bootstrap_malay.css" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid"> <!-- this part stretches width to fill whole monitor -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" style="background-color:red;color:white;" href="http://pgoh13.com">The World At Your Fingertips&nbsp;<span class="glyphicon glyphicon-home glyphicon-large" aria-hidden="true"></span></a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+<li class="active"><a href="http://pgoh13.com/mycourse/malay_introduction">Malay course</a></li>
+<li><a href="http://pgoh13.com/francais/">En fran&ccedil;ais</a></li>
+<li><a href="http://pgoh13.com/mobile/">Songs</a></li>
+<li><a href="http://pgoh13.com/visiting_europe.php">Travel: Europe</a></li>
+<li><a href="http://dictionary.pgoh13.com/">Malay dictionary</a></li>
+<li><a href="http://pgoh13.com/about_pgoh13.php">About</a></li>
+<li><a href="http://www.emailmeform.com/builder/form/Vr4xzDPmb4W">Contact&nbsp;<span class="glyphicon glyphicon-envelope glyphicon-large" aria-hidden="true"></span></a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="container"> <!-- this part has fixed width -->
+<p><em>Smartphone version.  The full version can be found <a href=http://pgoh13.com/mycourse/>here.&nbsp;<span class="glyphicon glyphicon-link"></span></a></em></p>
+		<h1>Bootstrap in practice <small style="color:white;">(demo page)</small></h1>
+
+<p>If don't have p tag might lose text formatting (colors may go haywire etc.)</p>
+
+<p>Just playing around to see that photos and videos are really responsive.</p>
+<p>use <mark>p class="text-center"</mark> tag below</p>
+<p class="text-center">photo using fixed container below</p>
+
+<img src="villette_swim3000.jpg" class="img-responsive" alt="Nasi lemak">
+
+<p class="text-center">how to embed YouTube below</p>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_NE3M46D5WU"></iframe>
+</div>
+
+
+<br><br>
+</div>
+
+<p>as the code for below are outside the div for fixed container it will fill whole monitor </p>
+<p class="text-center">photo using fluid container below</p>
+<img src="villette_swim3000.jpg" class="img-responsive" alt="villette swim">
+
+
+<br><br>
+<div class="navbar navbar-default navbar-fixed-bottom">
+    <div class="container">
+      <p id="footer"><em>&nbsp;<span class="glyphicon glyphicon-copyright-mark" aria-hidden="true"></span> Not to be reproduced without prior permission.</em></div></div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>

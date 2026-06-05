@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width = 980" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="description"
+ content="Lesson 48 of A basic course in Bahasa Malaysia (also known as Bahasa Melayu or the Malay language)">
+   <meta name="keywords" 
+content="bahasa, Malay language, Malaysian language, langue Malaisienne, bahasa Melayu, bahasa Malaysia, national language of Malaysia, lessons, course, tutorial, cours en malais"> 
+<TITLE>Lesson 48 of A basic course in Bahasa Malaysia (also known as Bahasa Melayu or the Malay language) </TITLE>
+<style>
+body:after {font-style:italic;border:0;content:"This course is copyrighted and is not to be reproduced under any circumstances.";}
+.blue {color:blue}
+.red {color:red}
+.black {color:black}
+.yellow {color:yellow}
+.green {color:green}
+.white {color:white}
+</style>
+<script type="text/javascript">
+function mailto(domain,user) 
+{ 
+document.location.href = "mailto:" + user + "@" + domain;
+}
+</script>
+<?  include "indon_table.css";  ?>
+</head>
+
+<body bgcolor=#cccccc onload='setFocusToTextBox()'>
+<center>
+
+<table width="980"><tr>
+
+<td width="810" valign="top">
+
+
+<?
+include "copyright.inc" 
+?>
+
+<H1><span style="background-color:midnightblue;">&nbsp;&nbsp;Lesson 48   Betulkah?    (Is that true?)&nbsp;&nbsp;</span></H1>
+
+<center><img src=l48betulkah.gif width=400 height=50></center><br>
+
+<FONT face=tahoma color=black size=3>
+<a href="l48betulkah.wav"> Click to listen&nbsp;&nbsp;<img src="audio.gif"></a><br />
+
+<br /><a href="ismat_lesson48.wma"> A second reading</a> (by Muhammad Nor Ismat, a native speaker)</a></b><br />
+<br>
+<table bgcolor=white style="border:1px solid black" width=800><tr><td style="padding-left:10px" bgcolor=yellow width=40%>
+<span class="blue"> 
+Betulkah? <br>
+Saya dengar anda sudah kahwin.  Betulkah?<br>
+<img src="ya.gif">&nbsp;&nbsp;Ya, betul.	 <br>
+Orang kata anda sudah berhenti kerja.  Betulkah?<br>
+<img src="tidak.gif">&nbsp;&nbsp;Tidak, tidak betul.
+</b></span>
+</td><td style="padding-left:10px;border-left:1px solid black" bgcolor=lightgreen width=40%>
+<span class="black"> 
+Is that true? <br>
+I hear that you have been married.  Is that true?<br>
+Yes, it's true. <br>
+They say that you have left your job.  Is that true? <br>
+No, it's not true.
+</b></span>
+</td>
+
+</tr></table>
+<br></font>
+
+<FONT face=tahoma color=black size=3>
+<u>Note:</u>
+<p style="max-width:800px;font-family:tahoma;font-size:16px;">1. Another word often used in the place of <font color=red>betul</font> (meaning "true") is <font color=red>benar</font>.
+<br>2. You will notice that all answers in the affirmative are with <font color=red> Ya</font> (simple, just consider it as a variation of Yeah!) or <font color=red> Betul</font> (True) while negative answers are either with the word <font color=red>tidak</font> which has already been covered in Lesson 37 and again here or with the word <font color=red>bukan</font> which also means "no" or "not" and which will be explained in Lesson 51.  By not introducing both words in the same lesson I hope you will not be confused as to when to use <font color=red>tidak</font> and when to use <font color=red>bukan</font>.  But for the moment just remember that you say <font color=red>Tidak</font> when the answer is "No".  So a really critical word to know if there is one!
+<br>
+<br> <font color=red>Fahamkah?</font> (Do you understand?)
+<br><font color=red>Ya, saya faham.</font>  (Yes, I understand.)
+<br><font color=red>Tidak, saya tidak faham. Tolong ulang sekali lagi.</font>  (No, I don't understand. Kindly repeat it again.)
+<br>Or <font color=red>Boleh ulang sekali lagi?</font> (Can you please say it again?) The final syllable in the sentence has to be on a rising tone so the listener knows it's a question.
+<br><br><font color=red>Bolehkah anda tolong saya?</font> (Can you help me?)
+<br>Another common word (though less informal) that is used in the place of <font color=red>tolong</font> (meaning "to help") is <font color=red>bantu</font> so the above question can also be <font color=red>Bolehkah anda bantu saya?</font>
+<br>The answer is either in the positive:
+<br><font color=red>Ya, boleh</font>  (Yes, I can) or <font color=red>Ya, memang boleh</font>  (Yes, of course I can) in which case make sure you pronounce the word <font color=red>memang</font> as may-mang.
+<br>But if the answer is in the negative it will be:
+<br><font color=red>Tidak, saya sangat sibuk sekarang.  Minta maaf.</font>  (No, I'm very busy now. Sorry.)
+<br><br><strong>Other examples:</strong>
+<br><font color=red>Bolehkah anda maafkan saya?</font> (Can you forgive me?)
+<br><font color=red>Ya, memang boleh.</font>  (Yes, of course I can.)
+<br><br><font color=red>Dia marahkah?</font>  (Was he angry?)
+<br><font color=red><img src="marah.gif">&nbsp;Ya, dia marah.</font>   (Yes, he was.)
+<br><br>And if he was not angry:
+<br><font color=red>Tidak, dia tidak marah.</font>   (No, he was not.)
+<br><br><font color=red>Baguskah?</font>  (Is it good?)
+<br><font color=red><img src="bagus.gif">&nbsp;Ya, bagus.</font>  (Yes, it is.)  But if you want to add that it is really excellent you can say <font color=red>Ya, bagus sekali.</font>
+<br><br><font color=red>Tidak, tidak bagus.</font>   (No, it's not good.)
+<br><br><font color=red>Anda boleh cakap bahasa Inggeriskah?</font>  (Can you speak English?)
+<br><font color=red>Ya, saya boleh cakap bahasa Inggeris.</font>  (Yes, I can speak English.)
+<br><font color=red>Tidak, saya tidak boleh cakap bahasa Inggeris.</font>  (No, I can't speak English.)
+<br><br>I hope the above examples will give you a good idea of how to answer questions both in the affirmative and in the negative using <font color=red>tidak</font> and not <font color=red>bukan</font>.
+<br>You would have noticed that <font color=red>kah</font> is frequently tagged on to the end of the question though it is not necessary if you give the last syllable a rising tone.
+
+
+</p><br>
+<img src=forthose_knowmore.jpg>
+<br><p style="max-width:800px;font-family:tahoma;font-size:16px;"><font color=red>Betulkah?</font> in a more complete form would be  <font color=red>Betulkah itu?</font> (Is that true?)<BR>
+Other possible answers to this question (besides <font color=red>Ya</font> and <font color=red>Tidak</font>) are:
+<br><font color=red>Mungkin</font> (Probably)
+<br><font color=red>Boleh jadi</font> or <font color=red>Barangkali</font> (Perhaps), and
+<br><font color=red>Entah</font> or <font color=red>Entahlah</font> (Dunno) when you have no idea at all of its veracity.
+<br>
+<br><u>Note</u>:</b> Instead of asking <span style="color:red;">Betulkah</span> you can also ask <span style="color:red;">Betul tak</span>?
+<br>However this form is often used to get your interlocutor to agree to something obvious that you've just said.  In such a case this is not a real question as it expects a <span style="color:red;">Ya betul</span> for an answer, the English equivalent of the question being, "Isn't it so?"
+<br>An example of such a use is:
+<br><span style="color:red;">Kalau selalu mencuri, mesti kena tangkap satu hari, betul tak?</span>
+  (If one is in the habit of stealing one is sure to be caught one day, isn't it true?)
+<br>The above is an example of a sentence using the passive construction.  The passive voice is very, very frequent in written Malay (especially in newspaper reports) so I'm making use of this occasion to talk about it.
+<br>In fact there are two main rules for the formation of the passive voice in Malay.
+
+<br>By using the word <span style="color:red;">kena</span> before the verb in the infinitive (that is, in its root form without the prefix) as in the above sentence (<span style="color:red;">kena tangkap</span> = to be caught).  Other examples are:
+<br><span style="color:red;">Dia kena pukul</span> = He was beaten.
+<br><span style="color:red;">Saya kena tipu</span> = I was cheated.  (It's important to know how to say this, if you have to make a police report, which God forbid!)
+<br>But instead of using <span style="color:red;">kena</span> we can use <span style="color:red;">di</span> followed by the verb in question to turn a sentence into the passive voice though in such cases it usually goes hand in hand with the word <span style="color:red;">oleh</span> eg.
+<br><span style="color:red;">Dia telah ditangkap oleh polis.</span> (as in English "He was caught by the police").  Other examples:
+<br><span style="color:red;">Dia telah dipukul oleh dua orang yang dia tidak kenal.</span>  (He was beaten up by two men unknown to him.)
+<br><span style="color:red;">Saya telah ditipu oleh pemandu teksi.</span>  (I was cheated by a taxi-driver.)
+<br>For English-speaking learners it helps to have the word <font color=red>oleh</font> (meaning "by") in the above passive sentences though your Malay language teacher might say that it shouldn't be there.
+<br>In fact this second construction of converting a verb into the passive (by putting <font color=red>di</font> before it and quite often, <font color=red>kan</font> after it, as in <span style="color:red;">Dia telah <em>diselamatkan</em> oleh ahli bomba</span> meaning "He was saved by the fireman") is very often used in Malay newspaper reports.
+</ul>
+
+The best way to familiarize yourself with the use of verbs in the passive voice in Malay is by studying how they are used in actual sentences.  The examples in <a href="http://pgoh13.com/mycourse/malay_sentences_archive1.php" target="_blank"> this page </a> are all taken from Malay newspapers.  You need to spend only 10 minutes or so every day but after some time I can assure you that you will be able to make use of them very easily.
+<br>If you have studied Lesson 42 well you would have remembered that <span style="color:red;">kena</span> has also the sense of being obliged or having to do something eg. <span style="color:red;">Saya kena pergi sekarang</span> meaning "I have to go now".  I will not go into this again here.
+<br>As a matter of fact the word <span style="color:red;">kena</span> has a few other meanings such as hitting the target or suffering from a disease eg. <span style="color:red;">Dia kena penyakit barah</span> meaning "He is suffering from cancer".
+<br>Or, in typical Malaysian fashion (i.e. interposing a Malay word in an English sentence) you might hear someone in the office say: "If you make fun of the boss you're going to <span style="color:red;">kena</span>".  From the context you can guess that <span style="color:red;">kena</span> here means to get into trouble or to be at the receiving end of someone's anger or some unpleasant treatment.  In Lesson 36 you learnt that the word <span style="color:red;">marah</span> means "angry".  The Malay expression for "got scolded" is <span style="color:red;"> kena marah</span>.  So if you should be having a sad face and you are asked why, you could say <span style="color:red;">Saya kena marah</span> to which your friend will undoubtedly ask <span style="color:red;">Oleh siapa?</span> (By whom?)
+<br>The word <span style="color:red;">kena</span> is also frequently used in the expression <span style="color:red;">kena loteri</span> meaning "to strike or win a lottery".  Example:
+<br><span style="color:red;">Dia orang kaya sekarang kerana kena loteri baru-baru ini.</span> (He is a rich man now having won a lottery recently.)
+</p>
+<br>
+
+<a href=lesson47opposites.php><img src=back.gif></a> <a href=lesson49sebutan1.php><img src=forward.gif></a> 
+<br><br>
+<table class="indon_table">
+  <tr>
+    <th>ENGLISH</th>
+    <th>INDONESIAN</th>
+    <th>MALAY</th>
+  </tr>
+ 
+  <tr>
+    <td>marry</td>
+    <td>kawin</td>
+    <td>kahwin</td>
+  </tr>
+ 
+  <tr class="alt">
+    <td>understand</td>
+    <td>paham</td>
+    <td>faham</td>
+  </tr>
+ <tr>
+    <td>Can you speak English?</td>
+    <td>Anda bisa bicara bahasa Inggris?</td>
+    <td>Anda boleh cakap bahasa Inggeris?</td>
+  </tr>
+ 
+  <tr class="alt">
+   <td>No, I can't speak English.</td>
+    <td>Tidak, saya tidak bisa bicara bahasa Inggris.</td>
+    <td>Tidak, saya tidak boleh cakap bahasa Inggeris.</td>
+  </tr>
+ <tr>
+   <td>lottery</td>
+    <td>lotere</td>
+    <td>loteri</td>
+  </tr>
+ 
+  <tr class="alt">
+    <td>taxi-driver</td>
+    <td>sopir/supir taksi</td>
+    <td>pemandu teksi</td>
+  </tr>
+ <tr>
+    <td>police</td>
+    <td>polisi</td>
+    <td>polis</td>
+  </tr>
+ 
+  <tr class="alt">
+    <td>cancer</td>
+    <td>kanker</td>
+    <td>barah, kanser</td>
+  </tr></table>
+<br>
+<?
+include "streaming.inc" 
+?>
+<!--  <hr>
+<embed src="l48betulkah.wav" height=60 width=144 controller=true controls=console hidden=false  autostart=true loop=0>  -->
+
+</center>
+</body>
+</HTML>

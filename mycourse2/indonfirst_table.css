@@ -1,0 +1,53 @@
+<style>
+.indonfirst_table {
+    border-collapse: collapse;
+}
+
+.indonfirst_table, .indonfirst_table td, .indonfirst_table th {
+    border: 1px solid black;
+}
+
+.indonfirst_table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    width: 600px;
+}
+
+.indonfirst_table td, .indonfirst_table th {width:33%;
+    font-size: 1em;
+    border: 1px solid black;
+    padding: 3px 7px 2px 7px;
+}
+
+.indonfirst_table th {
+    font-size: 1.1em;
+    text-align: left;
+    padding-top: 5px;
+padding-left: 15px;
+    padding-bottom: 4px;
+    background-color: black;
+    color: #ffffff;
+}
+
+
+
+
+.indonfirst_table tr td {
+    color: #000000;
+    background-color: yellow;
+text-align:left;
+}
+
+
+
+
+
+.indonfirst_table tr.alt td {
+    color: #000000;
+    background-color: #EAF2D3;
+}
+
+.indonfirst_table tr.imp td {
+    color: red;
+    background-color: yellow;
+}
+</style>

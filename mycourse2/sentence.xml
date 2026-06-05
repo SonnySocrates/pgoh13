@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sentence.xsl"?>
+<!-- from chat mistral ai  -->
+<translation>
+  <paragraph>
+        These sentences are all taken from Malay newspapers such as Utusan Malaysia and Berita Harian and also online news services Malaysiakini and Bernama this year (2025). I have done something similar in 2011. <a href="http://pgoh13.free.fr/mycourse2/malay_sentences_archive1.php">(It's here)</a>. If you don't agree with my translation, it's ok. It is possible to translate the same text differently. I don't claim that my translation is the best. - pgoh13 (19/02/2025)
+    </paragraph>
+<sentence>
+    <malay>Sejumlah lima juta murid memulakan sesi persekohan baharu semalam dan hari ini di seluruh negara.</malay>
+    <english>A total of five million pupils began the new academic session yesterday and today throughout the country.</english>
+  </sentence>
+  <sentence>
+    <malay>Sekolah sesi petang yang mempunyai murid dan guru beragama Islam akan menamatkan sesi persekolahan seawal pukul 5.30 petang.</malay>
+    <english>Afternoon session schools having Muslim pupils and teachers will end their school session as early as 5.30 in the evening.</english>
+  </sentence>
+<sentence>
+    <malay>Bahasa Melayu, sebagai satu daripada bahasa terbesar di Asia Tenggara, memainkan peranan penting dalam membentuk identiti dan budaya serantau.</malay>
+    <english>The Malay language, as one of the largest languages ​​in Southeast Asia, plays an important role in shaping the identity and culture of the region.</english>
+  </sentence>
+<sentence>
+    <malay>testBahasa Melayu, sebagai satu daripada bahasa terbesar di Asia Tenggara, memainkan peranan penting dalam membentuk identiti dan budaya serantau.</malay>
+    <english>testThe Malay language, as one of the largest languages ​​in Southeast Asia, plays an important role in shaping the identity and culture of the region.</english>
+</sentence>
+<sentence>
+    <malay>test2Bahasa Melayu, sebagai satu daripada bahasa terbesar di Asia Tenggara, memainkan peranan penting dalam membentuk identiti dan budaya serantau.</malay>
+    <english>test2The Malay language, as one of the largest languages ​​in Southeast Asia, plays an important role in shaping the identity and culture of the region.</english>
+  </sentence>
+</translation>
+

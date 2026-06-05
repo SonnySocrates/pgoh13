@@ -1,0 +1,22 @@
+<?xml version="1.0"?> 
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD wml 1.3//EN" 
+    "http://www.wapforum.org/DTD/wml.xml"> 
+<wml>
+p {
+background: #660000;
+
+color: #cccccc;
+} 
+    <card id="lesson1" title="Lesson 1"> 
+     <p><table align="L">
+<tr><td>What is your name?</td></tr><tr><td><div style="color: #FF0000; background: #FFFF99;"> = Apa nama anda?</div></td></tr>
+<tr><td>What is his name?</td></tr><tr><td><div style="color: #FF0000; background: #FFFF99;">= Apa namanya?</div></td></tr>
+<tr><td>What is her name?</td></tr><tr><td><div style="color: #FF0000; background: #FFFF99;">= Apa namanya?</div></td></tr>
+<tr><td>My name is John.</td></tr><tr><td><div style="color: #FF0000; background: #FFFF99;">= Nama saya John.</div></td></tr>
+<tr><td>His name is Peter.</td></tr><tr><td><div style="color: #FF0000; background: #FFFF99;">= Namanya Peter.</div></td></tr>
+<tr><td>Her name is Mary.</td></tr><tr><td><div style="color: #FF0000; background: #FFFF99;">= Namanya Mary.</div></td></tr>
+<tr><td>He is my friend.</td></tr><tr><td><div style="color: #FF0000; background: #FFFF99;">= Dia kawan saya.</div></td></tr>
+<tr><td>She is my friend.</td></tr><tr><td><div style="color: #FF0000; background: #FFFF99;">= Dia kawan saya.</div><br />(Dia can stand for He as well as She.)</td></tr>
+     </table></p> 
+    </card> 
+</wml>

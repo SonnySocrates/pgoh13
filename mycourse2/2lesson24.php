@@ -1,0 +1,118 @@
+<? include "core1m.inc"; ?>
+
+<head>
+<title>Lesson 24 of A Basic Malay Language Course by pgoh13</title>
+<meta name="description" content="Lesson 24 of A basic course in Bahasa Malaysia (also known as Bahasa Melayu or the Malay language)" />
+</head>
+
+
+<H1>&nbsp;&nbsp;Lesson 24  <font color=red>Apa yang anda hendak minum?&nbsp;&nbsp;</font><br>&nbsp;&nbsp;(What do you want to drink?)&nbsp;&nbsp;</H1>
+
+<br><img src="l24minum.gif" class="img-responsive">
+<p>
+<br>
+<span class="glyphicon glyphicon-headphones glyphicon-large" aria-hidden="true"></font>
+<a style="font-family:arial;font-size:18px;" href="l24minum.wav" target=_blank>Click to listen to the Malay sentences.</a><br>
+<br>
+<span class="glyphicon glyphicon-headphones glyphicon-large" aria-hidden="true"></font>
+<a style="font-family:arial;font-size:18px;" href="ismat_lesson24.wma">A second reading (by Michelle Nor Ismat, a native speaker)</a><br><br>
+
+<table class="table table-striped">
+<tr>
+<td style="border-right:1px solid black;border-top:1px solid black;">I want to drink coffee.</td>
+<td style="border-right:1px solid black;border-top:1px solid black;">Saya hendak minum kopi.</td>
+</tr><tr>
+<td style="border-right:1px solid black;">What do you want to drink?</td>
+<td style="border-right:1px solid black;">Anda hendak minum apa?</td>
+</tr><tr>
+<td style="border-right:1px solid black;">I want to drink tea.</td>
+<td style="border-right:1px solid black;">Saya hendak minum teh.</td>
+</tr><tr>
+<td style="border-right:1px solid black;">He drinks milk every morning.</td>
+<td style="border-right:1px solid black;">Dia minum susu tiap-tiap pagi.</td>  
+</tr><tr>
+<td style="border-right:1px solid black;">My friend only drinks water.</td>
+<td style="border-right:1px solid black;">Kawan saya minum air* sahaja.</td>
+</tr><tr>
+
+<td colspan=2 bgcolor=beige style="border-top:1px solid black;"><strong>Vocabulary</strong>
+
+<br>hendak = to wish (also, to want)
+<br>minum = to drink
+<br>kopi = coffee
+<br>teh = tea
+<br>susu = milk
+<br>tiap-tiap pagi = every morning
+<br>kawan = friend
+<br>air* = water
+<br>sahaja = only
+</td>
+</tr>
+</table>
+
+*No, my friend above does not drink air but water, trust me! The Malay <font color="red">air</font> really means water and is pronounced ai-yer (2 syllables, as the earlier spelling was ayer).
+
+<br><br><br>
+<img src=forthose_knowmore.jpg>
+<br>
+<p style="max-width:800px;font-family:tahoma;font-size:16px;">
+Please refer to Lesson 14 on the use of <font color="red">hendak</font>.
+<br />
+"Beer" and "whisky" keep their English pronunciation though their spelling is changed in Malay to  <font color="red">bir</font> and  <font color="red">wiski</font> in conformity with Malay spelling rules.   Thus:
+<br> <font color="red">Dia suka minum bir tetapi saya suka minum wiski.</font> = He likes to drink beer but I like to drink whisky.<br>
+Another "foreign" drink that keeps its English pronunciation is "wine" though it is spelt the Malay way eg. <font color="red">Saya hendak minum wain.</font><br>
+And after drinking so much whisky and wine don't be surprised if you become <font color="red">mabuk</font>.  Yes, you guessed it! &nbsp; <font color="red">Dia mabuk</font> means "He is drunk".
+<br />
+When asking a guest what he wants to drink, it is perhaps better to use <font color="red">hendak</font> (wish) than <font color="red">suka</font> (like).
+<br>
+However, instead of asking <font color="red">Anda hendak minum apa?</font> you can also ask  <font color="red">Anda mahu minum apa? </font> (What do you want to drink?) in which case the answer would be <font color="red">Saya mahu minum kopi. </font><br>
+Note that <font color="red">mahu</font> is normally pronounced <font color="red">mau</font> in its spoken form.
+<br>
+As you've just learnt, the  Malay word for milk is <font color="red">susu</font> so coffee with milk is <font color="red">kopi susu</font> and tea with milk <font color="red">teh susu</font>.  Similar to <font color="red">teh susu</font> (except that it is covered with a thick layer of froth) is <font color="red">teh tarik</font>.  &nbsp;It means "pulled" milk tea.  You'll have to see the teaman in action tossing the tea from one receptacle to your teacup to understand what this really means.  <a href=#tehtarik_photos>Go below or click here for photos of the teh tarik seller.</a>
+<br>Those who are new to Malaysia will soon find out that <font color="red">teh tarik</font> is a real social leveller in Malaysia and considered as its national drink. Whether you are King or just a common labourer everyone has a right to his glass of <font color="red">teh tarik</font>.  In fact when the price of fuel was increased in Malaysia even non-motorists protested as they felt that this would have an impact on the price of a glass of <font color="red">teh tarik</font>!   And there was talk about asking the first Malaysian astronaut to make teh tarik in space when he accompanied the Russian space launcher on October 6, 2007.  This proposal didn't materialize finally as the food and diet were in the hands of nutritionists.
+
+<!-- <br />Here's an <a href="http://pgoh13.free.fr/tehtarik_price.php" target=_blank>article</a> that tells you about the role of teh tarik in the Malaysian society.  -->
+<br>
+Coffee without milk (but normally with sugar already in it) is called <font color="red">kopi O</font> (pronounced "or") or <font color="red">kopi kosong</font> (<font color=red>kosong</font> by the way means "empty").  &nbsp;Same for tea - ask for <font color="red">teh O</font> or <font color="red">teh kosong</font> if you don't want milk.   If you want your coffee or tea with ice cubes just add the word <font color="red">ais</font> (as in "ice" - its English origin) or <font color="red">beng</font> (Chinese origin).  This is a good example of the versatility of the Malay language adopting words from other languages like all active and dynamic languages do.
+<br>
+Malaysians normally take their coffee and tea sweet so if you don't take sugar you have to add <font color="red">tanpa gula</font> (without sugar) or  <font color="red">tak mau gula</font> (don't want sugar)
+<br>But what if it is not sweet enough?  Just say <font color="red">Tak cukup manis.  Tolong tambah sedikit gula lagi.</font> (It's not sweet enough.  Please add a bit more sugar.)
+<br>In Indonesia coffee without sugar is called <font color="red">kopi pahit</font> and tea without sugar is called <font color="red">teh pahit</font>.  Quite logical as the word <font color="red">pahit</font> means "bitter".
+
+<br>But whether you are in Malaysia or Indonesia, the same word <font color="red">kopi</font> is used for "coffee". You might have heard of Indonesia's "kopi luwak", which some coffee-drinkers (influenced no doubt by Jack Nicholson's character in the movie "The Bucket List") claim to be the best coffee in the world (if not the most expensive). Its notoriety is further enhanced by the fact that it is derived from the poop of an animal called the civet. But coffee experts debunk this "myth". If you are interested to read further <a href="https://coffeechronicler.com/coffee-cherry-taste/" target=_blank>go here.</a>
+
+<br>Oh, I nearly forgot.  How do you say "I feel thirsty" in Malay?  It's <font color="red">Saya berasa dahaga</font>. 
+<br>There is another word for thirsty.  It's <font color="red">haus</font>. So you can also  say <font color="red">Saya berasa haus</font>.
+<br>
+Incidentally "coffee shop" in Bahasa Malaysia is  <font color="red">kedai kopi.</font>
+It is equivalent to the English pub or the French caf&eacute; and you go  there not just for a cup of coffee but also to have your meals <i>(nasi lemak, roti canai, char koay teow, etc)</i>  or to <font color="red">sembang</font> (chat) with your friends (which can be very loud at times, everyone feeling as much at home in a coffee-shop as in his own house!).
+<br />By the way please note that the first syllable in <font color="red">sembang</font> is pronounced as in the English word "same" and not as the first syllable of <font color="red">sembilan</font> which, as you have already learnt in Lesson 5, means "nine".
+
+<br />In fact the <font color="red">kedai kopi</font> is such an institution in Malaysia and the Chinese word for it <font color="red">kopitiam</font> ("tiam" meaning shop in Chinese) so widely used that the word has recently found its way into the Dewan Bahasa dan Pustaka's authoritative Malay dictionary <i>Kamus Dewan (edisi keempat) </i> which appeared in 2005 (the previous edition came out in 1994 and did not include the word) with this entry:
+<br /><font color="red">kopitiam</font> = <font color="red">kedai kopi</font>
+<br>
+Another place where Malaysians like to hang out is the "mamak" stall ("mamak" being the word locals use for an Indian converted to Islam), though if you use the word to refer to an Indian Muslim it could stir up some hot Indian blood!  And knowing how spicy Indian curries are I would advise you  not to use it!   <a href=http://en.wikipedia.org/wiki/Mamak_stall target=_blank>Read more about the "mamak stall" in this Wikipedia article.</a>
+<br>
+From <font color="red">kedai kopi</font> meaning "coffee shop" (in Malay the adjective comes after the noun, remember?) you would have guessed that the Malay word for "shop" is <font color="red">kedai</font>.  Thus <font color="red"> Saya akan pergi ke kedai kasut esok</font> means "I shall be going to the shoe shop tomorrow".
+<br><font face=comic sans ms color="blue" size=4><b>Cultural note:</b></font> &nbsp;&nbsp;At social functions drinks are normally offered and received with both hands.
+</p><br />
+<a name=tehtarik_photos></a>
+
+<img src=tehtarik_seller1.jpg>&nbsp;&nbsp;<img src=tehtarik_seller2.jpg>
+<br>The first photo shows an apprentice teh tarik seller and the second someone who has been selling teh tarik all his life.
+
+<br><br>
+<p><a class="btn btn-primary btn-lg" style="background-color:black;" href="lesson23.php" role="button"><span class="glyphicon glyphicon-home glyphicon-chevron-left" aria-hidden="true"></font>&nbsp;Previous lesson</a>&nbsp;&nbsp;&nbsp;
+<a class="btn btn-primary btn-lg" style="background-color:black;" href="table_contents.htm" role="button"><span class="glyphicon glyphicon-home glyphicon-list-alt" aria-hidden="true"></font>&nbsp;Table of Contents</a>&nbsp;&nbsp;&nbsp;
+<a class="btn btn-primary btn-lg" style="background-color:black;" href="lesson25.php" role="button">Next lesson&nbsp;<span class="glyphicon glyphicon-home glyphicon-chevron-right" aria-hidden="true"></font></a></p>
+
+
+
+<? include "core2m.inc"; ?>
+
+</div></div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>

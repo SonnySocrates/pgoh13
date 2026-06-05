@@ -1,0 +1,230 @@
+<? include "core1m.inc"; ?>
+
+<head>
+<title>Lesson 9 of A Basic Malay Language Course by pgoh13</title>
+<meta name="description" content="Lesson 9 of A basic course in Bahasa Malaysia (also known as Bahasa Melayu or the Malay language)" />
+</head>
+
+<H1>Lesson 9 (Telling the time) <img src=clock_logo1.jpg /></H1> 
+
+<br><img src="l9jam.gif" class="img-responsive">
+<p>
+<br>
+<span class="glyphicon glyphicon-headphones glyphicon-large" aria-hidden="true"></span>
+<a href="l9jam.wav" target=_blank>Click to listen to the Malay sentences.</a><br>
+<br>
+<span class="glyphicon glyphicon-headphones glyphicon-large" aria-hidden="true"></span>
+<a href="ismat_lesson9.wma">A second reading</a> (by Michelle Nor Ismat, a native speaker)<br><br>
+
+<table class="table table-striped">
+<tr>
+<td style="border-right:1px solid black;border-top:1px solid black;">What time is it now?</td>
+<td style="border-right:1px solid black;border-top:1px solid black;">Pukul berapa sekarang?</td>
+</tr><tr>
+<td style="border-right:1px solid black;">- Five o'clock.</td>
+<td style="border-right:1px solid black;">- Pukul lima.</td>
+</tr><tr>
+<td style="border-right:1px solid black;">- Half-past eight.</td>
+<td style="border-right:1px solid black;">- Pukul lapan setengah.</td>
+</tr><tr>
+<td style="border-right:1px solid black;">- 2h19 (Two nineteen, as in English)</td>
+<td style="border-right:1px solid black;">- Pukul dua sembilan belas.</td>  
+</tr><tr>
+<td style="border-right:1px solid black;">- 10h45 (Ten forty-five)</td>
+<td style="border-right:1px solid black;">- Pukul sepuluh empat puluh lima.</td>
+</tr><tr>
+
+<td colspan=2 bgcolor=beige style="border-top:1px solid black;"><strong>Vocabulary</strong>
+<br>pukul = to hit, beat<br>
+berapa = how many/much<br>
+sekarang = now<br>
+setengah = half<br>
+sepuluh = ten</td>
+</tr>
+</table>
+
+<p>
+NOTE:<em>
+<br>1. In the words <font color=red>setengah</font> and <font color=red>sepuluh</font> above the <font color=red>se</font> is actually the abbreviated form of <font color=red>satu</font>.
+<br>2. While <font color=red>berapa</font> is used to ask the time, it also means "How many" as in <font color=red>Berapa 
+orang datang?</font> (How many people came?).  It can also mean "How much" eg. <font color=red>Berapakah gaji anda?</font> (How 
+much is your salary?)</em></p>
+
+<br>
+<p>In the absence of a teacher, the table below will help you practise saying the time (up to 59 minutes):
+<div class = "container" style="max-width:800px;margin-left:0;">
+   <div class = "row">
+
+<div class = "col-xs-6 col-sm-4 col-md-3">
+<div style="background-color:yellow;border:1px solid black;padding-left:15px;">
+1 = satu <br>
+2 = dua<br>
+3 = tiga<br>
+4 = empat<br>
+5 = lima<br>
+6 = enam<br>
+7 = tujuh<br>
+8 = lapan<br>
+9 = sembilan<br>
+10 = sepuluh<br>
+
+</div></div>
+
+<div class = "col-xs-6 col-sm-4 col-md-3">
+<div style="background-color:#66CC33;border:1px solid black;padding-left:15px;">
+11 = sebelas<br>
+12 = dua belas<br>
+13 = tiga belas <br>
+14 = empat belas<br>
+15 = lima belas<br>
+16 = enam belas<br>
+17 = tujuh belas<br>
+18 = lapan belas<br>
+19 = sembilan belas<br>
+20 = dua puluh<br>
+
+</div></div>
+
+<div class = "col-xs-6 col-sm-4 col-md-3">
+<div style="background-color:orange;border:1px solid black;padding-left:15px;">
+21 = dua puluh satu<br>
+22 = dua puluh dua<br>
+23 = dua puluh tiga<br>
+24 = dua puluh empat<br>
+25 = dua puluh lima<br>
+26 = dua puluh enam<br>
+27 = dua puluh tujuh<br>
+28 = dua puluh lapan<br>
+29 = dua puluh sembilan<br>
+30 = tiga puluh<br>
+
+</div></div>
+
+<div class = "col-xs-6 col-sm-4 col-md-3">
+<div style="background-color:#FFCC00;border:1px solid black;padding-left:15px;">
+31 =  tiga puluh satu<br>
+32 =  tiga puluh dua<br>
+33 =  tiga puluh tiga<br>
+34 =  tiga puluh empat<br>
+35 =  tiga puluh lima<br>
+36 =  tiga puluh enam<br>
+37 =  tiga puluh tujuh<br>
+38 = tiga puluh lapan<br>
+ 39=   tiga puluh sembilan<br>
+40 = empat puluh<br>
+
+</div></div>
+
+<div class = "col-xs-6 col-sm-4 col-md-3">
+<div style="background-color:beige;border:1px solid black;padding-left:15px;">
+41 = empat puluh satu<br>
+42 = empat puluh dua<br>
+43 = empat puluh tiga<br>
+44 = empat puluh empat <br>
+ 45= empat puluh lima<br>
+46 = empat puluh enam<br>
+47 = empat puluh tujuh<br>
+48 = empat puluh lapan<br>
+49 =  empat puluh sembilan <br>
+50 = lima puluh<br>
+</div></div>
+
+<div class = "col-xs-6 col-sm-4 col-md-3">
+<div style="background-color:lightgreen;border:1px solid black;padding-left:15px;">
+51 = lima puluh satu<br>
+52 =  lima puluh dua<br>
+53 =  lima puluh tiga<br>
+54 =  lima puluh empat<br>
+55 =  lima puluh lima<br>
+56 =  lima puluh enam<br>
+57 =  lima puluh tujuh<br>
+ 58=  lima puluh lapan<br>
+59 = lima puluh sembilan
+
+</div></div>
+
+</div></div>
+</p>
+<br>
+<p>When you want to tell the time in Malay you always start with the word <font color=red>pukul</font> (literally means to hit - 
+
+think of hitting a gong to announce the time).  What follows is exactly like telling the time in English.   Thus "It is 9h25" 
+
+(nine twenty-five) is translated as  <font color=red>Pukul 9 (sembilan) 25 (dua puluh lima).</b></font><br>If you like to do so 
+
+you can add <font color=red>minit</font> for the minutes but this is not really necessary, eg.  <font color=red>Pukul sembilan 
+
+dua puluh lima</b></font> or <font color=red>Pukul sembilan dua puluh lima minit</b></font> are both correct.
+<br>
+Apart from announcing the time <font color=red>pukul</font> is also used in the sense of beating (hitting) a person eg. <font 
+
+color=red>Dia memberitahu polis bahawa dia telah dipukul oleh dua orang samseng</font>.  (He told the police that he was beaten 
+
+up by two gangsters).  The word <font color=red>oleh</font> means "by" (as used in passive sentences).
+
+
+
+<h3>For those who want to know more</h3>
+<br>
+<p>To tell someone the time you usually start with <font color=red>Pukul</font> or <font color=red>Jam</font> (this is more 
+
+frequent in Indonesia) followed by the actual time but if you are asking someone AT what time he sleeps, for example, you have to 
+
+precede it  with the preposition <font color=red>pada</font> (= at here).  Eg. <font color=red>Anda tidur <u>pada</u> pukul 
+
+berapa?</font>
+<br>In such cases you might want to use the word <font color=red>biasanya</font> (usually) eg. <font color=red>Saya biasanya 
+
+habis kerja pada pukul enam petang.</font>  (I usually finish work at six in the evening.)
+<br>By the way <font color=red>jam</font> is pronounced as "jump" without the final p sound and not as what you smear on your 
+
+bread!  It also means "a clock" while <font color=red>jam tangan</font> means a watch.
+<br>As you have already seen in Lesson 7 <font color=red>pada</font> is also used with days of the week eg. <font color=red>pada 
+
+hari Isnin</font> (on Monday).  Similarly <font color=red>pada hari jadinya</font> means "on his birthday".
+<br>It is also used with months eg. <font color=red>pada bulan Mac</font> (in March) though you are more likely to hear <font 
+
+color=red>dalam bulan Mac</font>.
+<br>Thus depending on the usage <font color=red>pada</font> can mean "at", "on" or "in".
+<br><font color=red>Jam berapa?</font> is sometimes used instead of <font color=red>Pukul berapa? </b></font> and is the standard 
+
+way of asking the time in Indonesia.  But if the two words are reversed (<font color=red>Berapa jam?</font>) then it means "How 
+
+many hours?"
+<br>You should not be confused over this as <font color=red>Berapa?</font> by itself means "How many" (eg. <font color=red>Berapa 
+
+orang datang?</font> = How many people came?).  It can also mean "How much" in the case of <font color=red>Berapa harganya?
+
+</font> (= How much is it? or literally "How much is the price".)
+<br><font color=red>Berapa jam</font> on the other hand means "how many hours" as in the example below:
+<br><font color=red>Berapa jam untuk perjalanan kereta api dari Singapura ke Kuala Lumpur?</font> (How many hours is the train 
+journey from Singapore to KL?).  By the way don't be surprised if you see <font color=red>kereta api</font> contracted to <font color=red>keretapi</font>.
+<br>2h15 is <font color=red>pukul dua suku</font> (suku means a quarter) although it is perfectly correct (and quite common) to simply say, as in English, <font color=red>pukul dua lima belas (minit).</font>
+<br>We might as well take this occasion to learn the common fractions:  one quarter is <font color=red>suku</font>, half is <font 
+color=red>setengah</font> and three-quarters is <font color=red>tiga suku</font>.
+<br>Thus 9h45 is <font color=red>pukul sembilan tiga suku </font>  or <font color=red>pukul sembilan empat puluh lima 
+(minit).</font>
+<br>By all means use <font color=red>tiga suku </font> each time you want to say "three-quarters" but make sure you don't use it 
+for a person as <font color=red>Dia tiga suku </font> would mean that the person you are referring to is half-crazy! <span class="fa fa-smile-o fa-spin" aria-hidden="true" style="background-color:yellow"></span>
+<br>To distinguish between 06h00 and 18h00 you would say <font color=red>Pukul enam pagi</b></font> for 06h00 and <font 
+color=red>Pukul enam petang</b></font> for 18h00.  When it's in the early part of the afternoon eg. 14h00 you can say <font 
+color=red>Pukul dua tengah hari.</b></font> (Note: "tengah hari" which literally means "noon" and not "setengah hari".)
+</p>
+
+
+
+
+
+
+<h3 style="color:white;background-color:#006400;">Ready to practise telling the time and day in Malay for real? If so <a style="font-size:20px;font-weight:600;color:red;background-color:white;text-decoration:none;" href=http://pgoh13.free.fr/mycourse2/time_forReal.php>&nbsp; go here! &nbsp;</a></h3>
+
+
+
+
+<p><a class="btn btn-primary btn-lg" style="background-color:black;" href="lesson8.php" role="button"><span class="glyphicon glyphicon-home glyphicon-chevron-left" aria-hidden="true"></span>&nbsp;Previous lesson</a>&nbsp;&nbsp;&nbsp;
+<a class="btn btn-primary btn-lg" style="background-color:black;" href="table_contents.htm" role="button"><span class="glyphicon glyphicon-home glyphicon-list-alt" aria-hidden="true"></span>&nbsp;Table of Contents</a>&nbsp;&nbsp;&nbsp;
+<a class="btn btn-primary btn-lg" style="background-color:black;" href="lesson10.php" role="button">Next lesson&nbsp;<span class="glyphicon glyphicon-home glyphicon-chevron-right" aria-hidden="true"></span></a></p>
+
+
+
+<? include "core2m.inc"; ?>

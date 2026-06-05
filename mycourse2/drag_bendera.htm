@@ -1,0 +1,95 @@
+
+<!DOCTYPE html>
+<!-- from: https://webdevtrick.com/html-drag-and-drop-list/ -->
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Exercise on 10 countries' flags</title>
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'>
+  <link rel="stylesheet" href="style_numbers.css">
+ <style>
+body {margin-left:50px}
+body ul .draggable {
+  will-change: transform;
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  height: 50px;
+  list-style-type: none;
+  margin: 10px;
+  background-color: white;
+  color: #212121;
+  width: 250px;
+  line-height: 3.2;
+  padding-left: 10px;
+  cursor: move;
+  transition: all 200ms;
+  user-select: none;
+  margin-left: 10px; <!-- original line: margin: 10px auto; -->
+  position: relative;
+}
+body ul .draggable:after {
+  content: 'drag me';
+  right: 7px;
+  font-size: 10px;
+  position: absolute;
+  cursor: pointer;
+  line-height: 5;
+  transition: all 200ms;
+  transition-timing-function: cubic-bezier(0.48, 0.72, 0.62, 1.5);
+  transform: translateX(120%);
+  opacity: 0;
+}
+body ul .draggable:hover:after {
+  opacity: 1;
+  transform: translate(0);
+}
+
+.over {
+  transform: scale(1.1, 1.1);
+}
+</style>
+</head>
+<body>
+  <center><h1 style="color:midnightblue">Exercise on 10 countries' flags</h1></center>
+<br><span style="font-size:1.2rem">Drag the flags so that they appear in this order:<br>
+<br>1. Bendera negara Malaysia<br>2. Bendera negara England<br>3. Bendera negara Sepanyol<br>4. Bendera negara Itali<br>5. Bendera negara Jerman<br>6. Bendera negara Amerika<br>7. Bendera negara Lithuania<br>8. Bendera negara Rusia<br>9. Bendera negara Perancis<br>10. Bendera negara Belanda
+<br><br><em>You will need a mouse to click and drag so this exercise will not work on a smartphone. Sorry about that.</em></span>
+<!-- <div class="list">
+    <input type="text" class="input" placeholder="Add more numbers"/>
+    <span class="add">+</span>
+  </div> -->
+  <ul>
+    <li class="draggable" draggable="true"><img src=flag_perancis.gif></li>
+    <li class="draggable" draggable="true"><img src=flag_jerman.gif></li>
+    <li class="draggable" draggable="true"><img src=flag_rusia.gif></li>
+<li class="draggable" draggable="true"><img src=flag_malaysia.png></li>
+    <li class="draggable" draggable="true"><img src=flag_belanda.gif></li>
+<li class="draggable" draggable="true"><img src=flag_itali.gif></li>
+<li class="draggable" draggable="true"><img src=flag_england.jpg></li>
+<li class="draggable" draggable="true"><img src=flag_usa.jpg></li>
+
+<li class="draggable" draggable="true"><img src=flag_spain.jpg></li>
+<li class="draggable" draggable="true"><img src=flag_lithuania.gif></li>
+  </ul>
+<br><br>
+Did you get them in the following order? The last 3 flags caused quite a headache, didn't they?
+<br><br>
+<img class="img-responsive" src=flags_answer.jpg>
+ <br><br>
+<a href=lesson12warna.php><img src=back.gif></a> <a href=lesson13belum.php><img src=forward.gif></a> 
+<br><br>
+
+<table style="border-style:hidden;"><tr>
+<td>
+<b><a style="text-decoration:none;color:#00009C" href="table_contentsPC.htm" rel="nofollow">Table of Lessons (for PC)</a> &nbsp; | &nbsp;
+<a style="text-decoration:none;color:#00009C" href=http://pgoh13.free.fr/>HOME PAGE</a> &nbsp; | &nbsp;<a style="text-decoration:none;color:#00009C" href="http://www.emailmeform.com/builder/form/Vr4xzDPmb4W">Contact/Feedback&nbsp;<img src=envelope.gif style="width:18px;height:12px"></a>
+</td>
+</tr></table>
+
+
+
+
+  <script  src="function_numbers.js"></script>
+ 
+</body>
+</html>

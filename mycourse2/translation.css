@@ -1,0 +1,100 @@
+/* My CSS file reset by Grok AI so both columns equal in android */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-left: 10px;
+}
+
+p {
+    font-size: 1rem;
+}
+
+table {
+    font-size: 1rem;
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed; /* Key fix: Forces equal widths */
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    vertical-align: top;
+    width: 50%; /* Explicitly 50% for two columns */
+    overflow-wrap: break-word; /* Wraps long text */
+}
+
+@media (max-width: 600px) {
+    table {
+        font-size: 16px;
+    }
+    th, td {
+        width: 50%; /* Maintain equal width on mobile */
+    }
+}
+
+@-moz-document url-prefix() {
+    table {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    table {
+        font-size: 1rem;
+    }
+}
+
+.common-text {
+    color: #333;
+    font-weight: normal;
+    font-size: 1rem;
+}
+
+
+
+
+
+/* Keep all your existing CSS rules and add these new ones at the end */
+
+/* Style for table headers */
+th {
+    background-color: #006400 !important;
+    color: white !important;
+}
+
+/* Style for alternating rows */
+tr:nth-child(odd) td {
+    background-color: #FFFF00;
+}
+
+tr:nth-child(even) td {
+    background-color: white;
+}
+
+/* Make sure the border shows up properly */
+table, th, td {
+    border: 1px solid black;
+}
+
+a {
+    text-decoration: none !important;
+    color: red; /* Just to see if it applies */
+}
+
+.no-underline {
+    text-decoration: none !important;
+    color: red; /* Same here */
+}

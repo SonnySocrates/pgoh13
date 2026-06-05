@@ -1,0 +1,36 @@
+
+<table class="table table-striped">
+<tr>
+<td style="border-right:1px solid black;border-top:1px solid black;">english sentence 8 here</td>
+<td style="border-right:1px solid black;border-top:1px solid black;">malay sentence</td>
+</tr><tr>
+<td style="border-right:1px solid black;">english</td>
+<td style="border-right:1px solid black;">malay</td>
+</tr><tr>
+<td style="border-right:1px solid black;">english</td>
+<td style="border-right:1px solid black;">malay</td>
+</tr><tr>
+<td style="border-right:1px solid black;">english</td>
+<td style="border-right:1px solid black;">malay</td>  
+</tr><tr>
+<td style="border-right:1px solid black;">english</td>
+<td style="border-right:1px solid black;">malay</td>
+</tr><tr>
+<td style="border-right:1px solid black;">english</td>
+<td style="border-right:1px solid black;">malay</td>  
+</tr><tr>
+<td style="border-right:1px solid black;">english</td>
+<td style="border-right:1px solid black;">malay</td>
+</tr><tr>
+<td style="border-right:1px solid black;">english</td>
+<td style="border-right:1px solid black;">malay</td> 
+
+</tr><tr>
+<td colspan=2 bgcolor=beige style="border-top:1px solid black;"><strong>Vocabulary</strong>
+<br>first<br>
+thirteenth</td>
+</tr>
+</table>
+<p>
+
+<h3>For those who want to know more</h3>

@@ -1,0 +1,316 @@
+<? include "core1m.inc"; ?>
+
+<head>
+<title>Lesson 7 of A Basic Malay Language Course by pgoh13</title>
+<meta name="description" content="Lesson 7 of A basic course in Bahasa Malaysia (also known as Bahasa Melayu or the Malay language)" />
+</head>
+
+<H1>&nbsp;Lesson 7 (Days of the Week)</H1>
+
+<br><img src="l7hari.gif" class="img-responsive">
+<p>
+<br>
+<span class="glyphicon glyphicon-headphones glyphicon-large" aria-hidden="true"></span>
+<a href="l7hari.wav" target=_blank>Click to listen to the Malay sentences.</a><br>
+<br>
+<span class="glyphicon glyphicon-headphones glyphicon-large" aria-hidden="true"></span>
+<a href="ismat_lesson7.wma">A second reading</a> (by Michelle Nor Ismat, a native speaker)<br><br>
+
+<table class="table table-striped">
+<tr>
+<td style="border-right:1px solid black;border-top:1px solid black;">What day is it (today)?</td>
+<td style="border-right:1px solid black;border-top:1px solid black;">Hari ini hari apa?</td>
+</tr><tr>
+<td style="border-right:1px solid black;">Sunday</td>
+<td style="border-right:1px solid black;">hari Ahad</td>
+</tr><tr>
+<td style="border-right:1px solid black;">Monday</td>
+<td style="border-right:1px solid black;">hari Isnin</td>
+</tr><tr>
+<td style="border-right:1px solid black;">Tuesday</td>
+<td style="border-right:1px solid black;">hari Selasa</td>  
+</tr><tr>
+<td style="border-right:1px solid black;">Wednesday</td>
+<td style="border-right:1px solid black;">hari Rabu</td>
+</tr><tr>
+<td style="border-right:1px solid black;">Thursday</td>
+<td style="border-right:1px solid black;">hari Khamis</td>  
+</tr><tr>
+<td style="border-right:1px solid black;">Friday</td>
+<td style="border-right:1px solid black;">hari Jumaat</td>
+</tr><tr>
+<td style="border-right:1px solid black;">Saturday</td>
+<td style="border-right:1px solid black;">hari Sabtu</td> 
+</tr><tr>
+<td colspan=2 bgcolor=beige style="border-top:1px solid black;"><strong>Vocabulary</strong>
+<br>hari = day<br>
+  hari ini = today<br>
+  esok = tomorrow<br>
+  kelmarin = yesterday<br>
+  lusa =  the day after tomorrow<br>
+  minggu = week<br>
+  hari Minggu = Sunday<br>
+  kerana = because</td>
+</tr>
+</table>
+<p>
+
+<hr color=red>
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+<table><tr><td bgcolor=orange>
+<span class="black">
+<font color="darkblue"><font face="arial" size=3>
+
+<u> Practising in real time (if online)</u></font>
+<span class="black">
+<font color="darkblue"><font face="arial" size=2>
+ <br> <u>IF YOU ARE IN MALAYSIA:</u>  
+<font color="black"><br>
+<?
+$today= strftime ("%A",time()+25200);
+echo " Today is ".$today;
+if ($today=="Sunday") $today="hari Ahad";
+if ($today=="Monday") $today="hari Isnin";
+if ($today=="Tuesday") $today="hari Selasa";
+if ($today=="Wednesday") $today="hari Rabu";
+if ($today=="Thursday") $today="hari Khamis";
+if ($today=="Friday") $today="hari Jumaat";
+if ($today=="Saturday") $today="hari Sabtu";
+echo " = Hari ini ".$today;
+?>
+<br>
+<?
+$yesterday= strftime ("%A",time()-61200);
+echo "Yesterday was ".$yesterday;
+if ($yesterday=="Sunday") $yesterday="hari Ahad";
+if ($yesterday=="Monday") $yesterday="hari Isnin";
+if ($yesterday=="Tuesday") $yesterday="hari Selasa";
+if ($yesterday=="Wednesday") $yesterday="hari Rabu";
+if ($yesterday=="Thursday") $yesterday="hari Khamis";
+if ($yesterday=="Friday") $yesterday="hari Jumaat";
+if ($yesterday=="Saturday") $yesterday="hari Sabtu";
+echo " = Kelmarin ".$yesterday;
+?>
+<br>
+<?
+$tomorrow= strftime ("%A",time()+111600);
+echo "Tomorrow will be ".$tomorrow;
+if ($tomorrow=="Sunday") $tomorrow="hari Ahad";
+if ($tomorrow=="Monday") $tomorrow="hari Isnin";
+if ($tomorrow=="Tuesday") $tomorrow="hari Selasa";
+if ($tomorrow=="Wednesday") $tomorrow="hari Rabu";
+if ($tomorrow=="Thursday") $tomorrow="hari Khamis";
+if ($tomorrow=="Friday") $tomorrow="hari Jumaat";
+if ($tomorrow=="Saturday") $tomorrow="hari Sabtu";
+echo " = Esok ".$tomorrow;
+?>
+
+<span class="black">
+<font color="darkblue"><font face="arial" size=2>
+ <br> <u>IF YOU ARE IN FRANCE:</u>  
+<font color="black"><br>
+<?
+$today= strftime ("%A");
+echo " Today is ".$today;
+if ($today=="Sunday") $today="hari Ahad";
+if ($today=="Monday") $today="hari Isnin";
+if ($today=="Tuesday") $today="hari Selasa";
+if ($today=="Wednesday") $today="hari Rabu";
+if ($today=="Thursday") $today="hari Khamis";
+if ($today=="Friday") $today="hari Jumaat";
+if ($today=="Saturday") $today="hari Sabtu";
+echo " = Hari ini ".$today;
+?>
+<br>
+<?
+$yesterday= strftime ("%A",time()-86400);
+echo "Yesterday was ".$yesterday;
+if ($yesterday=="Sunday") $yesterday="hari Ahad";
+if ($yesterday=="Monday") $yesterday="hari Isnin";
+if ($yesterday=="Tuesday") $yesterday="hari Selasa";
+if ($yesterday=="Wednesday") $yesterday="hari Rabu";
+if ($yesterday=="Thursday") $yesterday="hari Khamis";
+if ($yesterday=="Friday") $yesterday="hari Jumaat";
+if ($yesterday=="Saturday") $yesterday="hari Sabtu";
+echo " = Kelmarin ".$yesterday;
+?>
+<br>
+<?
+$tomorrow= strftime ("%A",time()+86400);
+echo "Tomorrow will be ".$tomorrow;
+if ($tomorrow=="Sunday") $tomorrow="hari Ahad";
+if ($tomorrow=="Monday") $tomorrow="hari Isnin";
+if ($tomorrow=="Tuesday") $tomorrow="hari Selasa";
+if ($tomorrow=="Wednesday") $tomorrow="hari Rabu";
+if ($tomorrow=="Thursday") $tomorrow="hari Khamis";
+if ($tomorrow=="Friday") $tomorrow="hari Jumaat";
+if ($tomorrow=="Saturday") $tomorrow="hari Sabtu";
+echo " = Esok ".$tomorrow;
+?>
+<br>
+<span class="black">
+<font color="darkblue"><font face="arial" size=2>
+ <u>IF YOU ARE IN NEW YORK:</u>  
+<font color="black"><br>
+<?
+$today= strftime ("%A",time()-18000);
+echo " Today is ".$today;
+if ($today=="Sunday") $today="hari Ahad";
+if ($today=="Monday") $today="hari Isnin";
+if ($today=="Tuesday") $today="hari Selasa";
+if ($today=="Wednesday") $today="hari Rabu";
+if ($today=="Thursday") $today="hari Khamis";
+if ($today=="Friday") $today="hari Jumaat";
+if ($today=="Saturday") $today="hari Sabtu";
+echo " = Hari ini ".$today;
+?>
+<br>
+<?
+$yesterday= strftime ("%A",time()-104400);
+echo "Yesterday was ".$yesterday;
+if ($yesterday=="Sunday") $yesterday="hari Ahad";
+if ($yesterday=="Monday") $yesterday="hari Isnin";
+if ($yesterday=="Tuesday") $yesterday="hari Selasa";
+if ($yesterday=="Wednesday") $yesterday="hari Rabu";
+if ($yesterday=="Thursday") $yesterday="hari Khamis";
+if ($yesterday=="Friday") $yesterday="hari Jumaat";
+if ($yesterday=="Saturday") $yesterday="hari Sabtu";
+echo " = Kelmarin ".$yesterday;
+?>
+<br>
+<?
+$tomorrow= strftime ("%A",time()+68400);
+echo "Tomorrow will be ".$tomorrow;
+if ($tomorrow=="Sunday") $tomorrow="hari Ahad";
+if ($tomorrow=="Monday") $tomorrow="hari Isnin";
+if ($tomorrow=="Tuesday") $tomorrow="hari Selasa";
+if ($tomorrow=="Wednesday") $tomorrow="hari Rabu";
+if ($tomorrow=="Thursday") $tomorrow="hari Khamis";
+if ($tomorrow=="Friday") $tomorrow="hari Jumaat";
+if ($tomorrow=="Saturday") $tomorrow="hari Sabtu";
+echo " = Esok ".$tomorrow;
+?>
+</td></tr></table>
+
+
+
+
+
+
+
+<br>
+<h3>For those who want to know more</h3>
+
+<br><br>
+<p>
+My wife always goes to market on Sundays.  = <font color=red>  Isteri saya selalu pergi ke pasar pada hari Ahad.</font> or <font color=red>Isteri saya selalu ke pasar pada hari Ahad.</font>  
+<br><u>    Note:  </u> When the preposition of direction (<font color=red>ke</font> = towards) is used  the verb "to go" (<span class=red>pergi</font>) can be omitted in Malay.
+<br>  <font color=red>hari Ahad </font>   (Sunday) is also known as  <font color=red>hari Minggu</font>  .
+<br> <font color=red>hari jadi </font>   = birthday.     (This is used more often than   <font color=red>hari lahir</font> which literally means "day of birth"  ).  To wish someone a happy birthday in Bahasa Malaysia you'd say <font color=red>Selamat hari jadi!</font>
+<br> <font color=red>hari besar </font>   = festival day.     (It literally means "big day"  ).
+<br> <font color=red>hari gaji </font>   = pay day     (<font color=red>gaji</font> by itself means "salary".  &nbsp;<font color=red>Bila hari gaji?</font> (When is pay day?) is a question often heard in offices.  Let's be frank, why is everyone there if not for this?  
+<br> <font color=red>Hari Kebangsaan </font> = National Day.     It falls on 31st August and is also known as <font color=red>Hari Kemerdekaan </font> (Independence Day)  .
+<br> The Malay term for public holiday is <font color=red>cuti am</font> or <font color=red>cuti umum</font>.  But if you hear <font color=red>hari cuti </font> or <font color=red>hari kelepasan </font> don't you worry.  They all mean the same thing. (The opposite of this, by the way, is <font color=red>hari kerja </font> i.e. a working day, <font color=red>kerja </font> meaning work).
+<br>By the way you might also hear <font color=red>Dia cuti </font> meaning He/She is on leave (note that the verb is omitted here).  If you want to specify that he is not on holiday but on sick leave you would say <font color=red>Dia cuti sakit.</font>  The word <font color=red>sakit</font>, as you will see in Lesson 16, means "sick".
+<br>Thus <font color=red>Dia tidak pergi ke pejabatnya hari ini kerana cuti sakit</font> means "He did not go to his office today because he is on sick leave."  
+<br>"Annual leave" is <font color=red>cuti tahunan</font> (the word <font color=red>tahun</font> means "year").
+<br>"School holidays" is <font color=red>cuti sekolah</font>.
+<br>And lastly "to  take leave" is <font color=red>ambil cuti</font>.
+<br>
+<font color=red>Hari Natal </font> is the "pure" Malay word for Christmas Day though the "English" version <font color=red>Hari Krismas </font> seems to be more used.
+<br> <font color=red>tiap-tiap hari </font>   =  every day
+<br>Just as in English the word "daily" means the same thing as "every day", in Malay too you can also say  <font color=red>setiap hari </font>  instead of <font color=red>tiap-tiap hari.</font>
+<br>Note that there are three syllables in the word <font color=red>Jumaat</font> (pronounced as joo-ma-art)
+
+
+
+
+
+
+
+
+<p>Now let's see if you know what day it is today.
+<br>Answer either <em>Ya, betul</em> or <em>Tidak, hari ini hari .....</em> to the question below:
+<br>
+<?php
+$today=date("l");
+
+if ($today=="Monday")
+  echo "<font color=red>Hari ini hari Isnin. Betulkah?</font><br />";
+ 
+if ($today=="Tuesday")
+  echo "<font color=red>Hari ini hari Selasa. Betulkah?</font><br />";
+ 
+if ($today=="Wednesday")
+  echo "<font color=red>Hari ini hari Rabu. Betulkah?</font><br />";
+ 
+if ($today=="Thursday")
+  echo "<font color=red>Hari ini hari Khamis. Betulkah?</font><br />";
+ 
+if ($today=="Friday")
+  echo "<font color=red>Hari ini hari Jumaat. Betulkah?</font><br />";
+  
+if ($today=="Saturday")
+  echo "<font color=red>Hari ini hari Sabtu. Betulkah?</font><br />";
+ 
+if ($today=="Sunday")
+  echo "<font color=red>Hari ini hari Ahad. Betulkah?</font><br />";
+
+?>
+(Sorry, I'm not there to see if you have replied correctly.)
+<br>But you can check from the table above for the right answer.
+</p>
+
+
+
+
+
+
+
+
+<div class="container">
+	<div class="row">
+		
+			<h2>semalam or kelmarin?</h2>
+			<p>I am reproducing (with his permission) an email from Nuno, a Portuguese student of Bahasa Malaysia, whose questions could be asked by other learners as well, so I am putting my reply here for the benefit of all:
+</p>
+<div class="container"><br />
+<p class="col-sm-7" style="border:1px solid black;background-color:beige;padding-top:10px;padding-bottom:10px">
+<i>Hi,
+<br />I was reading the Malay phrasebook from Lonely Planet and on page 190 they write:
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- yesterday: <font color=red>semalam</font> (in your Lesson 7 it is <font color=red>kelmarin</font>)
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- the day before yesterday: <font color=red>kelmarin</font>
+<br />What is most popular, <font color=red>bertutur bahasa Melayu</font> or <font color=red>cakap bahasa Melayu</font>?
+<br />Regards,
+<br />Nuno</i></p>
+</div>
+
+<p>Thank you for your questions, Nuno.  Here are the answers:
+<br />1.  Actually both <font color=red>semalam</font> and <font color=red>kelmarin</font> can be used for "yesterday", depending on which state you are in (in Penang, for example, <font color=red>kelmarin</font> is more often used than <font color=red>semalam</font>).   However, as I am no expert, I will quote from the authoritative <em>Kamus Dewan</em> dictionary published by the Dewan Bahasa dan Pustaka, the authority on Bahasa Malaysia.  It gives 3 possible meanings for the word <font color=red>kelmarin</font>:
+<br /><font color=red>sehari sebelum hari ini, semalam</font>  As an example it gives the sentence: <font color=red>Hari ini hari Khamis, semalam hari Rabu</font> (Today is Thursday, yesterday was Wednesday.)
+<br />(ii) <font color=red>dua hari sebelum hari ini, sehari sebelum semalam</font>  As an example it gives the sentence: <font color=red>Hari ini hari Khamis, jadi kelmarin hari Selasa</font> (Today is Thursday, so the day before yesterday was Tuesday.)
+<br />(iii) <font color=red>beberapa hari (minggu) yang lepas</font>  As an example it gives the sentence: <font color=red>Dia sedang dirawat di rumah sakit kerana dilanggar kereta kelmarin</font> (He is being treated at the hospital because he was knocked down by a car a few days/weeks ago.)
+<br />The dictionary further adds that in Kedah and Penang, <font color=red>kelmarin dulu</font> means <font color=red>dua hari sebelum hari ini</font>.  So if you really need the Malay equivalent of "the day before yesterday" you can either say <font color=red>kelmarin dulu</font> or <font color=red>dulu semalam</font>.
+<br />It is all very confusing, I know, more so for a learner and to avoid all ambiguity, I would suggest that you simply use the name of the day itself instead.  Thus if the day before yesterday was Monday you could just say <font color=red>hari Isnin yang lalu</font> (last Monday) and there would not be the slightest doubt or ambiguity about it!
+<br />2. As to your second question you can say either <font color=red>Saya boleh bertutur Bahasa Melayu</font> or <font color=red>Saya boleh bercakap Bahasa Melayu</font> for "I can speak the Malay language".  They both mean exactly the same thing though for a beginner it would be a bit presumptuous to use <font color=red>bertutur</font> instead of <font color=red>bercakap</font> as <font color=red>bercakap</font> is what the man-in-the-street would say.
+
+<br>
+<p><a class="btn btn-primary btn-lg" style="background-color:black;" href="lesson6.php" role="button"><span class="glyphicon glyphicon-home glyphicon-chevron-left" aria-hidden="true"></span>&nbsp;Previous lesson</a>&nbsp;&nbsp;&nbsp;
+<a class="btn btn-primary btn-lg" style="background-color:black;" href="table_contents.htm" role="button"><span class="glyphicon glyphicon-home glyphicon-list-alt" aria-hidden="true"></span>&nbsp;Table of Contents</a>&nbsp;&nbsp;&nbsp;
+<a class="btn btn-primary btn-lg" style="background-color:black;" href="lesson8.php" role="button">Next lesson&nbsp;<span class="glyphicon glyphicon-home glyphicon-chevron-right" aria-hidden="true"></span></a></p>
+
+
+
+<? include "core2m.inc"; ?>

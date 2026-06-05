@@ -1,0 +1,113 @@
+<? include "core1m.inc"; ?>
+
+<head>
+<title>Lesson 1 of A Basic Malay Language Course by pgoh13</title>
+<meta name="description" content="Lesson 1 of A basic course in Bahasa Malaysia (also known as Bahasa Melayu or the Malay language)" />
+</head>
+
+<h1>Lesson 1  &nbsp;Nama  <small style="color:white;">(Name)</small></h1>
+<br><img src="l1nama.gif" class="img-responsive">
+
+<p>
+<br>
+<span class="glyphicon glyphicon-headphones glyphicon-large" aria-hidden="true"></span>
+<a href="l1nama.wav" target=_blank>Click to listen to the Malay sentences.</a><br>
+
+<br>
+<span class="glyphicon glyphicon-headphones glyphicon-large" aria-hidden="true"></span>
+<a href="ismat_lesson1.wma">A second reading</a> (by Michelle Nor Ismat, a native speaker)<br><br>
+
+<table class="table table-striped">
+<tr>
+<td style="border-right:1px solid black;border-top:1px solid black;">What is your name?</td>
+<td style="border-right:1px solid black;border-top:1px solid black;">Apa nama anda?</td>
+</tr><tr>
+<td style="border-right:1px solid black;">My name is John.</td>
+<td style="border-right:1px solid black;">Nama saya John.</td>    
+</tr><tr>
+<td style="border-right:1px solid black;">He is my friend.  <img style="width:23px" alt="Peter" title="Peter" src="man.jpg" /></td>
+<td style="border-right:1px solid black;">Dia kawan saya.  <img style="width:23px" alt="Peter" title="Peter" src="man.jpg" /></td>
+</tr><tr>
+<td style="border-right:1px solid black;">What is his name?</td>
+<td style="border-right:1px solid black;">Apa namanya?</td>
+</tr><tr>
+<td style="border-right:1px solid black;">His name is Peter.</td>
+<td style="border-right:1px solid black;">Namanya Peter.</td>
+</tr><tr>
+<td style="border-right:1px solid black;">She is my friend.  <img style="width:23px" alt="Mary" title="Mary" src="woman.jpg" /></td>
+<td style="border-right:1px solid black;">Dia kawan saya.  <img style="width:23px" alt="Mary" title="Mary" src="woman.jpg" /></td>
+</tr><tr>
+
+<td style="border-right:1px solid black;">What is her name?</td>
+<td style="border-right:1px solid black;">Apa namanya?</td>
+</tr><tr>
+<td style="border-right:1px solid black;">Her name is Mary.</td>
+<td style="border-right:1px solid black;">Namanya Mary.</td>
+</tr><tr>
+
+<td colspan=2 bgcolor=beige style="border-top:1px solid black;"><strong>Vocabulary:</strong>
+<br>Apa = What<br />
+nama = name<br />
+anda = you or your<br />
+saya = I or my<br />
+kawan = friend<br />
+dia = he OR she<br />
+mereka = they<br />
+nama anda = your name<br />
+namanya = his/her name<br />
+nama saya = my name<br />
+kawan anda= your friend<br />
+kawannya = his/her friend</td>    
+</tr>
+</table>
+
+
+<p>The first thing you will notice is the absence of the verb "to be" in Malay in the above sentences.
+<br />In fact <span style="color:yellow;background-color:black;padding:0 4px;">the verb "to be" is simply not needed here</span>.
+<br />A sentence without a verb?  Yes, it's possible in Malay.
+<br />Those who had to struggle with the conjugation of the verb "to be" in French or Spanish will be greatly relieved to hear this!  &nbsp;(Having said that, people who feel lost without putting in a verb in a sentence can note that the word <font color=red>adalah </font> is sometimes used for the verb "is".  Thus <font color=red>Dia guru saya </font> and <font color=red>Dia adalah guru saya </font> both mean "He/She is my teacher".)
+<br />Another thing you will notice is that while in English we have the pronoun before the noun (eg. my name, your name) in Malay it is just the opposite ie. <span style="color:yellow;background-color:black;padding:0 4px;">the noun comes first then the pronoun</span> (so in Malay we say "name my", "name your").  If you remember this it will serve you throughout this course as it is the same word order when it comes to adjectives and nouns (so "big car" becomes "car big" in Malay).
+
+<br />The third important thing to remember is something that you'd better get right from the very beginning and that is <span style="color:yellow;background-color:black;padding:0 4px;">the same pronoun <font color=red>dia</font> is used for BOTH "he" and "she" (the same is true for <font color=red>nya</font> (see below).</span>  Only the context will tell whether you're talking about a man or a woman.
+
+<br><p style="display:block;background-color:yellow;padding:10px;">If you should be confused by this just try to think of <font color=red>dia</font> as meaning "that person" which, as you know, can refer to a man or a woman, so can be a "he" or a "she".</p>
+
+<p>Please note that the colloquial forms (<font color=red>Apa nama anda? </font> and  <font color=red>Apa namanya? </font>) are used in this lesson.  The formal forms would be <font color=red>Siapa nama anda? </font> and  <font color=red>Siapa namanya? </font> <br />The formal forms only confuse English-speaking students because <font color=red>Siapa </font> actually means "Who" as in <font color=red>Siapa dia?</font> = "Who is he (or she)?" while <font color=red>Apa </font> normally means "What" as in <font color=red>Apa ini? </font> (What is this?).  So to make it easier for English-speaking students (why be pedantic when you are a beginner?) I am using the colloquial form.  Please note that this course is aimed at giving you a basic knowledge so you can get around in Malaysia and not to make you a Malay language expert.  Those hoping to become Malay scholars will have to go to a proper school.
+</p>
+
+<h3>For those who want to know more:</h3>
+
+<p>You will notice that the suffix <font color=red>nya </font> is tagged on to the noun to indicate "his" or "her".  So <font color=red>namanya </font> can either mean "his name" or "her name" (depending on the context).  Similarly <font color=red>bukunya </font> can mean "his book" or "her book" and  <font color=red>kawannya </font> can mean "his friend" or "her friend".
+<br />
+So far you have learnt the Malay pronouns for I, you, he and she.
+<br />
+The Malay word for the pronoun "they" or "them" is <font color=red>mereka</font>.  To help you remember I am going to bring up three common names: Murphy, Raymond and Kazan, the famous Hollywood film director.  What is so special about these three people, you might ask.  Well, if you remember them, they're not only going to help you remember the Malay word for "they" or "them" but also help you to pronounce the word correctly.  How is this possible?  Well just pronounce the FIRST syllable of each of the three names and you will get  <font color=red>mereka</font> as it should be pronounced (Mur-Ray-Ka).  I hope this little mnemonic will be of help to you.  At least it will show you that the e vowel has got two different sounds in Malay (see Lesson 50), one the schwa sound as the "Mur" in Murphy (the phonetic symbol for this sound being &#x0259;) and the other the ay sound as in Ray (if you know French, it's the sound of &eacute;). 
+
+<br>When you are asked your name in a social context in Malaysia you don't have to worry too much about whether you should give your first name, your family name or both your first name and family name together.  Just give whatever you want though normally Malaysians give the name they would like friends to call them by and not the entire name. 
+<br /><em>Apa nama anda?</em>    (literally "What is your name?", which is not wrong for most Malaysians and makes your learning so much easier, though your Malay teachers will probably tear me to pieces for this!)
+<br>Ok, to be more correct (and to please your Malay teachers!) the correct form is:
+<br><em>Siapa nama anda?</em>    (which means literally "Who is your name?")</p>
+
+<h3>Important note on the pronunciation used in this course</h3>
+<p>Email received from BH on 2 January 2015:
+<br><em>I am confused with the "a" pronunciation at the end of a word. 
+<br>I always hear <font color=red>jumpa, kerja</font> with "a" pronounced as "er" instead of "ar". And it sounds kind of weird to pronounce it as "ar".  But when it comes to "anda" I always hear it pronounced as "ar". 
+<br>I know "ar" is the right way but sound rather unnatural at times.  I hear "er" even in radio or TV programmes. Pls advise. Thanks.</em>
+<br><br>
+The answer is as follows:
+<br>Although in a number of states in Malaysia the "a" vowel in the final syllable, as in <font color=red>Apa,  nama </font> and <font color=red>saya </font> is pronounced er (as in the second vowel in "butter") and represented by the phonetic symbol &#x0259;, I am here pronouncing it exactly as the "a" in the first syllable (which has the sound of "ah").  This was one of the recommendations in <font color=red>bahasa baku </font> (standard Malay pronunciation) which, incidentally, has since been scrapped by the Malaysian government after its attempt at standardizing Malay pronunciation failed.  As they say, habits die hard and the Malays in many states are so used to pronouncing the "a" vowel in the final syllable as "er" that nothing can make them change their way of pronunciation.
+<br>In all my lessons I try to simplify things as much as possible so that students won't get confused by less important points (the main objective being that they are understood when they speak Malay and not to try to speak like the locals).  Well I guess you can't have everything and have to make small sacrifices in the bigger interest.
+<br />In fact the learning of Bahasa Malaysia can be complicated by the fact that many states (Kelantan, Negeri Sembilan, Pinang, etc.) possess their own dialect or local accents.  This is called <font color=red>bahasa daerah</font> (or <font color=red>loghat</font>) in Bahasa Malaysia.
+<br />By the way I prefer that you learn the Malay sounds bit by bit from each lesson instead of presenting you all the vowel and consonant sounds in the very first lesson.  On the whole, Malay pronunciation is not a problem for English language speakers.  There are a small number of difficult sounds though and these are summarized in two entire lessons (Lessons 49 and 50). 
+
+<br><br>
+<p>If this lesson is not enough for you and you want to learn all about the intricacies of the Malay pronoun <a href="lesson1_malaypronoun.htm">go here.</a>  There you will understand why I have to use <font color=red>anda</font> throughout the course for "you" when words like <font color=red>kamu</font> or <font color=red>awak</font> are normally used (of course if you know this please substitute <font color=red>kamu</font> or <font color=red>awak</font> for <font color=red>anda</font> each time).
+<br>But that lesson is more of cultural interest.  I would suggest you just go on to <a href=lesson2bahasa.htm>Lesson 2</a></p>
+<br>
+<p>
+<a class="btn btn-primary btn-lg" style="background-color:black;" href="table_contents.htm" role="button"><span class="glyphicon glyphicon-home glyphicon-list-alt" aria-hidden="true"></span>&nbsp;Table of Contents</a>&nbsp;&nbsp;&nbsp;
+<a class="btn btn-primary btn-lg" style="background-color:black;" href="lesson2.php" role="button">Next lesson&nbsp;<span class="glyphicon glyphicon-home glyphicon-chevron-right" aria-hidden="true"></span></a></p>
+
+
+
+<? include "core2m.inc"; ?>
